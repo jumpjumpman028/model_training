@@ -13,13 +13,14 @@ from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.utils.class_weight import compute_class_weight
 from gensim.models import KeyedVectors
 
+
 # ==========================================
 # 📂 1. 設定與路徑
 # ==========================================
 current_dir = os.path.dirname(os.path.abspath(__file__))
 fasttext_model_path = os.path.join(current_dir, "fasttext_zh.kv")
-train_file = os.path.join(current_dir, "train.jsonl")  
-test_file = os.path.join(current_dir, "test.jsonl")
+train_file = os.path.join(current_dir,"task_01234_vs_5", "train.jsonl")  
+test_file = os.path.join(current_dir,"task_01234_vs_5", "test.jsonl")
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"🔥 使用運算裝置: {device}")
@@ -45,8 +46,14 @@ def extract_features(word1, word2, model):
     vec2 = model[word2] if word2 in model else np.zeros(300)
     cos_sim = model.similarity(word1, word2) if (word1 in model and word2 in model) else 0.0
     abs_diff = np.abs(vec1 - vec2)
-    # euclidean_dist = np.linalg.norm(vec1 - vec2)
-    return np.concatenate([vec1, vec2, abs_diff, np.array([cos_sim])])
+
+    set1 = set(word1)
+    set2 = set(word2)
+    intersection = len(set1.intersection(set2))
+    union = len(set1.union(set2))
+    char_overlap = intersection / union if union > 0 else 0.0
+
+    return np.concatenate([vec1, vec2])
 
 def load_data(file_path, model):
     X, Y = [], []
@@ -69,11 +76,12 @@ print("\n📊 正在統計訓練資料比例...")
 counts = np.bincount(y_train_raw)
 n0, n1 = counts[0], counts[1]
 w0 = 1.0
-w1 = n0 / n1  # 以數量多的類別為基準
+multiplier = 1.2 #調整1的權重
+w1 = (n0 / n1) * multiplier  # 以數量多的類別為基準
 class_weights_tensor = torch.tensor([w0, w1], dtype=torch.float32).to(device)
 
-print(f"   - 非同義詞 (0): {n0} 筆 (權重: {w0:.2f})")
-print(f"   - 同義詞 (1)  : {n1} 筆 (權重: {w1:.2f})")
+print(f"   - 非近義詞 (0): {n0} 筆 (權重: {w0:.2f})")
+print(f"   - 近義詞 (1)  : {n1} 筆 (權重: {w1:.2f})")
 print(f"   - 套用 Tensor: torch.tensor([{w0:.2f}, {w1:.2f}])")
 
 scaler = StandardScaler()
@@ -129,7 +137,7 @@ model = BinaryMLP(X_train_scaled.shape[1]).to(device)
 # 🌟 換成 Focal Loss，針對少數樣本強力優化
 criterion = FocalLoss(weight=class_weights_tensor, gamma=4.0)
 # optimizer = optim.AdamW(model.parameters(), lr=0.001, weight_decay=0.05)
-optimizer = optim.AdamW(model.parameters(), lr=0.0008, weight_decay=0.01)
+optimizer = optim.AdamW(model.parameters(), lr=0.001, weight_decay=0.01)
 # 🌟 學習率自動調速器：當 Test Loss 不再下降，自動把 LR 砍半
 scheduler = optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', patience=3, factor=0.5)
 
@@ -194,7 +202,7 @@ with torch.no_grad():
 y_pred = np.array(all_preds)
 
 # 取得分類報告
-target_names = ['非同義詞 (0)', '同義詞 (1)']
+target_names = ['非近義詞 (0)', '近義詞 (1)']
 report = classification_report(y_test_raw, y_pred, target_names=target_names, output_dict=True, zero_division=0)
 
 # 【區塊 A】: 總體成績 (你要的 Accuracy, Macro F1, Recall 全都在這！)
@@ -240,7 +248,7 @@ final_report = pd.concat([
 ], ignore_index=True)
 
 # 匯出 Excel
-excel_filename = os.path.join(current_dir, "mlp_詳細正確率.xlsx")
+excel_filename = os.path.join(current_dir, "近義詞mlp_詳細正確率.xlsx")
 final_report.to_excel(excel_filename, index=False, header=False)
 
 total_train_time = time.time() - start_time
