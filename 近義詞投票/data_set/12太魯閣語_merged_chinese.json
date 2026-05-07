@@ -1,0 +1,713 @@
+{
+    "bukung": {
+        "fm_word": "bukung",
+        "新詞中文": "村長",
+        "字面意義": "長官",
+        "辭典中文": "領袖;領導者",
+        "原始新詞資料": {
+            "fm_word": "bukung",
+            "ch_semantic": "長官",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "領袖;領導者",
+                        "example": [
+                            {
+                                "fm_sentence": "Malu bi bukung Truku ka hiya.",
+                                "ch_sentence": "他是太魯閣族很好的領導者。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "endaan": {
+        "fm_word": "endaan",
+        "新詞中文": "經驗",
+        "字面意義": "經過的路",
+        "辭典中文": "走過",
+        "原始新詞資料": {
+            "fm_word": "endaan",
+            "ch_semantic": "經過的路",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "euda",
+                "sense": [
+                    {
+                        "ch_sense": "走過",
+                        "example": [
+                            {
+                                "fm_sentence": "Malu balay endaan rudan ta sbiyaw.",
+                                "ch_sentence": "紀念祖先走過的（足跡）。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tnxalun": {
+        "fm_word": "tnxalun",
+        "新詞中文": "公里",
+        "字面意義": "公尺",
+        "辭典中文": "一個雙臂",
+        "原始新詞資料": {
+            "fm_word": "tnxalun",
+            "ch_semantic": "公尺",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "tmnxal",
+                "sense": [
+                    {
+                        "ch_sense": "一個雙臂",
+                        "example": [
+                            {
+                                "fm_sentence": "Tnxalun bi knlbangan.",
+                                "ch_sentence": "一個雙臂的長度"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "spngan": {
+        "fm_word": "spngan",
+        "新詞中文": "公斤",
+        "字面意義": "重量;秤子",
+        "辭典中文": "測量",
+        "原始新詞資料": {
+            "fm_word": "spngan",
+            "ch_semantic": "重量;秤子",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "spu",
+                "sense": [
+                    {
+                        "ch_sense": "測量",
+                        "example": [
+                            {
+                                "fm_sentence": "Empaabnuqir nanak ka kingal spngan dxgal mu.",
+                                "ch_sentence": "那地將來要成為一塊小箭竹園。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "peiyah": {
+        "fm_word": "peiyah",
+        "新詞中文": "生產",
+        "字面意義": "產出",
+        "辭典中文": "使…出來",
+        "原始新詞資料": {
+            "fm_word": "peiyah",
+            "ch_semantic": "產出",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "iyah",
+                "sense": [
+                    {
+                        "ch_sense": "使…出來",
+                        "example": [
+                            {
+                                "fm_sentence": "Ini peiyah nusa mu ngangut ka nkan mu lala hlama.",
+                                "ch_sentence": "我多吃了米糕讓我便秘。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "nuhur": {
+        "fm_word": "nuhur",
+        "新詞中文": "豪大雨",
+        "字面意義": "豪大雨",
+        "辭典中文": "豪雨（發生意外死亡所下的大雨,失魂雨）。",
+        "原始新詞資料": {
+            "fm_word": "nuhur",
+            "ch_semantic": "豪大雨",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "豪雨（發生意外死亡所下的大雨,失魂雨）。",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ruhaw": {
+        "fm_word": "ruhaw",
+        "新詞中文": "海嘯",
+        "字面意義": "急流",
+        "辭典中文": "伴隨土石的急流 / 不緊",
+        "原始新詞資料": {
+            "fm_word": "ruhaw",
+            "ch_semantic": "急流",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "伴隨土石的急流",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "不緊",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "gaya": {
+        "fm_word": "gaya",
+        "新詞中文": "制度",
+        "字面意義": "法律",
+        "辭典中文": "禁忌規範;傳統規範",
+        "原始新詞資料": {
+            "fm_word": "gaya",
+            "ch_semantic": "法律",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "禁忌規範;傳統規範",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "qpahun": {
+        "fm_word": "qpahun",
+        "新詞中文": "責任",
+        "字面意義": "你應該要做的事",
+        "辭典中文": "工作",
+        "原始新詞資料": {
+            "fm_word": "qpahun",
+            "ch_semantic": "你應該要做的事",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "qeepah",
+                "sense": [
+                    {
+                        "ch_sense": "工作",
+                        "example": [
+                            {
+                                "fm_sentence": "Yamu o dmbriqax elug ka qpahun namu.",
+                                "ch_sentence": "你們工作是做路障。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pgkla": {
+        "fm_word": "pgkla",
+        "新詞中文": "認證",
+        "字面意義": "使知道",
+        "辭典中文": "證明",
+        "原始新詞資料": {
+            "fm_word": "pgkla",
+            "ch_semantic": "使知道",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kla",
+                "sense": [
+                    {
+                        "ch_sense": "證明",
+                        "example": [
+                            {
+                                "fm_sentence": "Mreurung musa mdkrang pgkla gaya bi ka Sita Duku.",
+                                "ch_sentence": "Sita Duku（人名）去出草是為了向神靈證明他嚴孚生活規範"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "gmaaw": {
+        "fm_word": "gmaaw",
+        "新詞中文": "甄選",
+        "字面意義": "選擇",
+        "辭典中文": "挑選",
+        "原始新詞資料": {
+            "fm_word": "gmaaw",
+            "ch_semantic": "選擇",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "gaaw",
+                "sense": [
+                    {
+                        "ch_sense": "挑選",
+                        "example": [
+                            {
+                                "fm_sentence": "Gaga gmaaw bunga ka bubu na.",
+                                "ch_sentence": "他的母親在挑選地瓜。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "gmquring": {
+        "fm_word": "gmquring",
+        "新詞中文": "研究",
+        "字面意義": "費心思",
+        "辭典中文": "要研究到底",
+        "原始新詞資料": {
+            "fm_word": "gmquring",
+            "ch_semantic": "費心思",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "gquring",
+                "sense": [
+                    {
+                        "ch_sense": "要研究到底",
+                        "example": [
+                            {
+                                "fm_sentence": "Gmquring ta bi ka euda o lala kngkla ta.",
+                                "ch_sentence": "一切的事情研究到底就會增廣見聞。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "knkla": {
+        "fm_word": "knkla",
+        "新詞中文": "才華",
+        "字面意義": "多樣的知道",
+        "辭典中文": "才能 / 智力 / 知識",
+        "原始新詞資料": {
+            "fm_word": "knkla",
+            "ch_semantic": "多樣的知道",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kla",
+                "sense": [
+                    {
+                        "ch_sense": "才能",
+                        "example": [
+                            {
+                                "fm_sentence": "Kana bkbukung ga o niqan bi knkla ni mrmun bi kana.",
+                                "ch_sentence": "那些領袖很有才能和勇氣。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "智力",
+                        "example": [
+                            {
+                                "fm_sentence": "Gmihu knkla na ka laqi na.",
+                                "ch_sentence": "他的孩子智商很高。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "知識",
+                        "example": [
+                            {
+                                "fm_sentence": "Ana mndka ka pntasan o ini pdka ka knkla.",
+                                "ch_sentence": "雖然求學過程一樣，但所獲得的知識卻不同。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "peelih": {
+        "fm_word": "peelih",
+        "新詞中文": "打折(折扣)",
+        "字面意義": "減少",
+        "辭典中文": "減少",
+        "原始新詞資料": {
+            "fm_word": "peelih",
+            "ch_semantic": "減少",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "elih",
+                "sense": [
+                    {
+                        "ch_sense": "減少",
+                        "example": [
+                            {
+                                "fm_sentence": "Ma su ini bi peelih ana bilaq bnrigan qngqaya, aji ku maah do o!",
+                                "ch_sentence": "你怎麼賣器具都不會便宜一點，我不再來囉！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mkray": {
+        "fm_word": "mkray",
+        "新詞中文": "漲價",
+        "字面意義": "貴了",
+        "辭典中文": "貴的",
+        "原始新詞資料": {
+            "fm_word": "mkray",
+            "ch_semantic": "貴了",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kray",
+                "sense": [
+                    {
+                        "ch_sense": "貴的",
+                        "example": [
+                            {
+                                "fm_sentence": "Empbahat ku han, kiha mkray.",
+                                "ch_sentence": "現在冬瓜價錢好所以我要種冬瓜。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mhnuk": {
+        "fm_word": "mhnuk",
+        "新詞中文": "降價",
+        "字面意義": "便宜",
+        "辭典中文": "軟的;便宜",
+        "原始新詞資料": {
+            "fm_word": "mhnuk",
+            "ch_semantic": "便宜",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "hnuk",
+                "sense": [
+                    {
+                        "ch_sense": "軟的;便宜",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ksaan": {
+        "fm_word": "ksaan",
+        "新詞中文": "徒步區",
+        "字面意義": "",
+        "辭典中文": "獵場",
+        "原始新詞資料": {
+            "fm_word": "ksaan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "ksa",
+                "sense": [
+                    {
+                        "ch_sense": "獵場",
+                        "example": [
+                            {
+                                "fm_sentence": "Ksaan mu ka dgiyaq gaga.",
+                                "ch_sentence": "我去打獵的地方"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "dngil": {
+        "fm_word": "dngil",
+        "新詞中文": "膠水",
+        "字面意義": "",
+        "辭典中文": "黏膠 / 黏黏的",
+        "原始新詞資料": {
+            "fm_word": "dngil",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "黏膠",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "黏黏的",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "lituk": {
+        "fm_word": "lituk",
+        "新詞中文": "公頃",
+        "字面意義": "",
+        "辭典中文": "一塊地 / 人名（女） / 圍住 / 剩下",
+        "原始新詞資料": {
+            "fm_word": "lituk",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "一塊地",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "人名（女）",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "圍住",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "剩下",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "hnang": {
+        "fm_word": "hnang",
+        "新詞中文": "分貝(聲音)",
+        "字面意義": "",
+        "辭典中文": "聲音 / 謠言",
+        "原始新詞資料": {
+            "fm_word": "hnang",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "聲音",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "謠言",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ayang": {
+        "fm_word": "ayang",
+        "新詞中文": "石化燃料",
+        "字面意義": "",
+        "辭典中文": "煤油",
+        "原始新詞資料": {
+            "fm_word": "ayang",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "煤油",
+                        "example": [
+                            {
+                                "fm_sentence": "Tdruy o asi ka ayang.",
+                                "ch_sentence": "汽車一定要用汽油。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "twihing": {
+        "fm_word": "twihing",
+        "新詞中文": "海灣",
+        "字面意義": "",
+        "辭典中文": "地方、地名（月彎形的地方）",
+        "原始新詞資料": {
+            "fm_word": "twihing",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "wihing",
+                "sense": [
+                    {
+                        "ch_sense": "地方、地名（月彎形的地方）",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "emptgsa": {
+        "fm_word": "emptgsa",
+        "新詞中文": "教練",
+        "字面意義": "",
+        "辭典中文": "老師",
+        "原始新詞資料": {
+            "fm_word": "emptgsa",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "tgsa",
+                "sense": [
+                    {
+                        "ch_sense": "老師",
+                        "example": [
+                            {
+                                "fm_sentence": "Emptgsa Ptasan nami ka hiya.",
+                                "ch_sentence": "他是我們學校的老師"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ppatas": {
+        "fm_word": "ppatas",
+        "新詞中文": "申請",
+        "字面意義": "",
+        "辭典中文": "讓…讀書。",
+        "原始新詞資料": {
+            "fm_word": "ppatas",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "patas",
+                "sense": [
+                    {
+                        "ch_sense": "讓…讀書。",
+                        "example": [
+                            {
+                                "fm_sentence": "Ppatas ptasan inu ka laqi su hug?",
+                                "ch_sentence": "你要讓你的孩子在哪一間學校讀書?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

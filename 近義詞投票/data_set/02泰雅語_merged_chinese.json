@@ -1,0 +1,438 @@
+{
+    "kinbahan": {
+        "fm_word": "kinbahan",
+        "新詞中文": "現代",
+        "字面意義": "現代，一代又一代",
+        "辭典中文": "後代、現代",
+        "原始新詞資料": {
+            "fm_word": "kinbahan",
+            "ch_semantic": "現代，一代又一代",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "tbah",
+                "sense": [
+                    {
+                        "ch_sense": "後代、現代",
+                        "example": [
+                            {
+                                "fm_sentence": "blaq pcbaq kinbahan mamu.",
+                                "ch_sentence": "好好教育您們的下一代。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "qinbaqan": {
+        "fm_word": "qinbaqan",
+        "新詞中文": "才華",
+        "字面意義": "所會的",
+        "辭典中文": "經驗、知識",
+        "原始新詞資料": {
+            "fm_word": "qinbaqan",
+            "ch_semantic": "所會的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "qbaq",
+                "sense": [
+                    {
+                        "ch_sense": "經驗、知識",
+                        "example": [
+                            {
+                                "fm_sentence": "cingay balay qinbaqan ni Batu' qasa.",
+                                "ch_sentence": "Batu'知識豐厚、經驗老到。"
+                            }
+                        ]
+                    }
+                ],
+                "reference_sub_id": "2"
+            }
+        ]
+    },
+    "puqing": {
+        "fm_word": "puqing",
+        "新詞中文": "基礎",
+        "字面意義": "根基，源頭",
+        "辭典中文": "[名詞] 根部、源頭",
+        "原始新詞資料": {
+            "fm_word": "puqing",
+            "ch_semantic": "根基，源頭",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "[名詞] 根部、源頭",
+                        "example": [
+                            {
+                                "fm_sentence": "galaw ta' puqing na qhuniq qani. rasaw ta' mnahu' ngasal.",
+                                "ch_sentence": "我們來拿這樹的根部，我們帶回家燒柴。"
+                            },
+                            {
+                                "fm_sentence": "cyux inu' puqing qsya' mamu?",
+                                "ch_sentence": "你們的水源頭在哪裡？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "rehay": {
+        "fm_word": "rehay",
+        "新詞中文": "星期",
+        "字面意義": "天",
+        "辭典中文": "[名詞] 禮拜、彌撒",
+        "原始新詞資料": {
+            "fm_word": "rehay",
+            "ch_semantic": "天",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "[名詞] 禮拜、彌撒",
+                        "example": [
+                            {
+                                "fm_sentence": "musa' su rehay kira'?",
+                                "ch_sentence": "你今天要去禮拜嗎？"
+                            },
+                            {
+                                "fm_sentence": "ryax hngawan lga musa' ta' rehay sa kyukay.",
+                                "ch_sentence": "星期天我們到教會禮拜。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pspung": {
+        "fm_word": "pspung",
+        "新詞中文": "裁判",
+        "字面意義": "裁判",
+        "辭典中文": "將裁決、將丈量 / 使裁決、使丈量 / 互相比(比賽) / 裁判",
+        "原始新詞資料": {
+            "fm_word": "pspung",
+            "ch_semantic": "裁判",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sub_id": "1",
+                "reference": "spung",
+                "sense": [
+                    {
+                        "ch_sense": "將裁決、將丈量",
+                        "example": [
+                            {
+                                "fm_sentence": "pspung sami zywaw ni Batu' ki Behuy kira'.",
+                                "ch_sentence": "今天我們要仲裁Batu'和Behuy之間的事情。"
+                            },
+                            {
+                                "fm_sentence": "agal sspung maku' qasa ha. pspung saku' kinkhmay na klcing qani ga.",
+                                "ch_sentence": "我的丈量器拿來，我要量這塊木板的厚度。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "2",
+                "reference": "spung",
+                "sense": [
+                    {
+                        "ch_sense": "使裁決、使丈量",
+                        "example": [
+                            {
+                                "fm_sentence": "zywaw m_yan qani hiya' lga, ani pspung squ mrhuw na qalang ta' la.",
+                                "ch_sentence": "像這樣的事情就交給我們部落的長老決定。"
+                            },
+                            {
+                                "fm_sentence": "ini' su' qbaq smpung. ani pspung mama' Yukan gi hiya' baq smpung.",
+                                "ch_sentence": "你不會丈量，交給Yukan舅舅量，因為他比較會丈量。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "3",
+                "reference": "spung",
+                "sense": [
+                    {
+                        "ch_sense": "互相比(比賽)",
+                        "example": [
+                            {
+                                "fm_sentence": "pspung cikay ha. teta' ima' simu lmaqux?",
+                                "ch_sentence": "你們比一比吧。看看你們誰贏？"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "4",
+                "reference": "spung",
+                "sense": [
+                    {
+                        "ch_sense": "裁判",
+                        "example": [
+                            {
+                                "fm_sentence": "han, Tara' qu pspung ta' ga. baq ga, hiya'",
+                                "ch_sentence": "喔，Tara’是我們的裁判噢。他懂嗎？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "gmwayaw": {
+        "fm_word": "gmwayaw",
+        "新詞中文": "甄選",
+        "字面意義": "選擇",
+        "辭典中文": "挑選",
+        "原始新詞資料": {
+            "fm_word": "gmwayaw",
+            "ch_semantic": "選擇",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "gwayaw",
+                "sense": [
+                    {
+                        "ch_sense": "挑選",
+                        "example": [
+                            {
+                                "fm_sentence": "cyux gmwayaw sa baq mqwas na laqi' hiya.",
+                                "ch_sentence": "他在挑選會唱歌的孩子。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "skhway": {
+        "fm_word": "skhway",
+        "新詞中文": "打折(折扣)",
+        "字面意義": "使便宜",
+        "辭典中文": "為...感謝、使...便宜",
+        "原始新詞資料": {
+            "fm_word": "skhway",
+            "ch_semantic": "使便宜",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "khway",
+                "sense": [
+                    {
+                        "ch_sense": "為...感謝、使...便宜",
+                        "example": [
+                            {
+                                "fm_sentence": "talagay pin'aras yaya' su'! ani saku' skhway yaya' su' ki！",
+                                "ch_sentence": "你媽媽送來的東西這麼多，代我向她感謝！"
+                            },
+                            {
+                                "fm_sentence": "skhway nya' bzirun qu torak qani?",
+                                "ch_sentence": "這部卡車貴不貴？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "m'atu'": {
+        "fm_word": "m'atu'",
+        "新詞中文": "流行性感冒",
+        "字面意義": "感冒",
+        "辭典中文": "[名詞] 流行性感冒",
+        "原始新詞資料": {
+            "fm_word": "m'atu'",
+            "ch_semantic": "感冒",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "[名詞] 流行性感冒",
+                        "example": [
+                            {
+                                "fm_sentence": "lokah balay qu m'atu' nya' kawas qani ma.",
+                                "ch_sentence": "聽說今年的流行性感冒很強。"
+                            },
+                            {
+                                "fm_sentence": "ungat m'atu' su' lga?",
+                                "ch_sentence": "你沒有感冒了吧？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "bo'": {
+        "fm_word": "bo'",
+        "新詞中文": "細菌",
+        "字面意義": "火堆燒出來的細小紅灰燼",
+        "辭典中文": "[名詞] 灰燼 / [名詞] 天花(病名)",
+        "原始新詞資料": {
+            "fm_word": "bo'",
+            "ch_semantic": "火堆燒出來的細小紅灰燼",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sub_id": "1",
+                "sense": [
+                    {
+                        "ch_sense": "[名詞] 灰燼",
+                        "example": [
+                            {
+                                "fm_sentence": "cyux lmom qu squliq ru cyux mlaka' qu bo' na puniq.",
+                                "ch_sentence": "別人在燒(東西)，而灰燼在飛舞。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "2",
+                "sense": [
+                    {
+                        "ch_sense": "[名詞] 天花(病名)",
+                        "example": [
+                            {
+                                "fm_sentence": "cyux kyapun bo' qu 'laqi' nya'.",
+                                "ch_sentence": "他的小孩得天花。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "cmyan": {
+        "fm_word": "cmyan",
+        "新詞中文": "春節(農曆新年)",
+        "字面意義": "",
+        "辭典中文": "[名詞] 新年",
+        "原始新詞資料": {
+            "fm_word": "cmyan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "[名詞] 新年",
+                        "example": [
+                            {
+                                "fm_sentence": "zik na cmyan lga, galun maku' qu inu' maku' la.",
+                                "ch_sentence": "過年前我就要把我的媳婦取回來。"
+                            },
+                            {
+                                "fm_sentence": "pcisal ta' lozi sa cmyan ki.",
+                                "ch_sentence": "新年再相會。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "phkngyan": {
+        "fm_word": "phkngyan",
+        "新詞中文": "徒步區",
+        "字面意義": "",
+        "辭典中文": "走",
+        "原始新詞資料": {
+            "fm_word": "phkngyan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "hkangi'",
+                "sense": [
+                    {
+                        "ch_sense": "走",
+                        "example": [
+                            {
+                                "fm_sentence": "truqi cikay tuqiy qani. teta' blaq cikay phkngyan.",
+                                "ch_sentence": "這條路鋤一鋤，這樣比較好走。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "rrngil": {
+        "fm_word": "rrngil",
+        "新詞中文": "膠水",
+        "字面意義": "",
+        "辭典中文": "黏貼物(膠水、糨糊、強力膠...)",
+        "原始新詞資料": {
+            "fm_word": "rrngil",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "rngil",
+                "sense": [
+                    {
+                        "ch_sense": "黏貼物(膠水、糨糊、強力膠...)",
+                        "example": [
+                            {
+                                "fm_sentence": "ikay rrngil qasa ha! srngil maku' yamil maku'.",
+                                "ch_sentence": "把強力膠拿來！我要黏我的鞋子用的。"
+                            }
+                        ]
+                    }
+                ],
+                "reference_sub_id": "1"
+            }
+        ]
+    },
+    "si": {
+        "fm_word": "si",
+        "新詞中文": "錫",
+        "字面意義": "",
+        "辭典中文": "一直",
+        "原始新詞資料": {
+            "fm_word": "si",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "一直",
+                        "example": [
+                            {
+                                "fm_sentence": "'bagan ga, mutu si wingwing mqwas qu ktata' ru ini' hngaw ana qutux.",
+                                "ch_sentence": "夏季時蟬便一直吱吱喳喳叫個不停。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,614 @@
+{
+    "mikalsong": {
+        "fm_word": "mikalsong",
+        "新詞中文": "警察",
+        "字面意義": "戴帽子的",
+        "辭典中文": "警察 / 魚名;紅印倒吊,一字倒吊",
+        "原始新詞資料": {
+            "fm_word": "mikalsong",
+            "ch_semantic": "戴帽子的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sub_id": "1",
+                "sense": [
+                    {
+                        "ch_sense": "警察",
+                        "example": [
+                            {
+                                "fm_sentence": "angay kamo pancian o mikalsong!",
+                                "ch_sentence": "快去叫警察來!"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "2",
+                "sense": [
+                    {
+                        "ch_sense": "魚名;紅印倒吊,一字倒吊",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "iwawalam": {
+        "fm_word": "iwawalam",
+        "新詞中文": "文化",
+        "字面意義": "傳統儀式；文化",
+        "辭典中文": "文化",
+        "原始新詞資料": {
+            "fm_word": "iwawalam",
+            "ch_semantic": "傳統儀式；文化",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "文化",
+                        "example": [
+                            {
+                                "fm_sentence": "ji nio a'amangi o iwawalam no inapo ta.",
+                                "ch_sentence": "你們不要忘記了祖先們留下的文化。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "panpandan": {
+        "fm_word": "panpandan",
+        "新詞中文": "門檻",
+        "字面意義": "達到那個標準",
+        "辭典中文": "極限；受不了",
+        "原始新詞資料": {
+            "fm_word": "panpandan",
+            "ch_semantic": "達到那個標準",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "pandan",
+                "sense": [
+                    {
+                        "ch_sense": "極限；受不了",
+                        "example": [
+                            {
+                                "fm_sentence": "panpandan na do ka'inge'ingen na no ngepen na ni akay a.",
+                                "ch_sentence": "我祖父真的是牙痛痛到了極點。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pamarengan": {
+        "fm_word": "pamarengan",
+        "新詞中文": "動土儀式",
+        "字面意義": "在這做事(例如蓋房子)",
+        "辭典中文": "慶祝",
+        "原始新詞資料": {
+            "fm_word": "pamarengan",
+            "ch_semantic": "在這做事(例如蓋房子)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "pamareng",
+                "sense": [
+                    {
+                        "ch_sense": "慶祝",
+                        "example": [
+                            {
+                                "fm_sentence": "atpengen mo do rako a vagato o pamarengan ta so kanen.",
+                                "ch_sentence": "把拜拜用的(節慶)食物放大盆子裡。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ipisa": {
+        "fm_word": "ipisa",
+        "新詞中文": "初賽",
+        "字面意義": "第一次",
+        "辭典中文": "有一次;僅一次;第一次",
+        "原始新詞資料": {
+            "fm_word": "ipisa",
+            "ch_semantic": "第一次",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "sa",
+                "sense": [
+                    {
+                        "ch_sense": "有一次;僅一次;第一次",
+                        "example": [
+                            {
+                                "fm_sentence": "ipisa so kai na ni akay am.",
+                                "ch_sentence": "有一次，我祖父來。"
+                            },
+                            {
+                                "fm_sentence": "ipisa mo a citaen.",
+                                "ch_sentence": "你只能看一次。"
+                            },
+                            {
+                                "fm_sentence": "ko ipisa pa a nimai do irala.",
+                                "ch_sentence": "我這是第一次來蘭嶼。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mapowyowyot": {
+        "fm_word": "mapowyowyot",
+        "新詞中文": "衝浪",
+        "字面意義": "衝浪；玩浪",
+        "辭典中文": "衝浪",
+        "原始新詞資料": {
+            "fm_word": "mapowyowyot",
+            "ch_semantic": "衝浪；玩浪",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "oyot",
+                "sense": [
+                    {
+                        "ch_sense": "衝浪",
+                        "example": [
+                            {
+                                "fm_sentence": "mi ta mapowyowyot.",
+                                "ch_sentence": "我們去衝浪。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "akakanan": {
+        "fm_word": "akakanan",
+        "新詞中文": "餐廳",
+        "字面意義": "",
+        "辭典中文": "食用法 / 餐廳",
+        "原始新詞資料": {
+            "fm_word": "akakanan",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kan",
+                "sense": [
+                    {
+                        "ch_sense": "食用法",
+                        "example": [
+                            {
+                                "fm_sentence": "ko ipanci jimo o akakanan so alibangbang.",
+                                "ch_sentence": "我要跟你說，有關吃飛魚的規矩。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "餐廳",
+                        "example": [
+                            {
+                                "fm_sentence": "ajin na yanan no akakanan?",
+                                "ch_sentence": "請問餐廳在哪裡?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "vangonen": {
+        "fm_word": "vangonen",
+        "新詞中文": "復古",
+        "字面意義": "回復",
+        "辭典中文": "扶起床;抱起床",
+        "原始新詞資料": {
+            "fm_word": "vangonen",
+            "ch_semantic": "回復",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "vangon",
+                "sense": [
+                    {
+                        "ch_sense": "扶起床;抱起床",
+                        "example": [
+                            {
+                                "fm_sentence": "vangonen mo si ina mo, ta ya ji makapivangon.",
+                                "ch_sentence": "扶你媽媽起床，因為他沒辦法自己起身。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pananazangan": {
+        "fm_word": "pananazangan",
+        "新詞中文": "專賣店",
+        "字面意義": "賣東西的地方",
+        "辭典中文": "買；賣買",
+        "原始新詞資料": {
+            "fm_word": "pananazangan",
+            "ch_semantic": "賣東西的地方",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "panazang",
+                "sense": [
+                    {
+                        "ch_sense": "買；賣買",
+                        "example": [
+                            {
+                                "fm_sentence": "Ya maneb o pananazangan.",
+                                "ch_sentence": "商店的門關著。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "masazovaz": {
+        "fm_word": "masazovaz",
+        "新詞中文": "過敏",
+        "字面意義": "很容易被感染",
+        "辭典中文": "被分心",
+        "原始新詞資料": {
+            "fm_word": "masazovaz",
+            "ch_semantic": "很容易被感染",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "sazovaz",
+                "sense": [
+                    {
+                        "ch_sense": "被分心",
+                        "example": [
+                            {
+                                "fm_sentence": "ko apia so kangangay, no ya ko masazovaz.",
+                                "ch_sentence": "我忙得分心時(忙事或人來聊天)，心情很愉快。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mosi": {
+        "fm_word": "mosi",
+        "新詞中文": "細菌",
+        "字面意義": "小病蟲",
+        "辭典中文": "昆蟲名;象鼻蟲",
+        "原始新詞資料": {
+            "fm_word": "mosi",
+            "ch_semantic": "小病蟲",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "昆蟲名;象鼻蟲",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "makatotoing": {
+        "fm_word": "makatotoing",
+        "新詞中文": "傳染病",
+        "字面意義": "傳染病",
+        "辭典中文": "會傳染",
+        "原始新詞資料": {
+            "fm_word": "makatotoing",
+            "ch_semantic": "傳染病",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "toing",
+                "sense": [
+                    {
+                        "ch_sense": "會傳染",
+                        "example": [
+                            {
+                                "fm_sentence": "makatotoing o mioab.",
+                                "ch_sentence": "打哈欠會傳染。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "itoro": {
+        "fm_word": "itoro",
+        "新詞中文": "授予",
+        "字面意義": "",
+        "辭典中文": "給",
+        "原始新詞資料": {
+            "fm_word": "itoro",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "toro",
+                "sense": [
+                    {
+                        "ch_sense": "給",
+                        "example": [
+                            {
+                                "fm_sentence": "ikongo o itoro ko jimo?",
+                                "ch_sentence": "我要給你什麼呢"
+                            },
+                            {
+                                "fm_sentence": "itoro mo jiaken o vakong ni kaka.",
+                                "ch_sentence": "你把我姊姊的書給我。"
+                            },
+                            {
+                                "fm_sentence": "itoro na jia o zaka.",
+                                "ch_sentence": "他把瑪瑙 給他"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "paolin": {
+        "fm_word": "paolin",
+        "新詞中文": "駁回",
+        "字面意義": "",
+        "辭典中文": "退回",
+        "原始新詞資料": {
+            "fm_word": "paolin",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "oli",
+                "sense": [
+                    {
+                        "ch_sense": "退回",
+                        "example": [
+                            {
+                                "fm_sentence": "paolin mo do pananazangan.",
+                                "ch_sentence": "你退回給商店。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kakawan": {
+        "fm_word": "kakawan",
+        "新詞中文": "岩岸",
+        "字面意義": "",
+        "辭典中文": "天氣;氣候 / 颱風 / 礁石",
+        "原始新詞資料": {
+            "fm_word": "kakawan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sub_id": "1",
+                "sense": [
+                    {
+                        "ch_sense": "天氣;氣候",
+                        "example": [
+                            {
+                                "fm_sentence": "ya apia o kakawan siciaraw ya!",
+                                "ch_sentence": "今天天氣真好!"
+                            },
+                            {
+                                "fm_sentence": "ji arekmeh a ji annget, manao o kakawan.",
+                                "ch_sentence": "不冷不熱，氣候剛好。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "颱風",
+                        "example": [
+                            {
+                                "fm_sentence": "ya mian kono so kakawan simaraw.",
+                                "ch_sentence": "聽說明天有颱風。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "2",
+                "sense": [
+                    {
+                        "ch_sense": "礁石",
+                        "example": [
+                            {
+                                "fm_sentence": "rako a vato a beken a kakawan.",
+                                "ch_sentence": "是塊大石頭，不是礁石。"
+                            },
+                            {
+                                "fm_sentence": "cita pala o kakawan ito, ya akmi ikongo?",
+                                "ch_sentence": "你看那礁石，像什麼?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pasalan": {
+        "fm_word": "pasalan",
+        "新詞中文": "海灣",
+        "字面意義": "",
+        "辭典中文": "海邊;海灘",
+        "原始新詞資料": {
+            "fm_word": "pasalan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "海邊;海灘",
+                        "example": [
+                            {
+                                "fm_sentence": "amian rana sira do pasalan am, omavang rana sira.",
+                                "ch_sentence": "他們到了海邊，就上船走了。"
+                            }
+                        ]
+                    }
+                ],
+                "reference": "salan",
+                "reference_sub_id": "1"
+            }
+        ]
+    },
+    "rekmeh": {
+        "fm_word": "rekmeh",
+        "新詞中文": "寒流",
+        "字面意義": "",
+        "辭典中文": "寒冷;寒意",
+        "原始新詞資料": {
+            "fm_word": "rekmeh",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "寒冷;寒意",
+                        "example": [
+                            {
+                                "fm_sentence": "ya mian so rako a rekmeh simaraw.",
+                                "ch_sentence": "明天有寒流。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "inaorod": {
+        "fm_word": "inaorod",
+        "新詞中文": "走廊",
+        "字面意義": "",
+        "辭典中文": "前院",
+        "原始新詞資料": {
+            "fm_word": "inaorod",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "aorod",
+                "sense": [
+                    {
+                        "ch_sense": "前院",
+                        "example": [
+                            {
+                                "fm_sentence": "nirako na o inaorod namen.",
+                                "ch_sentence": "我們家的前院最大。"
+                            },
+                            {
+                                "fm_sentence": "miwalam tamo do inaorod nio.",
+                                "ch_sentence": "我們去你們的前院休息。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "padketen": {
+        "fm_word": "padketen",
+        "新詞中文": "登記",
+        "字面意義": "",
+        "辭典中文": "使登記",
+        "原始新詞資料": {
+            "fm_word": "padketen",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "-dket",
+                "sense": [
+                    {
+                        "ch_sense": "使登記",
+                        "example": [
+                            {
+                                "fm_sentence": "Ko padketen o ngaran ko.",
+                                "ch_sentence": "我要登記我的名字。我要訂位。"
+                            },
+                            {
+                                "fm_sentence": "Ya apira o mo padketen?",
+                                "ch_sentence": "你要登記幾位?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "opasen": {
+        "fm_word": "opasen",
+        "新詞中文": "註銷",
+        "字面意義": "",
+        "辭典中文": "擦掉;抹掉",
+        "原始新詞資料": {
+            "fm_word": "opasen",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "opas",
+                "sense": [
+                    {
+                        "ch_sense": "擦掉;抹掉",
+                        "example": [
+                            {
+                                "fm_sentence": "opasen mo o malas.",
+                                "ch_sentence": "你把不對的擦掉。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

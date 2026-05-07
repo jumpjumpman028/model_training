@@ -1,0 +1,189 @@
+{
+    "ruting": {
+        "fm_word": "ruting",
+        "新詞中文": "漂流木",
+        "字面意義": "飄流木",
+        "辭典中文": "漂流木",
+        "原始新詞資料": {
+            "fm_word": "ruting",
+            "ch_semantic": "飄流木",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "漂流木",
+                        "example": [
+                            {
+                                "fm_sentence": "So ka bobo snqsiya paru peni, mosa skadi ruting qhuni ssiyo yayung kanna ka seediq alang.",
+                                "ch_sentence": "在大風雨之後，我們部落的族人都會到河邊尋找漂流木。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "qpahun": {
+        "fm_word": "qpahun",
+        "新詞中文": "單位",
+        "字面意義": "工作的地方",
+        "辭典中文": "工作",
+        "原始新詞資料": {
+            "fm_word": "qpahun",
+            "ch_semantic": "工作的地方",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "qeepah",
+                "sense": [
+                    {
+                        "ch_sense": "工作",
+                        "example": [
+                            {
+                                "fm_sentence": "Jiday saya we, uxe psdiyan qpahun ka riso naq mbserux.",
+                                "ch_sentence": "現在的時代，懶惰的年輕人是不會找到工作的。"
+                            },
+                            {
+                                "fm_sentence": "Wada qpahun na Iyung kanan ka sudu ssiyo sapah di.",
+                                "ch_sentence": "家四周的雜草已被Iyung鋤除了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "bbrigan": {
+        "fm_word": "bbrigan",
+        "新詞中文": "販賣區",
+        "字面意義": "販賣場所",
+        "辭典中文": "買賣",
+        "原始新詞資料": {
+            "fm_word": "bbrigan",
+            "ch_semantic": "販賣場所",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "brigi",
+                "sense": [
+                    {
+                        "ch_sense": "買賣",
+                        "example": [
+                            {
+                                "fm_sentence": "Uka miyan pila bbrigan lukus yami cbeyo, kika kntteyun cmapang de sgaliq ka lukus nami.",
+                                "ch_sentence": "我們以前沒錢買衣服，所以破了再補；破了再補。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sbege": {
+        "fm_word": "sbege",
+        "新詞中文": "授予",
+        "字面意義": "",
+        "辭典中文": "給",
+        "原始新詞資料": {
+            "fm_word": "sbege",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "bege",
+                "sense": [
+                    {
+                        "ch_sense": "給",
+                        "example": [
+                            {
+                                "fm_sentence": "Ma su wada sbege seediq ka uruk na Pawan nii di?",
+                                "ch_sentence": "你怎麼把 Pawan 的小狗送給別人了呢？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "theruy": {
+        "fm_word": "theruy",
+        "新詞中文": "遷出",
+        "字面意義": "",
+        "辭典中文": "遷徙",
+        "原始新詞資料": {
+            "fm_word": "theruy",
+            "dialect": "Tg"
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "遷徙",
+                        "example": [
+                            {
+                                "fm_sentence": "Wada theruy icin da Plmukan gnbaruy ngiro Hori hii",
+                                "ch_sentence": "埔里做香菇買賣的閩南人已搬到別的地方了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tquli": {
+        "fm_word": "tquli",
+        "新詞中文": "收養",
+        "字面意義": "",
+        "辭典中文": "收養子女(祈使)",
+        "原始新詞資料": {
+            "fm_word": "tquli",
+            "dialect": "Tg"
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "收養子女(祈使)",
+                        "example": [
+                            {
+                                "fm_sentence": "Tquli laqi daha han Dakis, mptuting namu laqi bobo na denu.",
+                                "ch_sentence": "Dakis，先收養人家的子女，你們往後就會生孩子的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sresan": {
+        "fm_word": "sresan",
+        "新詞中文": "註銷",
+        "字面意義": "",
+        "辭典中文": "抹掉；擦拭",
+        "原始新詞資料": {
+            "fm_word": "sresan",
+            "dialect": "Tg"
+        },
+        "原始辭典資料": [
+            {
+                "reference": "serus",
+                "sense": [
+                    {
+                        "ch_sense": "抹掉；擦拭",
+                        "example": [
+                            {
+                                "fm_sentence": "Uka sresan ma meniq naq hiya klaali ka patis daha dqeras.",
+                                "ch_sentence": "他們臉上的文面無法抹掉且永遠在那裏。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
