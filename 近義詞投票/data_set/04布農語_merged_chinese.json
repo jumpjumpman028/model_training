@@ -1,0 +1,954 @@
+{
+    "mapasadu": {
+        "fm_word": "mapasadu",
+        "新詞中文": "用來看的",
+        "辭典中文": "[主事,使役] 使…看 / [互相] 互相看;見面",
+        "原始新詞資料": {
+            "fm_word": "mapasadu",
+            "ch_semantic": "用來看的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sub_id": "1",
+                "variant": [
+                    "mapasaduu",
+                    "pasadu"
+                ],
+                "sense": [
+                    {
+                        "ch_sense": "[主事,使役] 使…看",
+                        "example": [
+                            {
+                                "fm_sentence": "Mapasadu sa-ia mas isaicia tu haningu.",
+                                "ch_sentence": "他把他的照片給人看。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "2",
+                "reference": "sadu",
+                "variant": [
+                    "mapasaduu",
+                    "pasadu",
+                    "mapasaduu2",
+                    "pasadu2"
+                ],
+                "sense": [
+                    {
+                        "ch_sense": "[互相] 互相看;見面",
+                        "example": [
+                            {
+                                "fm_sentence": "Laupang kaimin mapasadu aat, mapavuhvuh ima.",
+                                "ch_sentence": "我們剛見面就握手。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "hasipa": {
+        "fm_word": "hasipa",
+        "新詞中文": "烏龜",
+        "辭典中文": "烏龜",
+        "原始新詞資料": {
+            "fm_word": "hasipa",
+            "ch_semantic": "烏龜",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "烏龜",
+                        "example": [
+                            {
+                                "fm_sentence": "Hasipa hai, maszang halum tu sisiahsup a bungu.",
+                                "ch_sentence": "烏龜像穿山甲一樣，頭會伸縮。"
+                            },
+                            {
+                                "fm_sentence": "Maza haispa tu iku tu kalkal hai, maszang mas ngul-a tu kaihaitlasan.",
+                                "ch_sentence": "烏龜背上的殼像鍋子一樣硬。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "padangian": {
+        "fm_word": "padangian",
+        "新詞中文": "給放的地方",
+        "辭典中文": "[處所] 使擺放的地方 / 結婚的對象 / (身體部位)佩戴 / [時間] 結婚的時間;結婚的日期",
+        "原始新詞資料": {
+            "fm_word": "padangian",
+            "ch_semantic": "給放的地方",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sub_id": "1",
+                "reference": "padangi",
+                "sense": [
+                    {
+                        "ch_sense": "[處所] 使擺放的地方",
+                        "example": [
+                            {
+                                "fm_sentence": "Bauzah hai, padangian mas inismul tu davustuza.",
+                                "ch_sentence": "大陶甕放釀好的布農酒。"
+                            },
+                            {
+                                "fm_sentence": "Laupaku pandian hai, niin padangian hasila, azimutu.",
+                                "ch_sentence": "現在的菜不再放鹽"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "結婚的對象",
+                        "example": [
+                            {
+                                "fm_sentence": "Namahtubin kamu padangian mas inaak tu pingaz-uvaaztan?",
+                                "ch_sentence": "憑什麼把我這個女兒嫁給你們？."
+                            },
+                            {
+                                "fm_sentence": "Mais laupang paidangian mas lacing tu daan hai, siduhtaz a sapil.",
+                                "ch_sentence": "剛鋪瀝青的道路，會黏鞋子"
+                            },
+                            {
+                                "fm_sentence": "Adii lukisdaingaza mais ana nii tu paidangian mas sinpalasungbilva hai, nasanduun mas bilva mistaba.",
+                                "ch_sentence": "那棵大樹如果沒有裝置避雷針，會被雷擊中燃燒。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "(身體部位)佩戴",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "2",
+                "reference": "padangi",
+                "variant": [
+                    "pasizaan"
+                ],
+                "sense": [
+                    {
+                        "ch_sense": "[時間] 結婚的時間;結婚的日期",
+                        "example": [
+                            {
+                                "fm_sentence": "Aip hai, imita padangian tu hanian.",
+                                "ch_sentence": "今天是我們結婚的日子。"
+                            },
+                            {
+                                "fm_sentence": "Aip hai, imita paidangian tu hainianan.",
+                                "ch_sentence": "今天是我們的結婚紀念日。"
+                            },
+                            {
+                                "fm_sentence": "Maldidiipa kata mas imita paidangian tu hanian.",
+                                "ch_sentence": "我們牢記我們的結婚紀念日。"
+                            },
+                            {
+                                "fm_sentence": "Malhaha-iap saikin mas imita tu paidangian tu hanian.",
+                                "ch_sentence": "我一直記得我們的結婚紀念日。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "aildikusan": {
+        "fm_word": "aildikusan",
+        "新詞中文": "擁有抓住的",
+        "辭典中文": "所擁有的",
+        "原始新詞資料": {
+            "fm_word": "aildikusan",
+            "ch_semantic": "擁有抓住的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "aldikusan",
+                "sense": [
+                    {
+                        "ch_sense": "所擁有的",
+                        "example": [
+                            {
+                                "fm_sentence": "Inaak tu aildikusan hai, na-is-unuku mas mailangna.",
+                                "ch_sentence": "我所擁有的，要用來傳給後人。"
+                            },
+                            {
+                                "fm_sentence": "Sikaupa tu aildikusan hai, maisnasia amin TamaDihanin tu sinsaiv.",
+                                "ch_sentence": "所擁有的一切都來自天父的賜予。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kanadaan": {
+        "fm_word": "kanadaan",
+        "新詞中文": "腳踩著的路",
+        "辭典中文": "[處所] 被依據 / 基礎;踏腳處;把手;柄",
+        "原始新詞資料": {
+            "fm_word": "kanadaan",
+            "ch_semantic": "腳踩著的路",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kanada",
+                "sense": [
+                    {
+                        "ch_sense": "[處所] 被依據",
+                        "example": [
+                            {
+                                "fm_sentence": "Maza batu-a hai, kanadaan naicia sungkat aul.",
+                                "ch_sentence": "那塊石頭他們據以涉溪。"
+                            },
+                            {
+                                "fm_sentence": "Maaz kanadaan mas Bunun lulus-an?",
+                                "ch_sentence": "布農族的祭典活動以什麼為基礎?"
+                            },
+                            {
+                                "fm_sentence": "Buan tu issisipul hai, kanadaan mas Bunun mihumis.",
+                                "ch_sentence": "月曆是布農人生活的依據。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "基礎;踏腳處;把手;柄",
+                        "example": [
+                            {
+                                "fm_sentence": "Sinpatumantuk tu patasan hai, Kilustukiu sinlatuza tu kanadaan.",
+                                "ch_sentence": "聖經是基督教信仰的根據。"
+                            },
+                            {
+                                "fm_sentence": "Mananulua ii, nii tu mahunduh a kanadaan.",
+                                "ch_sentence": "踏腳處不堅固，請小心。"
+                            },
+                            {
+                                "fm_sentence": "Maza makuang tu kupu hai, ma-aipi a kanadaan siktas.",
+                                "ch_sentence": "不好的杯子把手容易斷裂。"
+                            },
+                            {
+                                "fm_sentence": "Andii sinhaili tu kanadaan hai, nii tu ma-aipi sistuh.",
+                                "ch_sentence": "山刀的刀柄不容易?."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "makisaiv": {
+        "fm_word": "makisaiv",
+        "新詞中文": "向人討給",
+        "辭典中文": "[主事] 乞討",
+        "原始新詞資料": {
+            "fm_word": "makisaiv",
+            "ch_semantic": "向人討給",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kisaiv",
+                "sense": [
+                    {
+                        "ch_sense": "[主事] 乞討",
+                        "example": [
+                            {
+                                "fm_sentence": "Lahsimuav hai, isia silasdaan makisaiv mas bunun sui.",
+                                "ch_sentence": "乞丐在路邊向人討錢。"
+                            },
+                            {
+                                "fm_sentence": "Utung hai, nii tu maz-av makisaiv mas bunun nakaunun maun.",
+                                "ch_sentence": "猴子不害羞的跟人討食物吃。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sinpashaal": {
+        "fm_word": "sinpashaal",
+        "新詞中文": "給做記號",
+        "辭典中文": "做記號",
+        "原始新詞資料": {
+            "fm_word": "sinpashaal",
+            "ch_semantic": "給做記號",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "pashaal",
+                "sense": [
+                    {
+                        "ch_sense": "做記號",
+                        "example": [
+                            {
+                                "fm_sentence": "Lukisa hai, itu cina tu sinpashaal.",
+                                "ch_sentence": "那木頭是母親做的記號。"
+                            },
+                            {
+                                "fm_sentence": "Itu bunun tu sinpashaal hai, nii tu mahtu pinkuangun.",
+                                "ch_sentence": "別人做的記號不可以破壞。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "iskakalunan": {
+        "fm_word": "iskakalunan",
+        "新詞中文": "被派遣的",
+        "辭典中文": "傭人",
+        "原始新詞資料": {
+            "fm_word": "iskakalunan",
+            "ch_semantic": "被派遣的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "傭人",
+                        "example": [
+                            {
+                                "fm_sentence": "Sa-ia hai, inaak tu iskakalunan.",
+                                "ch_sentence": "他是我的傭人。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "taiklas": {
+        "fm_word": "taiklas",
+        "新詞中文": "很聰明,有智慧",
+        "辭典中文": "聰明;智慧;知識",
+        "原始新詞資料": {
+            "fm_word": "taiklas",
+            "ch_semantic": "很聰明,有智慧",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "聰明;智慧;知識",
+                        "example": [
+                            {
+                                "fm_sentence": "Aizaan mas taiklas tu bunun hai, nii tu muliliva.",
+                                "ch_sentence": "有智慧的人不會常常犯錯。"
+                            },
+                            {
+                                "fm_sentence": "Dangian sa-ia taiklas mapavaaz sial mas kuang.",
+                                "ch_sentence": "他有智慧分辨好和壞。"
+                            }
+                        ]
+                    }
+                ],
+                "相關詞": {
+                    "其它": [
+                        "buklas"
+                    ]
+                }
+            }
+        ]
+    },
+    "pasnava": {
+        "fm_word": "pasnava",
+        "新詞中文": "給人看",
+        "辭典中文": "[主事,使役] 學習;練習",
+        "原始新詞資料": {
+            "fm_word": "pasnava",
+            "ch_semantic": "給人看",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "isnava",
+                "sense": [
+                    {
+                        "ch_sense": "[主事,使役] 學習;練習",
+                        "example": [
+                            {
+                                "fm_sentence": "Pasnavaav a sain.",
+                                "ch_sentence": "把這個學起來。"
+                            },
+                            {
+                                "fm_sentence": "Pasnavaavang a sain.",
+                                "ch_sentence": "請把這個學起來。"
+                            },
+                            {
+                                "fm_sentence": "Mais na-isnavaan hai, asa tu masaiv mas pasnava tu sui.",
+                                "ch_sentence": "上學的話，必須繳交學費。"
+                            },
+                            {
+                                "fm_sentence": "Laupaku pasnava tu sui hai, susaanin.",
+                                "ch_sentence": "現在學費增加了。"
+                            }
+                        ]
+                    }
+                ],
+                "reference_sub_id": "1"
+            }
+        ]
+    },
+    "nuka": {
+        "fm_word": "nuka",
+        "新詞中文": "既有詞",
+        "辭典中文": "膿瘡;傷口",
+        "原始新詞資料": {
+            "fm_word": "nuka",
+            "ch_semantic": "既有詞",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "膿瘡;傷口",
+                        "example": [
+                            {
+                                "fm_sentence": "Nii tu masaningsing tu bunun hai, supahan mas nuka.",
+                                "ch_sentence": "不乾淨的人(身上)有許多膿瘡。"
+                            },
+                            {
+                                "fm_sentence": "Nuka mais nii tu ma-aip pishanuaz hai, asa tu ispa-iu sia ising.",
+                                "ch_sentence": "傷口不容易痊癒的話，應該在醫院治療。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "palmaupaun": {
+        "fm_word": "palmaupaun",
+        "新詞中文": "",
+        "辭典中文": "[受事] 被如此準備好",
+        "原始新詞資料": {
+            "fm_word": "palmaupaun",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "[受事] 被如此準備好",
+                        "example": [
+                            {
+                                "fm_sentence": "Maza kamasia hai, palmaupaun mas cina sia pangkaka, aupa na-aiza a tantungu tu bunun.",
+                                "ch_sentence": "糖果被媽媽如此準備好放在桌子上， 因為將會有來拜訪的客人。"
+                            },
+                            {
+                                "fm_sentence": "Palmaupaun saicia a bunbun sia nastudalah, na-ispakaun mas utungcia.",
+                                "ch_sentence": "香蕉被他如此準備好放在地上，要用來餵食猴子。"
+                            }
+                        ]
+                    }
+                ],
+                "相關詞": {
+                    "其它": [
+                        "palmaupa"
+                    ]
+                }
+            }
+        ]
+    },
+    "pavilung": {
+        "fm_word": "pavilung",
+        "新詞中文": "",
+        "辭典中文": "新年",
+        "原始新詞資料": {
+            "fm_word": "pavilung",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "新年",
+                        "example": [
+                            {
+                                "fm_sentence": "Pavilung hai, minbahluin tu painsanan.",
+                                "ch_sentence": "新年是新的一年即將到來的時候。"
+                            },
+                            {
+                                "fm_sentence": "Uvavaaz mais pavilung hai, painukan amin mas bahlu tu ulus.",
+                                "ch_sentence": "孩子們過年時都穿著新衣服。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "saivan": {
+        "fm_word": "saivan",
+        "新詞中文": "",
+        "辭典中文": "[受事] 被給",
+        "原始新詞資料": {
+            "fm_word": "saivan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "saiv",
+                "sense": [
+                    {
+                        "ch_sense": "[受事] 被給",
+                        "example": [
+                            {
+                                "fm_sentence": "Saivanik TamaCiang mas maisidi tu pinasah.",
+                                "ch_sentence": "江叔叔給我羊腿。"
+                            },
+                            {
+                                "fm_sentence": "Saivanku na-ia mas sinpaihusil tu maibabu.",
+                                "ch_sentence": "我把分配到的豬肉給他們。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mintasa": {
+        "fm_word": "mintasa",
+        "新詞中文": "",
+        "辭典中文": "[主事] 合一;統一",
+        "原始新詞資料": {
+            "fm_word": "mintasa",
+            "ch_semantic": "",
+            "dialect": [
+                "郡、丹",
+                "巒",
+                "卓",
+                "卡"
+            ]
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "[主事] 合一;統一",
+                        "example": [
+                            {
+                                "fm_sentence": "Asa kata Bununtuza tu mintasa is-aang.",
+                                "ch_sentence": "我們布農族應當齊心。"
+                            },
+                            {
+                                "fm_sentence": "Tastulumah amin hai, asa tu mintasa a is-aang, natudiip aizaan mas naskal.",
+                                "ch_sentence": "一家人也應當齊心，如此便能擁有幸福。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mabukzavan": {
+        "fm_word": "mabukzavan",
+        "新詞中文": "",
+        "辭典中文": "[主事] 平地;山間台地;平原",
+        "原始新詞資料": {
+            "fm_word": "mabukzavan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "mabukzav",
+                "sense": [
+                    {
+                        "ch_sense": "[主事] 平地;山間台地;平原",
+                        "example": [
+                            {
+                                "fm_sentence": "Isia mai-asang tu dalah hai, mabukzavan.",
+                                "ch_sentence": "故鄉的土地是一片平原。"
+                            },
+                            {
+                                "fm_sentence": "Aiza tu hanian, na-ia hai, kusia mabukzavan napasavai tu sima nii tu namistaba.",
+                                "ch_sentence": "有一天，他們到一個平地去比賽誰不會被火燒死。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "siah": {
+        "fm_word": "siah",
+        "新詞中文": "",
+        "辭典中文": "水瓢(葫蘆製)",
+        "原始新詞資料": {
+            "fm_word": "siah",
+            "ch_semantic": "",
+            "dialect": [
+                "郡、丹",
+                "巒",
+                "卓、卡"
+            ]
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "水瓢(葫蘆製)",
+                        "example": [
+                            {
+                                "fm_sentence": "Siah habas hai, kinunian mas bitahul ka-uni, is-asul danum.",
+                                "ch_sentence": "水瓢從前是用胡瓜做的，用來澆水。"
+                            },
+                            {
+                                "fm_sentence": "Habas kata Bunun hai, mais kanahtungin lus-an hai, patunsiah huud davus.",
+                                "ch_sentence": "以前我們布農族，結束儀式後會用水瓢飲酒。"
+                            }
+                        ]
+                    }
+                ],
+                "相關詞": {
+                    "其它": [
+                        "siih"
+                    ]
+                }
+            }
+        ]
+    },
+    "masasatu": {
+        "fm_word": "masasatu",
+        "新詞中文": "",
+        "辭典中文": "遞送員 / 母雞",
+        "原始新詞資料": {
+            "fm_word": "masasatu",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "masatu",
+                "sense": [
+                    {
+                        "ch_sense": "遞送員",
+                        "example": [
+                            {
+                                "fm_sentence": "Bununa hai, masasatu mas pinudaan tu haimangsut.",
+                                "ch_sentence": "那個人遞送(人們)寄的東西。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "母雞",
+                        "example": [
+                            {
+                                "fm_sentence": "Aizaan saikin mas dusa masasatu.",
+                                "ch_sentence": "我有兩隻母雞。"
+                            }
+                        ]
+                    }
+                ],
+                "相關詞": {
+                    "同義詞": [
+                        "pudaan"
+                    ]
+                }
+            }
+        ]
+    },
+    "suva": {
+        "fm_word": "suva",
+        "新詞中文": "",
+        "辭典中文": "麵",
+        "原始新詞資料": {
+            "fm_word": "suva",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "variant": [
+                    "tuamii"
+                ],
+                "sense": [
+                    {
+                        "ch_sense": "麵",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kicingai": {
+        "fm_word": "kicingai",
+        "新詞中文": "",
+        "辭典中文": "乞丐",
+        "原始新詞資料": {
+            "fm_word": "kicingai",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "乞丐",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ],
+                "相關詞": {
+                    "其它": [
+                        "lahsimuav"
+                    ]
+                }
+            }
+        ]
+    },
+    "paisnavaan": {
+        "fm_word": "paisnavaan",
+        "新詞中文": "",
+        "辭典中文": "[受事] 教養; 課程; 學問; 學歷",
+        "原始新詞資料": {
+            "fm_word": "paisnavaan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "pasnava",
+                "sense": [
+                    {
+                        "ch_sense": "[受事] 教養; 課程; 學問; 學歷",
+                        "example": [
+                            {
+                                "fm_sentence": "Maza uvaazan hai, ukaan tu kauman mas paisnavaan.",
+                                "ch_sentence": "這個小孩沒有一點教養。"
+                            },
+                            {
+                                "fm_sentence": "Masial isaicia paisnavaan.",
+                                "ch_sentence": "他的學問很好。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "daisah": {
+        "fm_word": "daisah",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "前院;廣場",
+        "原始新詞資料": {
+            "fm_word": "daisah",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "前院;廣場",
+                        "example": [
+                            {
+                                "fm_sentence": "Matapus na-ia mas maduh sia daisahcia.",
+                                "ch_sentence": "他在前院那邊將小米揚糠。"
+                            },
+                            {
+                                "fm_sentence": "Isia daisahcia, uvavaaza pismali.",
+                                "ch_sentence": "那些小孩在前院那邊玩球。"
+                            }
+                        ]
+                    }
+                ],
+                "相關詞": {
+                    "反義詞": [
+                        "tan-ulung"
+                    ]
+                }
+            }
+        ]
+    },
+    "kakaunan": {
+        "fm_word": "kakaunan",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "餐廳;飯館 / 煙斗",
+        "原始新詞資料": {
+            "fm_word": "kakaunan",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kaunan",
+                "sense": [
+                    {
+                        "ch_sense": "餐廳;飯館",
+                        "example": [
+                            {
+                                "fm_sentence": "Isa aiza kakaunan?",
+                                "ch_sentence": "哪裡有餐廳?"
+                            },
+                            {
+                                "fm_sentence": "Nii saikin mazima isia kakaunancia maun.",
+                                "ch_sentence": "我不喜歡在那間餐廳吃飯。"
+                            },
+                            {
+                                "fm_sentence": "Na-isian kata unisin kakaunancia mapasadu.",
+                                "ch_sentence": "我們待會兒要在那個飯店見面。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "煙斗",
+                        "example": [
+                            {
+                                "fm_sentence": "Tutuza tu balivun a andii kakaunanan.",
+                                "ch_sentence": "這支煙斗很貴。"
+                            },
+                            {
+                                "fm_sentence": "Sizaav a kakaunan, aupa na-iskusia hudas maun tamaku.",
+                                "ch_sentence": "去拿煙斗，因為爺爺要用它來喫菸。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tuki": {
+        "fm_word": "tuki",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "時鐘 / 小時",
+        "原始新詞資料": {
+            "fm_word": "tuki",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "時鐘",
+                        "example": [
+                            {
+                                "fm_sentence": "Ispakahna isaicia tuki.",
+                                "ch_sentence": "他的時鐘拿去修理。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "小時",
+                        "example": [
+                            {
+                                "fm_sentence": "Cinpiin laupaku tuki?",
+                                "ch_sentence": "現在幾點鐘了？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "taulushu": {
+        "fm_word": "taulushu",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "[主事] 搬遷到",
+        "原始新詞資料": {
+            "fm_word": "taulushu",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "lushu",
+                "sense": [
+                    {
+                        "ch_sense": "[主事] 搬遷到",
+                        "example": [
+                            {
+                                "fm_sentence": "Taulushu saikin kusia Taiciu.",
+                                "ch_sentence": "我搬到台中(居住)。"
+                            },
+                            {
+                                "fm_sentence": "Kaimin hai maisnasia Takau taulushu kusia Tainan.",
+                                "ch_sentence": "我們從高雄搬到台南。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "saipuk": {
+        "fm_word": "saipuk",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "[主事] 飼養;撫養;培植 / [主事] 管理;統治 / [主事] 照顧;伺候",
+        "原始新詞資料": {
+            "fm_word": "saipuk",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "variant": [
+                    "saincin"
+                ],
+                "sense": [
+                    {
+                        "ch_sense": "[主事] 飼養;撫養;培植",
+                        "example": [
+                            {
+                                "fm_sentence": "Aiza bunun saipuk mas kaiku",
+                                "ch_sentence": "有人養蠶。"
+                            },
+                            {
+                                "fm_sentence": "Isaicia iskuzakuza hai, siamas saipuk vivi mas tulkuk.",
+                                "ch_sentence": "他的工作就是飼養雞鴨。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "[主事] 管理;統治",
+                        "example": [
+                            {
+                                "fm_sentence": "Maza sasbinazdaingaza hai, mahansiap saipuk mas bunun.",
+                                "ch_sentence": "那位總統擅長治理人民。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "[主事] 照顧;伺候",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,536 @@
+{
+    "kacalisian": {
+        "fm_word": "kacalisian",
+        "新詞中文": "原住民",
+        "辭典中文": "原住民",
+        "原始新詞資料": {
+            "fm_word": "kacalisian",
+            "ch_semantic": "原住民",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "calisi",
+                "sense": [
+                    {
+                        "ch_sense": "原住民",
+                        "example": [
+                            {
+                                "fm_sentence": "kacalisian ayaitjen ta payuan tua kaimazanga a mareka caucau.",
+                                "ch_sentence": "我們排灣族稱原住民為斜坡民族。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "paljiq": {
+        "fm_word": "paljiq",
+        "新詞中文": "(有生命)看不到的嚴重的病",
+        "辭典中文": "詛咒 / 排泄物",
+        "原始新詞資料": {
+            "fm_word": "paljiq",
+            "ch_semantic": "(有生命)看不到的嚴重的病",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sub_id": "1",
+                "sense": [
+                    {
+                        "ch_sense": "詛咒",
+                        "example": [
+                            {
+                                "fm_sentence": "sualapu a sinbikuyac a paljiq i tjanuamen.",
+                                "ch_sentence": "除去被加在我們身上的詛咒。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "2",
+                "sense": [
+                    {
+                        "ch_sense": "排泄物",
+                        "example": [
+                            {
+                                "fm_sentence": "suapi a kirimu azua marka paljiq.",
+                                "ch_sentence": "快一點把那些糞便清理掉。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kiqinuman": {
+        "fm_word": "kiqinuman",
+        "新詞中文": "(物的生產) 收穫量",
+        "辭典中文": "收割採收",
+        "原始新詞資料": {
+            "fm_word": "kiqinuman",
+            "ch_semantic": "(物的生產) 收穫量",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "quma",
+                "sense": [
+                    {
+                        "ch_sense": "收割採收",
+                        "example": [
+                            {
+                                "fm_sentence": "uri kiqinuman amen tua vasa.",
+                                "ch_sentence": "我們要採收芋頭。"
+                            },
+                            {
+                                "fm_sentence": "nu kalja vuceleljan vasa mana tja kiqinuman.",
+                                "ch_sentence": "在冬季我們收成芋頭。"
+                            },
+                            {
+                                "fm_sentence": "kiqinumanitjen tua djulis tucu a qiljas.",
+                                "ch_sentence": "這個月是採收紅藜的時期。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pakaleva": {
+        "fm_word": "pakaleva",
+        "新詞中文": "",
+        "辭典中文": "獎賞",
+        "原始新詞資料": {
+            "fm_word": "pakaleva",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "leva-",
+                "sense": [
+                    {
+                        "ch_sense": "獎賞",
+                        "example": [
+                            {
+                                "fm_sentence": "zitting a pakaleva tjanuaken tua ku qinacuvungan a semupu tua kukumin gakku.",
+                                "ch_sentence": "我的國小畢業獎品是字典。"
+                            },
+                            {
+                                "fm_sentence": "ti aken auri pakaleva nu tiav tua pinalalumalumaljan a semenai nua",
+                                "ch_sentence": "明天是我負責頒獎給青年歌唱比賽的優勝者。"
+                            },
+                            {
+                                "fm_sentence": "namakuda su pakaleva tua su sinayan ka tiyaw?maqacuvucuvung.",
+                                "ch_sentence": "你是歌唱的優勝者，你領了甚麼樣的獎品﹖"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ramalj": {
+        "fm_word": "ramalj",
+        "新詞中文": "漂流木",
+        "辭典中文": "漂流木",
+        "原始新詞資料": {
+            "fm_word": "ramalj",
+            "ch_semantic": "漂流木",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "漂流木",
+                        "example": [
+                            {
+                                "fm_sentence": "nuna remaljiz mapeljuqanga pana tua ramalj.",
+                                "ch_sentence": "颱風之後河流堆積了許多的漂流木。"
+                            },
+                            {
+                                "fm_sentence": "pacunu azua marka ramalj a siniqaljudj nua zaljum.",
+                                "ch_sentence": "看那些大水沖下來的漂流木。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kakudan": {
+        "fm_word": "kakudan",
+        "新詞中文": "制度;法律",
+        "辭典中文": "習慣；規範；規矩；規則",
+        "原始新詞資料": {
+            "fm_word": "kakudan",
+            "ch_semantic": "制度;法律",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "習慣；規範；規矩；規則",
+                        "example": [
+                            {
+                                "fm_sentence": "aicu a tja kakudan tua seman pazangal ta papungadan tu caucau, kinasi mamiling.",
+                                "ch_sentence": "排灣族自古就有重視人的命名習慣。"
+                            },
+                            {
+                                "fm_sentence": "namasan kakudan anga tjanuitjen a kacalisian a marekiljivak.",
+                                "ch_sentence": "彼此相愛已經成為原住民族的規矩。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "cavulid": {
+        "fm_word": "cavulid",
+        "新詞中文": "扛",
+        "辭典中文": "扛",
+        "原始新詞資料": {
+            "fm_word": "cavulid",
+            "ch_semantic": "扛",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "扛",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kemavulj": {
+        "fm_word": "kemavulj",
+        "新詞中文": "募集(沒有對價關係)",
+        "辭典中文": "討東西；請求要求",
+        "原始新詞資料": {
+            "fm_word": "kemavulj",
+            "ch_semantic": "募集(沒有對價關係)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kavulj",
+                "sense": [
+                    {
+                        "ch_sense": "討東西；請求要求",
+                        "example": [
+                            {
+                                "fm_sentence": "na kemavulj aken tua qatia kemsi tua ku ljaqediqedi.",
+                                "ch_sentence": "我向我的鄰居討了食鹽。"
+                            },
+                            {
+                                "fm_sentence": "kemavulj aken taji kina tua paisu.",
+                                "ch_sentence": "我向媽媽要錢。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "rusenasenai": {
+        "fm_word": "rusenasenai",
+        "新詞中文": "專門唱歌的人",
+        "辭典中文": "領唱者",
+        "原始新詞資料": {
+            "fm_word": "rusenasenai",
+            "ch_semantic": "專門唱歌的人",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "senai-",
+                "sense": [
+                    {
+                        "ch_sense": "領唱者",
+                        "example": [
+                            {
+                                "fm_sentence": "nu zemiazianitjen timadju a rusenasenai a parutavak.",
+                                "ch_sentence": "我們在跳舞的時候經常是由他來帶頭唱。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kisasusu": {
+        "fm_word": "kisasusu",
+        "新詞中文": "裁判(動詞)",
+        "辭典中文": "追究",
+        "原始新詞資料": {
+            "fm_word": "kisasusu",
+            "ch_semantic": "裁判(動詞)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "追究",
+                        "example": [
+                            {
+                                "fm_sentence": "aku sun a kisasusu a maya tua zuma?",
+                                "ch_sentence": "你為何要管別人的事？"
+                            },
+                            {
+                                "fm_sentence": "ulja makeljang a paisu inayan nua kaiki kisasusu tuatja sinicukau a penuljat.",
+                                "ch_sentence": "為要清楚金錢的流向在支出的單據上會計追根究底。"
+                            }
+                        ]
+                    }
+                ],
+                "reference": "susu",
+                "reference_sub_id": "2"
+            }
+        ]
+    },
+    "peniliq": {
+        "fm_word": "peniliq",
+        "新詞中文": "選擇",
+        "辭典中文": "選擇",
+        "原始新詞資料": {
+            "fm_word": "peniliq",
+            "ch_semantic": "選擇",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "piliq",
+                "sense": [
+                    {
+                        "ch_sense": "選擇",
+                        "example": [
+                            {
+                                "fm_sentence": "peniliq aken tua tjalju qinaljan.",
+                                "ch_sentence": "我選擇留在部落。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "nasesazua": {
+        "fm_word": "nasesazua",
+        "新詞中文": "有用的人",
+        "辭典中文": "良好的、稱職的",
+        "原始新詞資料": {
+            "fm_word": "nasesazua",
+            "ch_semantic": "有用的人",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "zua",
+                "sense": [
+                    {
+                        "ch_sense": "良好的、稱職的",
+                        "example": [
+                            {
+                                "fm_sentence": "sinkulunga na kipuvarung aicu a umaq manasika inika nasesazua nu tja pacunan.",
+                                "ch_sentence": "這一棟房子欠缺周詳設計所以看起來怪怪的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sanguanguaq": {
+        "fm_word": "sanguanguaq",
+        "新詞中文": "無汙染;很漂亮的小姐",
+        "辭典中文": "色澤鮮美",
+        "原始新詞資料": {
+            "fm_word": "sanguanguaq",
+            "ch_semantic": "無汙染;很漂亮的小姐",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "nguaq-",
+                "sense": [
+                    {
+                        "ch_sense": "色澤鮮美",
+                        "example": [
+                            {
+                                "fm_sentence": "sanguanguaq sa mareka djamai nu tja pacunan.",
+                                "ch_sentence": "這些菜餚看起來色澤鮮美。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kakivuciqan": {
+        "fm_word": "kakivuciqan",
+        "新詞中文": "接受刀切的處所",
+        "辭典中文": "手術台",
+        "原始新詞資料": {
+            "fm_word": "kakivuciqan",
+            "ch_semantic": "接受刀切的處所",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "vuciq",
+                "sense": [
+                    {
+                        "ch_sense": "手術台",
+                        "example": [
+                            {
+                                "fm_sentence": "tjaucasav aken a kemasi tua kakivuciqan.",
+                                "ch_sentence": "我剛從手術室出來。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "vudavudas": {
+        "fm_word": "vudavudas",
+        "新詞中文": "",
+        "辭典中文": "多沙的",
+        "原始新詞資料": {
+            "fm_word": "vudavudas",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "vudas",
+                "sense": [
+                    {
+                        "ch_sense": "多沙的",
+                        "example": [
+                            {
+                                "fm_sentence": "vudavudas aicu a nu pupadayan.",
+                                "ch_sentence": "你們的稻田是多沙的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kakaigian": {
+        "fm_word": "kakaigian",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "會議室；開會的地方",
+        "原始新詞資料": {
+            "fm_word": "kakaigian",
+            "dialect": "北中南東"
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kaigi",
+                "sense": [
+                    {
+                        "ch_sense": "會議室；開會的地方",
+                        "example": [
+                            {
+                                "fm_sentence": "tjaljiqaca sa nu kakaigian imaza.",
+                                "ch_sentence": "這裡的開會場地很寬敞。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kacasavan": {
+        "fm_word": "kacasavan",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "庭院",
+        "原始新詞資料": {
+            "fm_word": "kacasavan",
+            "dialect": "北南"
+        },
+        "原始辭典資料": [
+            {
+                "reference": "casav",
+                "sense": [
+                    {
+                        "ch_sense": "庭院",
+                        "example": [
+                            {
+                                "fm_sentence": "liav aravac a hana i kacasavan tjayamadju.",
+                                "ch_sentence": "他們的前院有很多花。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kivecik": {
+        "fm_word": "kivecik",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "紋身",
+        "原始新詞資料": {
+            "fm_word": "kivecik",
+            "dialect": "北南"
+        },
+        "原始辭典資料": [
+            {
+                "reference": "vecik",
+                "sense": [
+                    {
+                        "ch_sense": "紋身",
+                        "example": [
+                            {
+                                "fm_sentence": "aicu a titjen a payuan kivecik a vavayan a pitalima.",
+                                "ch_sentence": "我們排灣族的女生有紋手的習俗。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "papapiliq": {
+        "fm_word": "papapiliq",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "選拔",
+        "原始新詞資料": {
+            "fm_word": "papapiliq",
+            "dialect": "北中南東"
+        },
+        "原始辭典資料": [
+            {
+                "reference": "piliq",
+                "sense": [
+                    {
+                        "ch_sense": "選拔",
+                        "example": [
+                            {
+                                "fm_sentence": "uri papapiliq amen tua rakac.",
+                                "ch_sentence": "我們要選拔勇士。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

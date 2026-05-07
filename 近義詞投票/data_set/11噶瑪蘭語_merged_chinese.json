@@ -1,0 +1,830 @@
+{
+    "sitaRaw": {
+        "fm_word": "sitaRaw",
+        "新詞中文": "(有生命的)有病",
+        "辭典中文": "有….毛病",
+        "原始新詞資料": {
+            "fm_word": "sitaRaw",
+            "ch_semantic": "(有生命的)有病",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "taRaw",
+                "sense": [
+                    {
+                        "ch_sense": "有….毛病",
+                        "example": [
+                            {
+                                "fm_sentence": "sitaRaw tu ibabaw ay Rinang ti angaw.",
+                                "ch_sentence": "Angaw有高血壓的毛病。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "laluyan": {
+        "fm_word": "laluyan",
+        "新詞中文": "重量",
+        "辭典中文": "斤 / 秤子；秤重",
+        "原始新詞資料": {
+            "fm_word": "laluyan",
+            "ch_semantic": "重量",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "laluy",
+                "sense": [
+                    {
+                        "ch_sense": "斤",
+                        "example": [
+                            {
+                                "fm_sentence": "ulima laluyan niRasan ku tu mulu.",
+                                "ch_sentence": "我買了五斤的橘子。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "秤子；秤重",
+                        "example": [
+                            {
+                                "fm_sentence": "utani asa na laluyan zau?",
+                                "ch_sentence": "這個秤子的價錢多少？"
+                            },
+                            {
+                                "fm_sentence": "utani laluyan niRasa su tu mulu?",
+                                "ch_sentence": "你買的橘子有幾斤(多重)？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kalat": {
+        "fm_word": "kalat",
+        "新詞中文": "珊瑚",
+        "辭典中文": "珊瑚、珊瑚礁",
+        "原始新詞資料": {
+            "fm_word": "kalat",
+            "ch_semantic": "珊瑚",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "珊瑚、珊瑚礁",
+                        "example": [
+                            {
+                                "fm_sentence": "tanian mala tu kalat zau?",
+                                "ch_sentence": "這是哪裏拿的珊瑚?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "muzan": {
+        "fm_word": "muzan",
+        "新詞中文": "下雨",
+        "辭典中文": "下雨",
+        "原始新詞資料": {
+            "fm_word": "muzan",
+            "ch_semantic": "下雨",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "uzan",
+                "sense": [
+                    {
+                        "ch_sense": "下雨",
+                        "example": [
+                            {
+                                "fm_sentence": "pataz muzan, mediyuq ti penaluma tu tened.",
+                                "ch_sentence": "每天下雨，種的蔬菜都爛掉了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tungus": {
+        "fm_word": "tungus",
+        "新詞中文": "個人的;獨有的",
+        "辭典中文": "屬於...；歸屬；專屬",
+        "原始新詞資料": {
+            "fm_word": "tungus",
+            "ch_semantic": "個人的;獨有的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "屬於...；歸屬；專屬",
+                        "example": [
+                            {
+                                "fm_sentence": "Rasa pa iku tu tungus ku leppaw.",
+                                "ch_sentence": "我要買屬於自己的房子。"
+                            },
+                            {
+                                "fm_sentence": "tungus na qaqa ku leppaw zau.",
+                                "ch_sentence": "這個房子是歸我哥哥的。"
+                            },
+                            {
+                                "fm_sentence": "tungus ku paqenanem kukuy zau.",
+                                "ch_sentence": "這個糖果是我一個人的份。"
+                            },
+                            {
+                                "fm_sentence": "qan pa iku tu ussiq tungus a beRing.",
+                                "ch_sentence": "我想要吃一份肋骨排。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kemuwan": {
+        "fm_word": "kemuwan",
+        "新詞中文": "管理(AF-)",
+        "辭典中文": "管理；治理",
+        "原始新詞資料": {
+            "fm_word": "kemuwan",
+            "ch_semantic": "管理(AF-)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "管理；治理",
+                        "example": [
+                            {
+                                "fm_sentence": "yau ta izipan na zapan na, naquni ya ka kemuwan!",
+                                "ch_sentence": "他的腳長在他身上，叫我怎麼管！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pasatezayan": {
+        "fm_word": "pasatezayan",
+        "新詞中文": "唱歌的(人)",
+        "辭典中文": "歌唱者",
+        "原始新詞資料": {
+            "fm_word": "pasatezayan",
+            "ch_semantic": "唱歌的(人)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "satezay",
+                "sense": [
+                    {
+                        "ch_sense": "歌唱者",
+                        "example": [
+                            {
+                                "fm_sentence": "pasatezayan qaqa ku.",
+                                "ch_sentence": "我姐姐是歌星。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pasikawman": {
+        "fm_word": "pasikawman",
+        "新詞中文": "發言人",
+        "辭典中文": "負責發言",
+        "原始新詞資料": {
+            "fm_word": "pasikawman",
+            "ch_semantic": "發言人",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "sikawma",
+                "sense": [
+                    {
+                        "ch_sense": "負責發言",
+                        "example": [
+                            {
+                                "fm_sentence": "satuwanay si qaqa ku pa pasikawman.",
+                                "ch_sentence": "提親時由我哥哥負責發言。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "penateban": {
+        "fm_word": "penateban",
+        "新詞中文": "裁判(N)",
+        "辭典中文": "中間的界線",
+        "原始新詞資料": {
+            "fm_word": "penateban",
+            "ch_semantic": "裁判(N)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "中間的界線",
+                        "example": [
+                            {
+                                "fm_sentence": "kanis ika penateban ta.",
+                                "ch_sentence": "我們的中間的界線畫一下線(標示清楚)。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sazmakenan": {
+        "fm_word": "sazmakenan",
+        "新詞中文": "能信任的(事務;人;地方)",
+        "辭典中文": "相信",
+        "原始新詞資料": {
+            "fm_word": "sazmakenan",
+            "ch_semantic": "能信任的(事務;人;地方)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "sazmaken",
+                "sense": [
+                    {
+                        "ch_sense": "相信",
+                        "example": [
+                            {
+                                "fm_sentence": "sazmakenan ku nisikawman na.",
+                                "ch_sentence": "我相信他說的話。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "paqeseRan": {
+        "fm_word": "paqeseRan",
+        "新詞中文": "負責讓身體更堅強的地方",
+        "辭典中文": "出力、用力",
+        "原始新詞資料": {
+            "fm_word": "paqeseRan",
+            "ch_semantic": "負責讓身體更堅強的地方",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "qeseR",
+                "sense": [
+                    {
+                        "ch_sense": "出力、用力",
+                        "example": [
+                            {
+                                "fm_sentence": "naRin paqeseRan tembes, qaRabut ti.",
+                                "ch_sentence": "不要用力拉，(不然)會斷掉。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sepinan": {
+        "fm_word": "sepinan",
+        "新詞中文": "既有詞",
+        "辭典中文": "便秘",
+        "原始新詞資料": {
+            "fm_word": "sepinan",
+            "ch_semantic": "既有詞",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "便秘",
+                        "example": [
+                            {
+                                "fm_sentence": "muwaza niqan ku tu biabas, sepinan ti iku.",
+                                "ch_sentence": "我吃很多芭樂，(所以)我便秘了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "paisingan": {
+        "fm_word": "paisingan",
+        "新詞中文": "看病的地方",
+        "辭典中文": "就醫；看醫生；看病",
+        "原始新詞資料": {
+            "fm_word": "paisingan",
+            "ch_semantic": "看病的地方",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "ising",
+                "sense": [
+                    {
+                        "ch_sense": "就醫；看醫生；看病",
+                        "example": [
+                            {
+                                "fm_sentence": "paisingan niaq tama ku, qawqawman taRaw na mai nengi.",
+                                "ch_sentence": "我們請醫生看我爸爸的病，(可是)還是沒有好轉。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sasudadan": {
+        "fm_word": "sasudadan",
+        "新詞中文": "",
+        "辭典中文": "要寫的",
+        "原始新詞資料": {
+            "fm_word": "sasudadan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "sudad",
+                "sense": [
+                    {
+                        "ch_sense": "要寫的",
+                        "example": [
+                            {
+                                "fm_sentence": "sasudadan ku tepuluk zau.",
+                                "ch_sentence": "這是我要寫的紙。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "paskuwa": {
+        "fm_word": "paskuwa",
+        "新詞中文": "",
+        "辭典中文": "過年",
+        "原始新詞資料": {
+            "fm_word": "paskuwa",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "過年",
+                        "example": [
+                            {
+                                "fm_sentence": "manmet imi melilin paskuwa.",
+                                "ch_sentence": "我們過年祭祖要吃素。"
+                            },
+                            {
+                                "fm_sentence": "paskuwa pa ti saisi pa iku tu sapalilinan.",
+                                "ch_sentence": "過年快到了，我要做糯米酒要祭祖用的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "saqayan": {
+        "fm_word": "saqayan",
+        "新詞中文": "",
+        "辭典中文": "走",
+        "原始新詞資料": {
+            "fm_word": "saqayan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "saqay",
+                "sense": [
+                    {
+                        "ch_sense": "走",
+                        "example": [
+                            {
+                                "fm_sentence": "sukaw saqayan lazan zau.",
+                                "ch_sentence": "這條路很不好走。"
+                            },
+                            {
+                                "fm_sentence": "saqayan ku masang lazan zau.",
+                                "ch_sentence": "我以前走過這條路。"
+                            },
+                            {
+                                "fm_sentence": "nengi saqayan lazan 'nay matiw sa naung.",
+                                "ch_sentence": "那條去山上的路很好走。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "bulan": {
+        "fm_word": "bulan",
+        "新詞中文": "",
+        "辭典中文": "給 / 月亮 / 月",
+        "原始新詞資料": {
+            "fm_word": "bulan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "bula",
+                "sense": [
+                    {
+                        "ch_sense": "給",
+                        "example": [
+                            {
+                                "fm_sentence": "pibulan bulan na aiku na sunis ku tu kelisiw.",
+                                "ch_sentence": "我的孩子每個月給我生活費(錢)。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "1",
+                "sense": [
+                    {
+                        "ch_sense": "月亮",
+                        "example": [
+                            {
+                                "fm_sentence": "qemidat tangi Rabi bulan zau.",
+                                "ch_sentence": "今晚月亮很亮。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "2",
+                "sense": [
+                    {
+                        "ch_sense": "月",
+                        "example": [
+                            {
+                                "fm_sentence": "bulan zau utulu banged melaziw.",
+                                "ch_sentence": "這個月有三個颱風經過。"
+                            },
+                            {
+                                "fm_sentence": "bulan zau utulu ma dedan iku ta leppawan.",
+                                "ch_sentence": "這個月我只有三天在家裡。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "patadikud": {
+        "fm_word": "patadikud",
+        "新詞中文": "",
+        "辭典中文": "歸還；還回去",
+        "原始新詞資料": {
+            "fm_word": "patadikud",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "tadikud",
+                "sense": [
+                    {
+                        "ch_sense": "歸還；還回去",
+                        "example": [
+                            {
+                                "fm_sentence": "patadikud ika kelisiw na ni angaw.",
+                                "ch_sentence": "把Angaw的錢還回去。"
+                            },
+                            {
+                                "fm_sentence": "niliway su tu qitun qumni su patadikud?",
+                                "ch_sentence": "你借的車子你什麼時候要歸還?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Resapan": {
+        "fm_word": "Resapan",
+        "新詞中文": "",
+        "辭典中文": "海岸(海砂灘)",
+        "原始新詞資料": {
+            "fm_word": "Resapan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "海岸(海砂灘)",
+                        "example": [
+                            {
+                                "fm_sentence": "yau iku ta Resapan temita tu Rikum.",
+                                "ch_sentence": "我在海岸上看海浪。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "manmet": {
+        "fm_word": "manmet",
+        "新詞中文": "",
+        "辭典中文": "齋戒、吃素",
+        "原始新詞資料": {
+            "fm_word": "manmet",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "齋戒、吃素",
+                        "example": [
+                            {
+                                "fm_sentence": "manmet imi melilin paskua.",
+                                "ch_sentence": "我們過年祭祖要吃素。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "siking": {
+        "fm_word": "siking",
+        "新詞中文": "",
+        "辭典中文": "筆筒樹",
+        "原始新詞資料": {
+            "fm_word": "siking",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "筆筒樹",
+                        "example": [
+                            {
+                                "fm_sentence": "kumtun iku tu siking sapaluman tu simau.",
+                                "ch_sentence": "我去砍筆筒樹要種花用。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pispis": {
+        "fm_word": "pispis",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "走廊",
+        "原始新詞資料": {
+            "fm_word": "pispis",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "走廊",
+                        "example": [
+                            {
+                                "fm_sentence": "tabay pispis na leppaw numi.",
+                                "ch_sentence": "你們家的走廊很寬。"
+                            },
+                            {
+                                "fm_sentence": "tabay pispis na leppaw niaq.",
+                                "ch_sentence": "我們家的走廊很寬。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "saipilan": {
+        "fm_word": "saipilan",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "要聽的(內容)",
+        "原始新詞資料": {
+            "fm_word": "saipilan",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "ipil",
+                "sense": [
+                    {
+                        "ch_sense": "要聽的(內容)",
+                        "example": [
+                            {
+                                "fm_sentence": "niana saipilan niaq tangi?",
+                                "ch_sentence": "我們今天要聽的是什麼？"
+                            },
+                            {
+                                "fm_sentence": "ussa nazau ay sikawman saipilan na sunis!",
+                                "ch_sentence": "這不是孩子們所要聽的話！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "semudad": {
+        "fm_word": "semudad",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "寫",
+        "原始新詞資料": {
+            "fm_word": "semudad",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "sudad",
+                "sense": [
+                    {
+                        "ch_sense": "寫",
+                        "example": [
+                            {
+                                "fm_sentence": "semudad aizipna tu nangan na.",
+                                "ch_sentence": "他在寫他的名字。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "patalin": {
+        "fm_word": "patalin",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "使搬遷；遷移",
+        "原始新詞資料": {
+            "fm_word": "patalin",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "talin",
+                "sense": [
+                    {
+                        "ch_sense": "使搬遷；遷移",
+                        "example": [
+                            {
+                                "fm_sentence": "zinneq qitun na qaqa su, patalin ika tu tama su.",
+                                "ch_sentence": "你哥哥的車子很重, 叫你爸爸(將它)移走。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "qenabinnusan": {
+        "fm_word": "qenabinnusan",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "出生地",
+        "原始新詞資料": {
+            "fm_word": "qenabinnusan",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "qenabinnus",
+                "sense": [
+                    {
+                        "ch_sense": "出生地",
+                        "example": [
+                            {
+                                "fm_sentence": "ta kalingkuan qenabinnusan ku.",
+                                "ch_sentence": "我的出生地在花蓮。"
+                            },
+                            {
+                                "fm_sentence": "melizaq iku tu qenabinnusan ku ay damu.",
+                                "ch_sentence": "我很喜歡我出生的地方(原生的部落)。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "qemudu": {
+        "fm_word": "qemudu",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "養(人)",
+        "原始新詞資料": {
+            "fm_word": "qemudu",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "qudu",
+                "sense": [
+                    {
+                        "ch_sense": "養(人)",
+                        "example": [
+                            {
+                                "fm_sentence": "qemudu bai zau tu bai na.",
+                                "ch_sentence": "這個奶奶在養她的孫女。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "paseniz": {
+        "fm_word": "paseniz",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "要放下；要拿下",
+        "原始新詞資料": {
+            "fm_word": "paseniz",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "seniz",
+                "sense": [
+                    {
+                        "ch_sense": "要放下；要拿下",
+                        "example": [
+                            {
+                                "fm_sentence": "paseniz ika Ribang ta.",
+                                "ch_sentence": "把我們的行李拿下來。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "uzep": {
+        "fm_word": "uzep",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "熄(火)；滅(火)；關(燈)",
+        "原始新詞資料": {
+            "fm_word": "uzep",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "熄(火)；滅(火)；關(燈)",
+                        "example": [
+                            {
+                                "fm_sentence": "uzep ika ti sinut na sammayan.",
+                                "ch_sentence": "廚房的燈去關掉。"
+                            },
+                            {
+                                "fm_sentence": "uzep ika ti niRaizuan ta Ramaz.",
+                                "ch_sentence": "我們烤的火該熄了。"
+                            },
+                            {
+                                "fm_sentence": "uzep ika qitun su, temuRes, mai qaipil ni sikawma su.",
+                                "ch_sentence": "你把車子熄火，太吵了，我聽不到你說的話。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

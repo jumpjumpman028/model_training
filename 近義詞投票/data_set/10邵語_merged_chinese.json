@@ -1,0 +1,439 @@
+{
+    "maranash": {
+        "fm_word": "maranash",
+        "新詞中文": "稀疏無毛的",
+        "辭典中文": "警察 / 黃肉芋（一種芋頭的品種名稱）",
+        "原始新詞資料": {
+            "fm_word": "maranash",
+            "ch_semantic": "稀疏無毛的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sub_id": "1",
+                "sense": [
+                    {
+                        "ch_sense": "警察",
+                        "example": [
+                            {
+                                "fm_sentence": "thithu fadin sa maranash tuali.",
+                                "ch_sentence": "他被警察罰錢。"
+                            },
+                            {
+                                "fm_sentence": "thithu maqarman a thau luumin iza sa maranash.",
+                                "ch_sentence": "他是壞人，已經被警察關起來了。"
+                            },
+                            {
+                                "fm_sentence": "ya qunriuq sa suma wa aniamin a sakpin sa maranash.",
+                                "ch_sentence": "如果偷別人的東西會被警察捉起來。"
+                            },
+                            {
+                                "fm_sentence": "ya qunriuq sa tu sa suma wa aniamin ya panduuan sa maranash a sakpin sa maranash mluum.",
+                                "ch_sentence": "偷別人的東西如果剛好遇到警察，會被警察捉起來關。"
+                            },
+                            {
+                                "fm_sentence": "faqlhu a maranash malalawan munai mathuaw makarishkish munkuzakuza smuqum.",
+                                "ch_sentence": "新的警察被派來這裡，很勤地勞四處巡視。"
+                            },
+                            {
+                                "fm_sentence": "ya qunriuq sa tu sa suma wa aniamin ya panduuan sa maranash a sakpin sa maranash, a luumin thaythuy.",
+                                "ch_sentence": "偷別人的被派如果剛好遇到警察，會被警察捉起來，被他們關起來。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "2",
+                "sense": [
+                    {
+                        "ch_sense": "黃肉芋（一種芋頭的品種名稱）",
+                        "example": [
+                            {
+                                "fm_sentence": "maranash a lhari thithu a bunlhaz mika shadunan antu miazai sa mazbu a lhari.",
+                                "ch_sentence": "黃肉芋的肉略似黃色，不像檳榔心芋。"
+                            },
+                            {
+                                "fm_sentence": "maranash a lhari a bunlhaz mathuaw mabaluhbu ya kanin.",
+                                "ch_sentence": "黃肉芋起來很乾鬆。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kazakazash": {
+        "fm_word": "kazakazash",
+        "新詞中文": "非常明顯(不能逾越)",
+        "辭典中文": "儀式,傳統禮儀（重疊,持續貌）",
+        "原始新詞資料": {
+            "fm_word": "kazakazash",
+            "ch_semantic": "非常明顯(不能逾越)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "儀式,傳統禮儀（重疊,持續貌）",
+                        "example": [
+                            {
+                                "fm_sentence": "lus'an mita Thau a kazakazash.",
+                                "ch_sentence": "lus’an是我們的傳統禮儀。"
+                            }
+                        ]
+                    }
+                ],
+                "reference": "kazash",
+                "reference_sub_id": "1"
+            }
+        ]
+    },
+    "pishfazaq": {
+        "fm_word": "pishfazaq",
+        "新詞中文": "使知道",
+        "辭典中文": "通知,使知道（使役）",
+        "原始新詞資料": {
+            "fm_word": "pishfazaq",
+            "ch_semantic": "使知道",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "fazaq-",
+                "sense": [
+                    {
+                        "ch_sense": "通知,使知道（使役）",
+                        "example": [
+                            {
+                                "fm_sentence": "daduu pishfazaq pashtay munai pulalu.",
+                                "ch_sentence": "頭人通知大家來拜拜。"
+                            },
+                            {
+                                "fm_sentence": "shinshii mulalu pishfazaq sa tanatuqash mzai numa wa kazakazash.",
+                                "ch_sentence": "先生媽主持祭儀，讓祖先知道是在做什麼祭典。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tmaukazash": {
+        "fm_word": "tmaukazash",
+        "新詞中文": "動工儀式",
+        "辭典中文": "試種;試做,試掘,動工 盛土",
+        "原始新詞資料": {
+            "fm_word": "tmaukazash",
+            "ch_semantic": "動工儀式",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kazash-",
+                "sense": [
+                    {
+                        "ch_sense": "試種;試做,試掘,動工 盛土",
+                        "example": [
+                            {
+                                "fm_sentence": "tmaukazash tmau'aqur.",
+                                "ch_sentence": "用鋤頭挖掘並且裝盛。"
+                            },
+                            {
+                                "fm_sentence": "linus'aniza, amutusi yaku buhat amataukazashuak kmari sa buhat.",
+                                "ch_sentence": "已經過完年了，我要去田裡動工，挖一下田地。"
+                            },
+                            {
+                                "fm_sentence": "mukaktuniza minkuinii, amutusi yaku buhat tmaukazash sa buhat.",
+                                "ch_sentence": "已經過完了年，我要去田裡盛土動工。"
+                            },
+                            {
+                                "fm_sentence": "shintua ihu shashanu? shitusi yaku buhat tmaukazash sa buhat.",
+                                "ch_sentence": "你早上去哪裡？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "aminfazaq": {
+        "fm_word": "aminfazaq",
+        "新詞中文": "了解; 研究",
+        "辭典中文": "要學習（未來）",
+        "原始新詞資料": {
+            "fm_word": "aminfazaq",
+            "ch_semantic": "了解; 研究",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "fazaq-",
+                "sense": [
+                    {
+                        "ch_sense": "要學習（未來）",
+                        "example": [
+                            {
+                                "fm_sentence": "thuini yaku miazai sa azazakuan, aminfazaq sa Thau a lalawa.",
+                                "ch_sentence": "今天我好像還是個小孩子，要學習邵語。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ma'ania": {
+        "fm_word": "ma'ania",
+        "新詞中文": "出色; 才華;聰明",
+        "辭典中文": "聰明,靈敏,精巧,能幹,精明（狀態）",
+        "原始新詞資料": {
+            "fm_word": "ma'ania",
+            "ch_semantic": "出色; 才華;聰明",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "ania-",
+                "sense": [
+                    {
+                        "ch_sense": "聰明,靈敏,精巧,能幹,精明（狀態）",
+                        "example": [
+                            {
+                                "fm_sentence": "ma'ania yaku mat ihun ya malalia.",
+                                "ch_sentence": "我比你會跑步。"
+                            },
+                            {
+                                "fm_sentence": "thithu ya maqaquyash ma'ania ya mat yakin.",
+                                "ch_sentence": "他比我會唱歌。"
+                            },
+                            {
+                                "fm_sentence": "huya binanu'az mathuaw ma'ania.",
+                                "ch_sentence": "那個女人很精明。"
+                            },
+                            {
+                                "fm_sentence": "ladaduan yaku ya pudawaz, niwan tu ma'ania.",
+                                "ch_sentence": "我稍微會放魚筏，還沒有很精通。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ukaiza": {
+        "fm_word": "ukaiza",
+        "新詞中文": "已經沒有了",
+        "辭典中文": "已經沒有了",
+        "原始新詞資料": {
+            "fm_word": "ukaiza",
+            "ch_semantic": "已經沒有了",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "uka",
+                "sense": [
+                    {
+                        "ch_sense": "已經沒有了",
+                        "example": [
+                            {
+                                "fm_sentence": "ananaikin huya wa thau ukaiza dai!",
+                                "ch_sentence": "那個人死了真可惜！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "matinzashuzashuq": {
+        "fm_word": "matinzashuzashuq",
+        "新詞中文": "起風疹",
+        "辭典中文": "起雞皮疙瘩",
+        "原始新詞資料": {
+            "fm_word": "matinzashuzashuq",
+            "ch_semantic": "起風疹",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "zashuq",
+                "sense": [
+                    {
+                        "ch_sense": "起雞皮疙瘩",
+                        "example": [
+                            {
+                                "fm_sentence": "minshkash yaku pitsiksik sa kupur numa matinzashuzashuq sa buut.",
+                                "ch_sentence": "我受驚而毛髮豎起並且全身起雞皮疙瘩。"
+                            },
+                            {
+                                "fm_sentence": "yaku minshkash pitsiksik sa kupur numa matinzashuzashuq sa buut.",
+                                "ch_sentence": "我受驚而毛髮豎起並且全身起雞皮疙瘩。"
+                            },
+                            {
+                                "fm_sentence": "mita wa punuq ya miazai sa izai shunra'in numa matinzashuzashuq, isisua dai ya mapanduu sa tampapurai.",
+                                "ch_sentence": "我們的頭若像是澎脹變大，而且起雞疙瘩，這時可能是遇到tampapurai了。"
+                            },
+                            {
+                                "fm_sentence": "mita wa punuq ya miazai sa shunra'in, numa matinzashuzashuq, isisua dai ya mapanduu sa tampapurai.",
+                                "ch_sentence": "我們的頭若像是澎脹變大，而且起雞疙瘩，這時可能是遇到tampapurai了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "unlhaqlhaqan": {
+        "fm_word": "unlhaqlhaqan",
+        "新詞中文": "肛門血管曲張腫脹",
+        "辭典中文": "長痔瘡",
+        "原始新詞資料": {
+            "fm_word": "unlhaqlhaqan",
+            "ch_semantic": "肛門血管曲張腫脹",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "lhaqlhaq-",
+                "sense": [
+                    {
+                        "ch_sense": "長痔瘡",
+                        "example": [
+                            {
+                                "fm_sentence": "thau ya unlhaqlhaqan miazai sa lhaqlhaq a lhuzush maqulhaqulha.",
+                                "ch_sentence": "人長痔瘡，紅紅的像紅肉李一樣。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mata'azu": {
+        "fm_word": "mata'azu",
+        "新詞中文": "",
+        "辭典中文": "替寫＝ matash'azu的省略",
+        "原始新詞資料": {
+            "fm_word": "mata'azu",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "azu-",
+                "sense": [
+                    {
+                        "ch_sense": "替寫＝ matash'azu的省略",
+                        "example": [
+                            {
+                                "fm_sentence": "yaku sa mata'azu matash.",
+                                "ch_sentence": "我是替你寫的人。"
+                            },
+                            {
+                                "fm_sentence": "mata'azu tu matash.",
+                                "ch_sentence": "替寫 yaku sa mata'azu ihun. 我是替你寫的人。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "matishfazfaz": {
+        "fm_word": "matishfazfaz",
+        "新詞中文": "",
+        "辭典中文": "一半,半桶,半瓶",
+        "原始新詞資料": {
+            "fm_word": "matishfazfaz",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "fazfaz-",
+                "sense": [
+                    {
+                        "ch_sense": "一半,半桶,半瓶",
+                        "example": [
+                            {
+                                "fm_sentence": "tahamish a sazum matishfazfaz, puqthaiwan pupunish.",
+                                "ch_sentence": "甕缸裡的水只有一半，請再加滿。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "laqsimuaw": {
+        "fm_word": "laqsimuaw",
+        "新詞中文": "",
+        "辭典中文": "乞丐",
+        "原始新詞資料": {
+            "fm_word": "laqsimuaw",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "simuaw-",
+                "sense": [
+                    {
+                        "ch_sense": "乞丐",
+                        "example": [
+                            {
+                                "fm_sentence": "shidadaidazuan izai laqsimuaw.",
+                                "ch_sentence": "這個乞丐很可憐 laqsimuaw mathuaw thithu tampapuliqliq sa inifaz, shidadaidaz dai! 乞丐的衣服破破爛爛的，很可憐呢！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "lhungqizi": {
+        "fm_word": "lhungqizi",
+        "新詞中文": "",
+        "辭典中文": "照顧,看顧,統治,管理",
+        "原始新詞資料": {
+            "fm_word": "lhungqizi",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "lhqizi",
+                "sense": [
+                    {
+                        "ch_sense": "照顧,看顧,統治,管理",
+                        "example": [
+                            {
+                                "fm_sentence": "huya wa aniamin yaku sa lhungqizi.",
+                                "ch_sentence": "那些東西是我在管理的。"
+                            },
+                            {
+                                "fm_sentence": "huya tata wa qbit a aniamin thaythuy sa lhungqizi.",
+                                "ch_sentence": "那堆東西是他們在看管的。"
+                            },
+                            {
+                                "fm_sentence": "itaun yaku lhungqizi sa azazak.",
+                                "ch_sentence": "我在家裡照顧小孩。"
+                            },
+                            {
+                                "fm_sentence": "ya kahiwan Litpuun uan sa lhungqizi.",
+                                "ch_sentence": "以前是日本在統治。"
+                            },
+                            {
+                                "fm_sentence": "inai Barawbaw ianan sa maranash lhungqizi itan.",
+                                "ch_sentence": "在日月村有警察在看顧（管理）我們。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

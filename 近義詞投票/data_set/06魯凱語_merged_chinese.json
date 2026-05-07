@@ -1,0 +1,930 @@
+{
+    "kakwakudhane": {
+        "fm_word": "kakwakudhane",
+        "新詞中文": "習俗",
+        "辭典中文": "習俗 / 作為；行為",
+        "原始新詞資料": {
+            "fm_word": "kakwakudhane",
+            "ch_semantic": "習俗",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kakudhane",
+                "sense": [
+                    {
+                        "ch_sense": "習俗",
+                        "example": [
+                            {
+                                "fm_sentence": "wathingale madu kay kakwakudhane ki Ngudradrekay.",
+                                "ch_sentence": "要熟悉（知道）魯凱族的習俗。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "作為；行為",
+                        "example": [
+                            {
+                                "fm_sentence": "mathariri kay kakwakudhane ki lasu.",
+                                "ch_sentence": "他的行為很好。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kacalrisiane": {
+        "fm_word": "kacalrisiane",
+        "新詞中文": "原住民",
+        "辭典中文": "原住民",
+        "原始新詞資料": {
+            "fm_word": "kacalrisiane",
+            "ch_semantic": "原住民",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "原住民",
+                        "example": [
+                            {
+                                "fm_sentence": "tathaithariri kay kacalrisiane.",
+                                "ch_sentence": "原住民很優秀。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "recenge": {
+        "fm_word": "recenge",
+        "新詞中文": "掌權",
+        "辭典中文": "四把小米綁成一大把",
+        "原始新詞資料": {
+            "fm_word": "recenge",
+            "ch_semantic": "掌權",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "四把小米綁成一大把",
+                        "example": [
+                            {
+                                "fm_sentence": "ni malra recenge tu vaeva.",
+                                "ch_sentence": "拿去綁一大把。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "caemane": {
+        "fm_word": "caemane",
+        "新詞中文": "(有生命的)病毒",
+        "辭典中文": "病毒",
+        "原始新詞資料": {
+            "fm_word": "caemane",
+            "ch_semantic": "(有生命的)病毒",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "caeme",
+                "sense": [
+                    {
+                        "ch_sense": "病毒",
+                        "example": [
+                            {
+                                "fm_sentence": "kay caemane twalisi ki kinawmasane.",
+                                "ch_sentence": "病毒會侵害身體。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "telregane": {
+        "fm_word": "telregane",
+        "新詞中文": "重量",
+        "辭典中文": "重量",
+        "原始新詞資料": {
+            "fm_word": "telregane",
+            "ch_semantic": "重量",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "重量",
+                        "example": [
+                            {
+                                "fm_sentence": "thaininu ku telregane ki tingitingi kay beeke kay?",
+                                "ch_sentence": "這隻豬有多少重量？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ata": {
+        "fm_word": "ata",
+        "新詞中文": "被河沖走的木材",
+        "辭典中文": "漂流木 / 我們來… / 我們為什麼…",
+        "原始新詞資料": {
+            "fm_word": "ata",
+            "ch_semantic": "被河沖走的木材",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "漂流木",
+                        "example": [
+                            {
+                                "fm_sentence": "sana lriau kadravane makaalra ku ata.",
+                                "ch_sentence": "河川暴漲會有很多漂流木。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "我們來…",
+                        "example": [
+                            {
+                                "fm_sentence": "ata culu kay beeke nay.",
+                                "ch_sentence": "我們來殺我們的豬。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "我們為什麼…",
+                        "example": [
+                            {
+                                "fm_sentence": "ata kela kay lritumaneta?",
+                                "ch_sentence": "我們來這裡要做什麼事？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "bikabiki": {
+        "fm_word": "bikabiki",
+        "新詞中文": "特別大的浪",
+        "辭典中文": "浪",
+        "原始新詞資料": {
+            "fm_word": "bikabiki",
+            "ch_semantic": "特別大的浪",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "浪",
+                        "example": [
+                            {
+                                "fm_sentence": "bikabiki ki laveke.",
+                                "ch_sentence": "海浪"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kakudhane": {
+        "fm_word": "kakudhane",
+        "新詞中文": "制度",
+        "辭典中文": "規條；規律 / 習慣性",
+        "原始新詞資料": {
+            "fm_word": "kakudhane",
+            "ch_semantic": "制度",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "規條；規律",
+                        "example": [
+                            {
+                                "fm_sentence": "pasuusu madu kay kakudhane.",
+                                "ch_sentence": "要遵守規範。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "習慣性",
+                        "example": [
+                            {
+                                "fm_sentence": "kakudhane ki lasu ka busukane ini.",
+                                "ch_sentence": "喝酒醉是他的習慣了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "thimithimi": {
+        "fm_word": "thimithimi",
+        "新詞中文": "我的專屬的",
+        "辭典中文": "特權（貴族的權利）",
+        "原始新詞資料": {
+            "fm_word": "thimithimi",
+            "ch_semantic": "我的專屬的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "特權（貴族的權利）",
+                        "example": [
+                            {
+                                "fm_sentence": "makalra kay thimithimi ki talialalay.",
+                                "ch_sentence": "大貴族的特權很多。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "twadringelrese": {
+        "fm_word": "twadringelrese",
+        "新詞中文": "做公正的人(N)",
+        "辭典中文": "弄直",
+        "原始新詞資料": {
+            "fm_word": "twadringelrese",
+            "ch_semantic": "做公正的人(N)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "dringelrese",
+                "sense": [
+                    {
+                        "ch_sense": "弄直",
+                        "example": [
+                            {
+                                "fm_sentence": "amani ka lasu ka twadringelrese.",
+                                "ch_sentence": "是他弄直的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "carebecebe": {
+        "fm_word": "carebecebe",
+        "新詞中文": "不是主要的音/意思",
+        "辭典中文": "傳統歌謠中皆由主唱者帶，另有配（陪）唱，配唱者的歌聲叫carebecebe",
+        "原始新詞資料": {
+            "fm_word": "carebecebe",
+            "ch_semantic": "不是主要的音/意思",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "傳統歌謠中皆由主唱者帶，另有配（陪）唱，配唱者的歌聲叫carebecebe",
+                        "example": [
+                            {
+                                "fm_sentence": "kay senay ki Ngudradrekay yakai ku waililuku laikay ku wacarebecebe.",
+                                "ch_sentence": "魯凱歌有人帶唱有人配唱。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "simamilringane": {
+        "fm_word": "simamilringane",
+        "新詞中文": "傳統美食",
+        "辭典中文": "古老的；很久以前的",
+        "原始新詞資料": {
+            "fm_word": "simamilringane",
+            "ch_semantic": "傳統美食",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "milringi",
+                "sense": [
+                    {
+                        "ch_sense": "古老的；很久以前的",
+                        "example": [
+                            {
+                                "fm_sentence": "simamilringane ka abulru ki Ngudradrekay.",
+                                "ch_sentence": "魯凱族傳統故事很古老的故事。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "hulrice": {
+        "fm_word": "hulrice",
+        "新詞中文": "",
+        "辭典中文": "法律",
+        "原始新詞資料": {
+            "fm_word": "hulrice",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "法律",
+                        "example": [
+                            {
+                                "fm_sentence": "hulrice ki swa Yudaiya.",
+                                "ch_sentence": "猶太人的法律。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "hakubuku": {
+        "fm_word": "hakubuku",
+        "新詞中文": "",
+        "辭典中文": "粉筆",
+        "原始新詞資料": {
+            "fm_word": "hakubuku",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "粉筆",
+                        "example": [
+                            {
+                                "fm_sentence": "arakay madu ku hakubuku pacase pikai ki kukubange.",
+                                "ch_sentence": "要用粉筆寫在黑板上。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "peaelaela": {
+        "fm_word": "peaelaela",
+        "新詞中文": "",
+        "辭典中文": "告訴；講；說",
+        "原始新詞資料": {
+            "fm_word": "peaelaela",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "pelaela",
+                "sense": [
+                    {
+                        "ch_sense": "告訴；講；說",
+                        "example": [
+                            {
+                                "fm_sentence": "peaelaela nawkwane ka lasu ku taiyanesu.",
+                                "ch_sentence": "你講的，他告訴我。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "alrisapesape": {
+        "fm_word": "alrisapesape",
+        "新詞中文": "",
+        "辭典中文": "石壁",
+        "原始新詞資料": {
+            "fm_word": "alrisapesape",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "石壁",
+                        "example": [
+                            {
+                                "fm_sentence": "kay kadaengane ki swa Vedai makalra ku alrisapesape.",
+                                "ch_sentence": "霧台部落的土地有很多石壁。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "beneke": {
+        "fm_word": "beneke",
+        "新詞中文": "",
+        "辭典中文": "沼澤；泥沼地",
+        "原始新詞資料": {
+            "fm_word": "beneke",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "沼澤；泥沼地",
+                        "example": [
+                            {
+                                "fm_sentence": "sapapacay kay beneke.",
+                                "ch_sentence": "沼澤地是很危險的地方。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kilrungu": {
+        "fm_word": "kilrungu",
+        "新詞中文": "",
+        "辭典中文": "弄彎",
+        "原始新詞資料": {
+            "fm_word": "kilrungu",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "弄彎",
+                        "example": [
+                            {
+                                "fm_sentence": "alra kilrungu kwini lingase!",
+                                "ch_sentence": "把那鐵絲弄彎！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "beabeatane": {
+        "fm_word": "beabeatane",
+        "新詞中文": "",
+        "辭典中文": "一塊肉",
+        "原始新詞資料": {
+            "fm_word": "beabeatane",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "beate",
+                "sense": [
+                    {
+                        "ch_sense": "一塊肉",
+                        "example": [
+                            {
+                                "fm_sentence": "beabeatane kay kanekaneli kay butulu.",
+                                "ch_sentence": "我只吃一小塊的肉。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kabane": {
+        "fm_word": "kabane",
+        "新詞中文": "",
+        "辭典中文": "鐵皮；鉛板",
+        "原始新詞資料": {
+            "fm_word": "kabane",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "鐵皮；鉛板",
+                        "example": [
+                            {
+                                "fm_sentence": "arakay nay ku kabane tudaane.",
+                                "ch_sentence": "我們用鉛板蓋房子。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "malritete": {
+        "fm_word": "malritete",
+        "新詞中文": "",
+        "辭典中文": "很圓；圓",
+        "原始新詞資料": {
+            "fm_word": "malritete",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "lritete",
+                "sense": [
+                    {
+                        "ch_sense": "很圓；圓",
+                        "example": [
+                            {
+                                "fm_sentence": "malritete sanaka malri.",
+                                "ch_sentence": "所有的球都是圓的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "baibaiyu": {
+        "fm_word": "baibaiyu",
+        "新詞中文": "",
+        "辭典中文": "小溪湖",
+        "原始新詞資料": {
+            "fm_word": "baibaiyu",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "baibay",
+                "sense": [
+                    {
+                        "ch_sense": "小溪湖",
+                        "example": [
+                            {
+                                "fm_sentence": "maraenerene kay laymayli ki tautaburaneli ki baibaiyu.",
+                                "ch_sentence": "我掉落到小池全身的衣服都濕答答。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "aremi": {
+        "fm_word": "aremi",
+        "新詞中文": "",
+        "辭典中文": "鋁",
+        "原始新詞資料": {
+            "fm_word": "aremi",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "鋁",
+                        "example": [
+                            {
+                                "fm_sentence": "maliapapay kay aremi ki adreme.",
+                                "ch_sentence": "鋁比鐵輕。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mamange": {
+        "fm_word": "mamange",
+        "新詞中文": "",
+        "辭典中文": "鋼鐵",
+        "原始新詞資料": {
+            "fm_word": "mamange",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "鋼鐵",
+                        "example": [
+                            {
+                                "fm_sentence": "kay mamange kay adreme makecenge.",
+                                "ch_sentence": "鋼鐵製作的鐵器才堅固。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "lrenege": {
+        "fm_word": "lrenege",
+        "新詞中文": "",
+        "辭典中文": "石頭；石板",
+        "原始新詞資料": {
+            "fm_word": "lrenege",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "石頭；石板",
+                        "example": [
+                            {
+                                "fm_sentence": "arakay ku lrenege tudaane kay Ngudradrekay.",
+                                "ch_sentence": "魯凱族用石板蓋房子。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kumuingi": {
+        "fm_word": "kumuingi",
+        "新詞中文": "",
+        "辭典中文": "公務員",
+        "原始新詞資料": {
+            "fm_word": "kumuingi",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "公務員",
+                        "example": [
+                            {
+                                "fm_sentence": "taykaikaiyane ki kumuingi sanpange bingkusiw.",
+                                "ch_sentence": "駐在所（派駐所）是警察上班的地方。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kela": {
+        "fm_word": "kela",
+        "新詞中文": "",
+        "辭典中文": "到；來",
+        "原始新詞資料": {
+            "fm_word": "kela",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "到；來",
+                        "example": [
+                            {
+                                "fm_sentence": "manemane ku kela numi",
+                                "ch_sentence": "你們來幹嘛？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pingi": {
+        "fm_word": "pingi",
+        "新詞中文": "",
+        "辭典中文": "別針 / 數量的多少",
+        "原始新詞資料": {
+            "fm_word": "pingi",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "別針",
+                        "example": [
+                            {
+                                "fm_sentence": "ta kwini pingi naw paraysi kay bengelray.",
+                                "ch_sentence": "別針給我掛胸花。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "數量的多少",
+                        "example": [
+                            {
+                                "fm_sentence": "pingi pia su kane ku mantu?",
+                                "ch_sentence": "你吃幾個饅頭？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "rarubuane": {
+        "fm_word": "rarubuane",
+        "新詞中文": "",
+        "辭典中文": "集會所；廣場",
+        "原始新詞資料": {
+            "fm_word": "rarubuane",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "rubu",
+                "sense": [
+                    {
+                        "ch_sense": "集會所；廣場",
+                        "example": [
+                            {
+                                "fm_sentence": "sana ka cekele yakay ku rarubuane lini.",
+                                "ch_sentence": "每一個部落都有他們的集會所。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ama": {
+        "fm_word": "ama",
+        "新詞中文": "",
+        "辭典中文": "父親；叔叔；伯伯輩的統稱",
+        "原始新詞資料": {
+            "fm_word": "ama",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "父親；叔叔；伯伯輩的統稱",
+                        "example": [
+                            {
+                                "fm_sentence": "kavay wanene yai ama.",
+                                "ch_sentence": "我父親是那位坐著的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "twatama": {
+        "fm_word": "twatama",
+        "新詞中文": "",
+        "辭典中文": "稱為父親；拜乾爹",
+        "原始新詞資料": {
+            "fm_word": "twatama",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "ama",
+                "sense": [
+                    {
+                        "ch_sense": "稱為父親；拜乾爹",
+                        "example": [
+                            {
+                                "fm_sentence": "twatama ka alisu ki ama.",
+                                "ch_sentence": "她拜我父親做乾爹。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ruka": {
+        "fm_word": "ruka",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "走廊",
+        "原始新詞資料": {
+            "fm_word": "ruka",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "走廊",
+                        "example": [
+                            {
+                                "fm_sentence": "mathariri lu ikay kay ruka ki daane madu.",
+                                "ch_sentence": "自己的家有走廊很好。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kusiki": {
+        "fm_word": "kusiki",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "戶籍",
+        "原始新詞資料": {
+            "fm_word": "kusiki",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "戶籍",
+                        "example": [
+                            {
+                                "fm_sentence": "yakay Veday ku kusiki li.",
+                                "ch_sentence": "我的戶籍在霧台部落。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sialalake": {
+        "fm_word": "sialalake",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "領養孩子",
+        "原始新詞資料": {
+            "fm_word": "sialalake",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "lalake",
+                "sense": [
+                    {
+                        "ch_sense": "領養孩子",
+                        "example": [
+                            {
+                                "fm_sentence": "sialalake ka lalake ki taka ini.",
+                                "ch_sentence": "領養他哥哥的孩子。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kiacaeme": {
+        "fm_word": "kiacaeme",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "吃太多而拉肚子",
+        "原始新詞資料": {
+            "fm_word": "kiacaeme",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "caeme",
+                "sense": [
+                    {
+                        "ch_sense": "吃太多而拉肚子",
+                        "example": [
+                            {
+                                "fm_sentence": "kiacaeme ka vavalake ki pingikalrane kane.",
+                                "ch_sentence": "那小朋友因吃太多而拉肚子。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

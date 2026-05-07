@@ -1,0 +1,736 @@
+{
+    "akitakita": {
+        "fm_word": "akitakita",
+        "新詞中文": "到處看看",
+        "辭典中文": "觀看",
+        "原始新詞資料": {
+            "fm_word": "akitakita",
+            "ch_semantic": "到處看看",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "akita",
+                "sense": [
+                    {
+                        "ch_sense": "觀看",
+                        "example": [
+                            {
+                                "fm_sentence": "pavʉhlʉvʉhlʉrʉ matasaitia ahlʉaʉ alʉmʉhlʉna akitakita mamaini.",
+                                "ch_sentence": "把山豬的下巴排整齊要給孩子們看。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sikilaliali": {
+        "fm_word": "sikilaliali",
+        "新詞中文": "祭儀",
+        "辭典中文": "祭典的方式；祭典儀式",
+        "原始新詞資料": {
+            "fm_word": "sikilaliali",
+            "ch_semantic": "祭儀",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kilaliali",
+                "sense": [
+                    {
+                        "ch_sense": "祭典的方式；祭典儀式",
+                        "example": [
+                            {
+                                "fm_sentence": "macuka cumacukuru ia sikilaliali matasakʉ umaicuisana tahliulu.",
+                                "ch_sentence": "這是小米收成後，進穀倉的儀式。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "takuamia": {
+        "fm_word": "takuamia",
+        "新詞中文": "做事情的方式",
+        "辭典中文": "文化",
+        "原始新詞資料": {
+            "fm_word": "takuamia",
+            "ch_semantic": "做事情的方式",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "文化",
+                        "example": [
+                            {
+                                "fm_sentence": "tahlanaisa hla kana'anaia marumuku tumuru cucuisa sitakuamia.",
+                                "ch_sentence": "他們是一群熱愛文化傳承的人。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tingatinga": {
+        "fm_word": "tingatinga",
+        "新詞中文": "秤(V)",
+        "辭典中文": "秤；斤",
+        "原始新詞資料": {
+            "fm_word": "tingatinga",
+            "ch_semantic": "秤(V)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "秤；斤",
+                        "example": [
+                            {
+                                "fm_sentence": "aruamimia cucu'u mi'a'a kani'i tingatingana pakituru'a paahlivingi.",
+                                "ch_sentence": "商人用秤來決定這些東西多少錢。"
+                            },
+                            {
+                                "fm_sentence": "tainini ucani tingatinga, 'asarʉ?",
+                                "ch_sentence": "一斤雞蛋多少錢？."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "paumamaini": {
+        "fm_word": "paumamaini",
+        "新詞中文": "生孩子",
+        "辭典中文": "生孩子",
+        "原始新詞資料": {
+            "fm_word": "paumamaini",
+            "ch_semantic": "生孩子",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "生孩子",
+                        "example": [
+                            {
+                                "fm_sentence": "marucun miararuma lika'akaiu hla kana'ana taku'i'iarʉ alukala paumamaini.",
+                                "ch_sentence": "他們在都市定居，工作並結婚生子。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "takuari": {
+        "fm_word": "takuari",
+        "新詞中文": "巡;看",
+        "辭典中文": "巡視；巡邏",
+        "原始新詞資料": {
+            "fm_word": "takuari",
+            "ch_semantic": "巡;看",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "巡視；巡邏",
+                        "example": [
+                            {
+                                "fm_sentence": "muasalaku takuariumumaka rahluacuaku kuahlukakuaisana.",
+                                "ch_sentence": "我要去巡視園地，很久沒去了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "apuamia": {
+        "fm_word": "apuamia",
+        "新詞中文": "代替講話的人",
+        "辭典中文": "拜託；代表；到達",
+        "原始新詞資料": {
+            "fm_word": "apuamia",
+            "ch_semantic": "代替講話的人",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "拜託；代表；到達",
+                        "example": [
+                            {
+                                "fm_sentence": "maakiniaku taiara tumuamakaria apuamia karina.",
+                                "ch_sentence": "我要找工作，要拜託代表。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tiapili": {
+        "fm_word": "tiapili",
+        "新詞中文": "選擇",
+        "辭典中文": "挑選；選擇",
+        "原始新詞資料": {
+            "fm_word": "tiapili",
+            "ch_semantic": "選擇",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "挑選；選擇",
+                        "example": [
+                            {
+                                "fm_sentence": "tiapiliaku kuaruvaruvana curuvana aanʉ papa alʉmʉhlʉ.",
+                                "ch_sentence": "今天晚餐我選擇吃山豬肉。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "aramaini": {
+        "fm_word": "aramaini",
+        "新詞中文": "減少",
+        "辭典中文": "會少；變少",
+        "原始新詞資料": {
+            "fm_word": "aramaini",
+            "ch_semantic": "減少",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "maini",
+                "sense": [
+                    {
+                        "ch_sense": "會少；變少",
+                        "example": [
+                            {
+                                "fm_sentence": "maci aramaini a viaruna ia, sapaucu taluvucu.",
+                                "ch_sentence": "若玉米變少了，就是被老鼠吃了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "cukahlangʉ": {
+        "fm_word": "cukahlangʉ",
+        "新詞中文": "",
+        "辭典中文": "記號",
+        "原始新詞資料": {
+            "fm_word": "cukahlangʉ",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kahlangʉ",
+                "sense": [
+                    {
+                        "ch_sense": "記號",
+                        "example": [
+                            {
+                                "fm_sentence": "tainini a cukahlangʉ likihlisa kana'ana?",
+                                "ch_sentence": "他的車號是多少?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "asuhlatʉ": {
+        "fm_word": "asuhlatʉ",
+        "新詞中文": "",
+        "辭典中文": "記下來",
+        "原始新詞資料": {
+            "fm_word": "asuhlatʉ",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "suhlatʉ",
+                "sense": [
+                    {
+                        "ch_sense": "記下來",
+                        "example": [
+                            {
+                                "fm_sentence": "asuhlatʉ a hlitakumia aariaari.",
+                                "ch_sentence": "每天所做的要記起來。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "taluavaʉlana": {
+        "fm_word": "taluavaʉlana",
+        "新詞中文": "",
+        "辭典中文": "星期；週",
+        "原始新詞資料": {
+            "fm_word": "taluavaʉlana",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "taluvaʉlʉ",
+                "sense": [
+                    {
+                        "ch_sense": "星期；週",
+                        "example": [
+                            {
+                                "fm_sentence": "uka'a cucu'u takua'i'iarʉ arinaanika taluavaʉlana.",
+                                "ch_sentence": "今天沒有人工作，因為是星期日。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "patakuacahlia": {
+        "fm_word": "patakuacahlia",
+        "新詞中文": "",
+        "辭典中文": "預知",
+        "原始新詞資料": {
+            "fm_word": "patakuacahlia",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "macahlia",
+                "sense": [
+                    {
+                        "ch_sense": "預知",
+                        "example": [
+                            {
+                                "fm_sentence": "sia'ʉ'ʉraisamanaka patakuacahlia ihlaku hlatʉraku'ai kupihlipialalanga.",
+                                "ch_sentence": "很感謝讓我預先知道，不然可能就沒有心理準備。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tapangʉ": {
+        "fm_word": "tapangʉ",
+        "新詞中文": "",
+        "辭典中文": "阿里山鄒 / 達邦部落",
+        "原始新詞資料": {
+            "fm_word": "tapangʉ",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sub_id": "1",
+                "sense": [
+                    {
+                        "ch_sense": "阿里山鄒",
+                        "example": [
+                            {
+                                "fm_sentence": "tapangʉnaia ingahlanahlamu.",
+                                "ch_sentence": "阿里山鄒族和我們是一家人。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "2",
+                "sense": [
+                    {
+                        "ch_sense": "達邦部落",
+                        "example": [
+                            {
+                                "fm_sentence": "pakisuahlai auninia mahlukakua miararuma tapangʉ?",
+                                "ch_sentence": "請問，怎麼去達邦部落？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "takuahlivihlivi": {
+        "fm_word": "takuahlivihlivi",
+        "新詞中文": "",
+        "辭典中文": "統統",
+        "原始新詞資料": {
+            "fm_word": "takuahlivihlivi",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "統統",
+                        "example": [
+                            {
+                                "fm_sentence": "hliulavalava amakuka takuahlivihlivisa ta'iara mʉmʉa.",
+                                "ch_sentence": "我爸爸很厲害，什麼事統統都會做。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "iama": {
+        "fm_word": "iama",
+        "新詞中文": "",
+        "辭典中文": "喝；飲料",
+        "原始新詞資料": {
+            "fm_word": "iama",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "miima",
+                "sense": [
+                    {
+                        "ch_sense": "喝；飲料",
+                        "example": [
+                            {
+                                "fm_sentence": "ku iama cucu'ua kana'ana.",
+                                "ch_sentence": "那個人不喝。"
+                            },
+                            {
+                                "fm_sentence": "pu'a pakiaturuana iama apima ucanitaruana umaiapu.",
+                                "ch_sentence": "老師買飲料請全班喝。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "cʉcʉmʉa": {
+        "fm_word": "cʉcʉmʉa",
+        "新詞中文": "",
+        "辭典中文": "潮濕；潮濕處",
+        "原始新詞資料": {
+            "fm_word": "cʉcʉmʉa",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "潮濕；潮濕處",
+                        "example": [
+                            {
+                                "fm_sentence": "kiukiu'ua ma cʉcʉmʉa pakaritʉkʉhlʉ malangihlu.",
+                                "ch_sentence": "樹林在潮濕之地特別綠。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "hlihlica'a": {
+        "fm_word": "hlihlica'a",
+        "新詞中文": "",
+        "辭典中文": "泥地",
+        "原始新詞資料": {
+            "fm_word": "hlihlica'a",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "hlica'a",
+                "sense": [
+                    {
+                        "ch_sense": "泥地",
+                        "example": [
+                            {
+                                "fm_sentence": "hlipatuiailiaku ia hlihlica'a.",
+                                "ch_sentence": "我的田園是泥濘。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "aisa": {
+        "fm_word": "aisa",
+        "新詞中文": "",
+        "辭典中文": "中間",
+        "原始新詞資料": {
+            "fm_word": "aisa",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "中間",
+                        "example": [
+                            {
+                                "fm_sentence": "marua ucani kiu'u ma aisa sahlumu miararanguhlu.",
+                                "ch_sentence": "有一塊木頭漂浮在水中。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "camai": {
+        "fm_word": "camai",
+        "新詞中文": "",
+        "辭典中文": "菜",
+        "原始新詞資料": {
+            "fm_word": "camai",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "菜",
+                        "example": [
+                            {
+                                "fm_sentence": "inaku ma tavava maingururu camai.",
+                                "ch_sentence": "我媽媽在廚房摘菜。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "malihlʉlʉhlʉ": {
+        "fm_word": "malihlʉlʉhlʉ",
+        "新詞中文": "",
+        "辭典中文": "圓形",
+        "原始新詞資料": {
+            "fm_word": "malihlʉlʉhlʉ",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "圓形",
+                        "example": [
+                            {
+                                "fm_sentence": "tahlukiia malihlʉlʉhlʉa tihla'ahlʉisa hla ngusuisatai taiumurahlana taisaisa.",
+                                "ch_sentence": "吻蝦虎的體型是圓的，嘴巴像指頭一樣大。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mariakuanʉ": {
+        "fm_word": "mariakuanʉ",
+        "新詞中文": "",
+        "辭典中文": "吸引",
+        "原始新詞資料": {
+            "fm_word": "mariakuanʉ",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "吸引",
+                        "example": [
+                            {
+                                "fm_sentence": "sihlangʉa vulaihlisa hlimilavaʉ ahlainana tam mariakuanʉ alamuru hlahlusa.",
+                                "ch_sentence": "妹妹明亮的眼睛吸引很多男生。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kapitanʉ": {
+        "fm_word": "kapitanʉ",
+        "新詞中文": "",
+        "辭典中文": "長官（外來語）",
+        "原始新詞資料": {
+            "fm_word": "kapitanʉ",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "長官（外來語）",
+                        "example": [
+                            {
+                                "fm_sentence": "hla'alua maci",
+                                "ch_sentence": "kapita數詞ia ihlaisa macahlia malialualu. hla'alua說kapitanu是領導者。"
+                            },
+                            {
+                                "fm_sentence": "kapitanu hlamu ucani sakurahlaia hla'alua.",
+                                "ch_sentence": "我們桃源鄉的鄉長是hla'alua族。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "hlipau": {
+        "fm_word": "hlipau",
+        "新詞中文": "",
+        "辭典中文": "請….吃",
+        "原始新詞資料": {
+            "fm_word": "hlipau",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "pauu",
+                "sense": [
+                    {
+                        "ch_sense": "請….吃",
+                        "example": [
+                            {
+                                "fm_sentence": "hlipau a kana'a cucu'u kiira.",
+                                "ch_sentence": "昨天他有請人吃（飯）。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "umupangʉ": {
+        "fm_word": "umupangʉ",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "養",
+        "原始新詞資料": {
+            "fm_word": "umupangʉ",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "upangʉ",
+                "sense": [
+                    {
+                        "ch_sense": "養",
+                        "example": [
+                            {
+                                "fm_sentence": "umupangʉ a ahlaluaku sasua ngiiau.",
+                                "ch_sentence": "我哥哥養了兩隻貓。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tumangahla": {
+        "fm_word": "tumangahla",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "簽名",
+        "原始新詞資料": {
+            "fm_word": "tumangahla",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "簽名",
+                        "example": [
+                            {
+                                "fm_sentence": "tumangahla hlimilavaʉnaka atʉahlicu marakiapupuhlu 'ahlinguna.",
+                                "ch_sentence": "妹妹拿到了明星簽名。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "arauhlusu": {
+        "fm_word": "arauhlusu",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "遷移；更換",
+        "原始新詞資料": {
+            "fm_word": "arauhlusu",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "遷移；更換",
+                        "example": [
+                            {
+                                "fm_sentence": "hlatumua arauhlusuku Tamauhluna sasarua ucani.",
+                                "ch_sentence": "Tamauhlu想要遷移到另一塊地。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sumamusu": {
+        "fm_word": "sumamusu",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "擦拭",
+        "原始新詞資料": {
+            "fm_word": "sumamusu",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "擦拭",
+                        "example": [
+                            {
+                                "fm_sentence": "sumamusuaku ta'ʉhlanaka parakavuluhlua.",
+                                "ch_sentence": "我把桌子擦一擦，因為都是灰塵。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

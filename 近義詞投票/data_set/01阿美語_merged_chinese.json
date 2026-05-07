@@ -1,0 +1,360 @@
+{
+    "aniniay": {
+        "fm_word": "aniniay",
+        "新詞中文": "現在的",
+        "辭典中文": "現代；現在",
+        "原始新詞資料": {
+            "fm_word": "aniniay",
+            "ch_semantic": "現在的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "anini",
+                "sense": [
+                    {
+                        "ch_sense": "現代；現在",
+                        "example": [
+                            {
+                                "fm_sentence": "Kareteng ko kafang no aniniay a sito.",
+                                "ch_sentence": "現在的學生書包很重。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mafafalic": {
+        "fm_word": "mafafalic",
+        "新詞中文": "互相交換",
+        "辭典中文": "互相交換",
+        "原始新詞資料": {
+            "fm_word": "mafafalic",
+            "ch_semantic": "互相交換",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "falic",
+                "sense": [
+                    {
+                        "ch_sense": "互相交換",
+                        "example": [
+                            {
+                                "fm_sentence": "Mafafalic kita to tayal.",
+                                "ch_sentence": "我們互相交換工作。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ditek": {
+        "fm_word": "ditek",
+        "新詞中文": "尺",
+        "辭典中文": "測量",
+        "原始新詞資料": {
+            "fm_word": "ditek",
+            "ch_semantic": "尺",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "測量",
+                        "example": [
+                            {
+                                "fm_sentence": "Tolo a ditek ko omah niyam.",
+                                "ch_sentence": "我們家有三分地。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "dadoy": {
+        "fm_word": "dadoy",
+        "新詞中文": "重量",
+        "辭典中文": "磅秤； 天秤",
+        "原始新詞資料": {
+            "fm_word": "dadoy",
+            "ch_semantic": "重量",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "磅秤； 天秤",
+                        "example": [
+                            {
+                                "fm_sentence": "Cacay noli' ko dadoy nora fafoy.",
+                                "ch_sentence": "那頭豬一佰斤重。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kadofah": {
+        "fm_word": "kadofah",
+        "新詞中文": "豐收,產量",
+        "辭典中文": "富裕",
+        "原始新詞資料": {
+            "fm_word": "kadofah",
+            "ch_semantic": "豐收,產量",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "富裕",
+                        "example": [
+                            {
+                                "fm_sentence": "Kadofah ko sakilafang anini.",
+                                "ch_sentence": "今天招待客人的物品非常豐富。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "minengneng": {
+        "fm_word": "minengneng",
+        "新詞中文": "去看",
+        "辭典中文": "正在看",
+        "原始新詞資料": {
+            "fm_word": "minengneng",
+            "ch_semantic": "去看",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "nengneng",
+                "sense": [
+                    {
+                        "ch_sense": "正在看",
+                        "example": [
+                            {
+                                "fm_sentence": "Minengneng kami to tilifi imatini.",
+                                "ch_sentence": "我們現在正在看電視。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "taneng": {
+        "fm_word": "taneng",
+        "新詞中文": "能力",
+        "辭典中文": "智慧",
+        "原始新詞資料": {
+            "fm_word": "taneng",
+            "ch_semantic": "能力",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "智慧",
+                        "example": [
+                            {
+                                "fm_sentence": "Takaraw ko taneng no tamdaw.",
+                                "ch_sentence": "人的智慧很高。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "milongoc": {
+        "fm_word": "milongoc",
+        "新詞中文": "祈求(想要的東西)",
+        "辭典中文": "懇求",
+        "原始新詞資料": {
+            "fm_word": "milongoc",
+            "ch_semantic": "祈求(想要的東西)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "longoc",
+                "sense": [
+                    {
+                        "ch_sense": "懇求",
+                        "example": [
+                            {
+                                "fm_sentence": "Milongoc kako ci inaan to tingnaw.",
+                                "ch_sentence": "我向媽媽懇求一部電腦。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mipili'": {
+        "fm_word": "mipili'",
+        "新詞中文": "挑選",
+        "辭典中文": "選擇",
+        "原始新詞資料": {
+            "fm_word": "mipili'",
+            "ch_semantic": "挑選",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "pili'",
+                "sense": [
+                    {
+                        "ch_sense": "選擇",
+                        "example": [
+                            {
+                                "fm_sentence": "“Cengawen ko mata a mipili' to idang” saan ko mato'asay.",
+                                "ch_sentence": "老人家說擇友要睜大眼睛。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kataan": {
+        "fm_word": "kataan",
+        "新詞中文": "便秘",
+        "辭典中文": "便秘",
+        "原始新詞資料": {
+            "fm_word": "kataan",
+            "ch_semantic": "便秘",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "便秘",
+                        "example": [
+                            {
+                                "fm_sentence": "Kataan sato kako to pikakaen ako to kiyafes.",
+                                "ch_sentence": "我因一直吃芭樂而便秘。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "patiko": {
+        "fm_word": "patiko",
+        "新詞中文": "",
+        "辭典中文": "還",
+        "原始新詞資料": {
+            "fm_word": "patiko",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "tiko",
+                "sense": [
+                    {
+                        "ch_sense": "還",
+                        "example": [
+                            {
+                                "fm_sentence": "Ano hacowa marepon a patiko konini a tadah?",
+                                "ch_sentence": "何時還完這個債？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "masakalaw": {
+        "fm_word": "masakalaw",
+        "新詞中文": "",
+        "辭典中文": "形成眉毛狀",
+        "原始新詞資料": {
+            "fm_word": "masakalaw",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kalaw",
+                "sense": [
+                    {
+                        "ch_sense": "形成眉毛狀",
+                        "example": [
+                            {
+                                "fm_sentence": "Masakalaw ko folad a matawa.",
+                                "ch_sentence": "月亮如眉毛在微笑。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "komoing": {
+        "fm_word": "komoing",
+        "新詞中文": "",
+        "辭典中文": "公務員",
+        "原始新詞資料": {
+            "fm_word": "komoing",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "公務員",
+                        "example": [
+                            {
+                                "fm_sentence": "O komoing no sifo ita cira.",
+                                "ch_sentence": "他是我們縣府的公務員。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "marofoay": {
+        "fm_word": "marofoay",
+        "新詞中文": "",
+        "辭典中文": "被關的",
+        "原始新詞資料": {
+            "fm_word": "marofoay",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "rofo",
+                "sense": [
+                    {
+                        "ch_sense": "被關的",
+                        "example": [
+                            {
+                                "fm_sentence": "O marofoay a tamdaw.",
+                                "ch_sentence": "被關的人。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

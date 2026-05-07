@@ -1,0 +1,955 @@
+{
+    "kacudu": {
+        "fm_word": "kacudu",
+        "新詞中文": "電影",
+        "辭典中文": "電影",
+        "原始新詞資料": {
+            "fm_word": "kacudu",
+            "ch_semantic": "電影",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "電影",
+                        "example": [
+                            {
+                                "fm_sentence": "paaca a miazih tu kacudu.",
+                                "ch_sentence": "看電影要買票。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "nalimaan": {
+        "fm_word": "nalimaan",
+        "新詞中文": "經過手的",
+        "辭典中文": "手作 / 筆跡 / 手工藝品",
+        "原始新詞資料": {
+            "fm_word": "nalimaan",
+            "ch_semantic": "經過手的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "lima",
+                "sense": [
+                    {
+                        "ch_sense": "手作",
+                        "example": [
+                            {
+                                "fm_sentence": "nalimaan ni ama nu maku kina pubu.",
+                                "ch_sentence": "這魚筌是爸爸的手工作品。"
+                            }
+                        ]
+                    }
+                ],
+                "reference_sub_id": "1"
+            },
+            {
+                "sub_id": "1",
+                "reference": "lima",
+                "sense": [
+                    {
+                        "ch_sense": "筆跡",
+                        "example": [
+                            {
+                                "fm_sentence": "kapah ku nalimaan ni Kaniw ngayaw.",
+                                "ch_sentence": "Kaniw ngayaw寫了一手好字。"
+                            }
+                        ]
+                    }
+                ],
+                "reference_sub_id": "1"
+            },
+            {
+                "sub_id": "2",
+                "reference": "lima",
+                "sense": [
+                    {
+                        "ch_sense": "手工藝品",
+                        "example": [
+                            {
+                                "fm_sentence": "kapah ku nalimaan ni Benel a mitenun tu subuk.",
+                                "ch_sentence": "Benel織背袋的手藝很好。"
+                            }
+                        ]
+                    }
+                ],
+                "reference_sub_id": "1"
+            }
+        ]
+    },
+    "binacadan": {
+        "fm_word": "binacadan",
+        "新詞中文": "族類",
+        "辭典中文": "族群",
+        "原始新詞資料": {
+            "fm_word": "binacadan",
+            "ch_semantic": "族類",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "族群",
+                        "example": [
+                            {
+                                "fm_sentence": "yadah ku kasasizumazuma nu binacadan.",
+                                "ch_sentence": "很多不同的族群。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "siledek": {
+        "fm_word": "siledek",
+        "新詞中文": "有毒",
+        "辭典中文": "有毒性",
+        "原始新詞資料": {
+            "fm_word": "siledek",
+            "ch_semantic": "有毒",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "ledek",
+                "sense": [
+                    {
+                        "ch_sense": "有毒性",
+                        "example": [
+                            {
+                                "fm_sentence": "siledek ku kakuhkuh a bawu.",
+                                "ch_sentence": "眼鏡蛇有毒性。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ditek": {
+        "fm_word": "ditek",
+        "新詞中文": "尺",
+        "辭典中文": "量",
+        "原始新詞資料": {
+            "fm_word": "ditek",
+            "ch_semantic": "尺",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "量",
+                        "example": [
+                            {
+                                "fm_sentence": "ditek tu akuti' nu uzip.",
+                                "ch_sentence": "量體溫。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "nilacul": {
+        "fm_word": "nilacul",
+        "新詞中文": "產出",
+        "辭典中文": "盛裝",
+        "原始新詞資料": {
+            "fm_word": "nilacul",
+            "ch_semantic": "產出",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "lacul",
+                "sense": [
+                    {
+                        "ch_sense": "盛裝",
+                        "example": [
+                            {
+                                "fm_sentence": "u nilacul niza caay kaiyadah.",
+                                "ch_sentence": "它裝的不多。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "makatimul": {
+        "fm_word": "makatimul",
+        "新詞中文": "最南邊的",
+        "辭典中文": "南邊",
+        "原始新詞資料": {
+            "fm_word": "makatimul",
+            "ch_semantic": "最南邊的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "timul",
+                "sense": [
+                    {
+                        "ch_sense": "南邊",
+                        "example": [
+                            {
+                                "fm_sentence": "makatimul tu ku Pintung.",
+                                "ch_sentence": "屏東在最南邊。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "miazih": {
+        "fm_word": "miazih",
+        "新詞中文": "看",
+        "辭典中文": "在看",
+        "原始新詞資料": {
+            "fm_word": "miazih",
+            "ch_semantic": "看",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "azih",
+                "sense": [
+                    {
+                        "ch_sense": "在看",
+                        "example": [
+                            {
+                                "fm_sentence": "pacekcek miazih.",
+                                "ch_sentence": "凝視"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tungus": {
+        "fm_word": "tungus",
+        "新詞中文": "承擔",
+        "辭典中文": "屬於",
+        "原始新詞資料": {
+            "fm_word": "tungus",
+            "ch_semantic": "承擔",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "屬於",
+                        "example": [
+                            {
+                                "fm_sentence": "u tungus nu maku kuyni.",
+                                "ch_sentence": "這是我的權益。"
+                            },
+                            {
+                                "fm_sentence": "u tungus niza kiya luma'.",
+                                "ch_sentence": "那個房子是屬於他的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "katalawan": {
+        "fm_word": "katalawan",
+        "新詞中文": "害怕的",
+        "辭典中文": "可怕的",
+        "原始新詞資料": {
+            "fm_word": "katalawan",
+            "ch_semantic": "害怕的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "talaw",
+                "sense": [
+                    {
+                        "ch_sense": "可怕的",
+                        "example": [
+                            {
+                                "fm_sentence": "katalawan ku bawu i umaumahan.",
+                                "ch_sentence": "田裡的蛇很可怕。"
+                            },
+                            {
+                                "fm_sentence": "katalawan kina cuyacuy a culilen.",
+                                "ch_sentence": "這個吊橋走起來很可怕。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pili'": {
+        "fm_word": "pili'",
+        "新詞中文": "挑選",
+        "辭典中文": "挑",
+        "原始新詞資料": {
+            "fm_word": "pili'",
+            "ch_semantic": "挑選",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "挑",
+                        "example": [
+                            {
+                                "fm_sentence": "pipi'sa tu kakanen ku wawa aku.",
+                                "ch_sentence": "我的小孩很挑食。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "icelangay": {
+        "fm_word": "icelangay",
+        "新詞中文": "很有能力的(人)",
+        "辭典中文": "強壯的；有力的",
+        "原始新詞資料": {
+            "fm_word": "icelangay",
+            "ch_semantic": "很有能力的(人)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "icelang",
+                "sense": [
+                    {
+                        "ch_sense": "強壯的；有力的",
+                        "example": [
+                            {
+                                "fm_sentence": "icelangay milalebu tu tau ci Kulas.",
+                                "ch_sentence": "Kulas 打起架（摔角）很有力量。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "selep": {
+        "fm_word": "selep",
+        "新詞中文": "降價",
+        "辭典中文": "減",
+        "原始新詞資料": {
+            "fm_word": "selep",
+            "ch_semantic": "降價",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "減",
+                        "example": [
+                            {
+                                "fm_sentence": "selep tu ku daduy aku.",
+                                "ch_sentence": "我的重量減輕了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "suped": {
+        "fm_word": "suped",
+        "新詞中文": "存放",
+        "辭典中文": "保存",
+        "原始新詞資料": {
+            "fm_word": "suped",
+            "ch_semantic": "存放",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "保存",
+                        "example": [
+                            {
+                                "fm_sentence": "suped han ku udu' anu yaan tu saudu'en!",
+                                "ch_sentence": "一直保存著的項鍊什麼時候要戴！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "makaway": {
+        "fm_word": "makaway",
+        "新詞中文": "過敏",
+        "辭典中文": "過敏",
+        "原始新詞資料": {
+            "fm_word": "makaway",
+            "ch_semantic": "過敏",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kaway",
+                "sense": [
+                    {
+                        "ch_sense": "過敏",
+                        "example": [
+                            {
+                                "fm_sentence": "namukan kaku tu kidawdawngay kiyu makaway.",
+                                "ch_sentence": "我吃蚱蜢所以過敏。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pacudadan": {
+        "fm_word": "pacudadan",
+        "新詞中文": "",
+        "辭典中文": "書架",
+        "原始新詞資料": {
+            "fm_word": "pacudadan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "cudad",
+                "sense": [
+                    {
+                        "ch_sense": "書架",
+                        "example": [
+                            {
+                                "fm_sentence": "takalaw ku pacudadan nu maku.",
+                                "ch_sentence": "我的書架很高。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tudud": {
+        "fm_word": "tudud",
+        "新詞中文": "",
+        "辭典中文": "交接；承接",
+        "原始新詞資料": {
+            "fm_word": "tudud",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "交接；承接",
+                        "example": [
+                            {
+                                "fm_sentence": "tudud tu canan?",
+                                "ch_sentence": "交接什麼?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "batac": {
+        "fm_word": "batac",
+        "新詞中文": "",
+        "辭典中文": "手肘",
+        "原始新詞資料": {
+            "fm_word": "batac",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "手肘",
+                        "example": [
+                            {
+                                "fm_sentence": "icelang ku batac nu lima ni Kaniw.",
+                                "ch_sentence": "Kaniw 的手肘很有力。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kalaway": {
+        "fm_word": "kalaway",
+        "新詞中文": "",
+        "辭典中文": "大嘴巴",
+        "原始新詞資料": {
+            "fm_word": "kalaway",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "laway",
+                "sense": [
+                    {
+                        "ch_sense": "大嘴巴",
+                        "example": [
+                            {
+                                "fm_sentence": "kalaway han nu tau ci Miciyang.",
+                                "ch_sentence": "別人都稱Miciyang大嘴巴。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "bicin": {
+        "fm_word": "bicin",
+        "新詞中文": "",
+        "辭典中文": "升(量米單位)",
+        "原始新詞資料": {
+            "fm_word": "bicin",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "升(量米單位)",
+                        "example": [
+                            {
+                                "fm_sentence": "pangkiw nu bicin ku pisakalabi ni Bunuk tu hemay.",
+                                "ch_sentence": "Bunuk 用半升米來煮飯。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "suni": {
+        "fm_word": "suni",
+        "新詞中文": "",
+        "辭典中文": "聲響",
+        "原始新詞資料": {
+            "fm_word": "suni",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "聲響",
+                        "example": [
+                            {
+                                "fm_sentence": "u suni nu balaut ku sakatineng tu sakaudad.",
+                                "ch_sentence": "從青蛙的叫聲可以得知要下雨了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sasimalen": {
+        "fm_word": "sasimalen",
+        "新詞中文": "",
+        "辭典中文": "製成油的",
+        "原始新詞資料": {
+            "fm_word": "sasimalen",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "simal",
+                "sense": [
+                    {
+                        "ch_sense": "製成油的",
+                        "example": [
+                            {
+                                "fm_sentence": "u kapahay sasimalen ku kusuy.",
+                                "ch_sentence": "香茅製油是很好的植物。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "telek": {
+        "fm_word": "telek",
+        "新詞中文": "",
+        "辭典中文": "直",
+        "原始新詞資料": {
+            "fm_word": "telek",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "直",
+                        "example": [
+                            {
+                                "fm_sentence": "telek sa ku nianip ni Angah.",
+                                "ch_sentence": "Angah插的秧很直。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tepad": {
+        "fm_word": "tepad",
+        "新詞中文": "",
+        "辭典中文": "懸崖",
+        "原始新詞資料": {
+            "fm_word": "tepad",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "懸崖",
+                        "example": [
+                            {
+                                "fm_sentence": "matalaw kaku makazih tu tepad.",
+                                "ch_sentence": "我很怕看到懸崖。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pabaway": {
+        "fm_word": "pabaway",
+        "新詞中文": "",
+        "辭典中文": "上面的",
+        "原始新詞資料": {
+            "fm_word": "pabaway",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "pabaw",
+                "sense": [
+                    {
+                        "ch_sense": "上面的",
+                        "example": [
+                            {
+                                "fm_sentence": "kau pabaway nu tangsu henay a zikuc ku pawalien.",
+                                "ch_sentence": "先把衣櫃上面的衣服拿去晒。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tungusay": {
+        "fm_word": "tungusay",
+        "新詞中文": "",
+        "辭典中文": "表示",
+        "原始新詞資料": {
+            "fm_word": "tungusay",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "tungus",
+                "sense": [
+                    {
+                        "ch_sense": "表示",
+                        "example": [
+                            {
+                                "fm_sentence": "mabalad hananay sa tungusay u satebuc.",
+                                "ch_sentence": "洪水是個災難。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "nipahabayan": {
+        "fm_word": "nipahabayan",
+        "新詞中文": "",
+        "辭典中文": "飼養的",
+        "原始新詞資料": {
+            "fm_word": "nipahabayan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "habay",
+                "sense": [
+                    {
+                        "ch_sense": "飼養的",
+                        "example": [
+                            {
+                                "fm_sentence": "kizemu ku nipahabayan ni Pelac a pabuy.",
+                                "ch_sentence": "Pelac 飼養的豬很大隻了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "midangay": {
+        "fm_word": "midangay",
+        "新詞中文": "",
+        "辭典中文": "在玩的；遊客",
+        "原始新詞資料": {
+            "fm_word": "midangay",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "idang",
+                "sense": [
+                    {
+                        "ch_sense": "在玩的；遊客",
+                        "example": [
+                            {
+                                "fm_sentence": "katuud ku midangay i pahutingan.",
+                                "ch_sentence": "有很多遊客去牧場玩。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pikanan": {
+        "fm_word": "pikanan",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "用來吃",
+        "原始新詞資料": {
+            "fm_word": "pikanan",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kan",
+                "sense": [
+                    {
+                        "ch_sense": "用來吃",
+                        "example": [
+                            {
+                                "fm_sentence": "u pikanan kina kaysing.",
+                                "ch_sentence": "這個碗是用來吃飯的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pakazizengan": {
+        "fm_word": "pakazizengan",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "載",
+        "原始新詞資料": {
+            "fm_word": "pakazizengan",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kazizeng",
+                "sense": [
+                    {
+                        "ch_sense": "載",
+                        "example": [
+                            {
+                                "fm_sentence": "pakazizengan nu wawa kaku.",
+                                "ch_sentence": "我讓小孩載。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pangangan": {
+        "fm_word": "pangangan",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "指名道姓；登記",
+        "原始新詞資料": {
+            "fm_word": "pangangan",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "ngangan",
+                "sense": [
+                    {
+                        "ch_sense": "指名道姓；登記",
+                        "example": [
+                            {
+                                "fm_sentence": "amana pangangan miawaw tu ngangan nu babalaki.",
+                                "ch_sentence": "對長輩不要指名道姓。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mabulaw": {
+        "fm_word": "mabulaw",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "被戰敗",
+        "原始新詞資料": {
+            "fm_word": "mabulaw",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "bulaw",
+                "sense": [
+                    {
+                        "ch_sense": "被戰敗",
+                        "example": [
+                            {
+                                "fm_sentence": "mabulaw nu Hulam ku Takubuwan.",
+                                "ch_sentence": "達固湖灣被清兵戰敗。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "limad": {
+        "fm_word": "limad",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "搬移；移動；遷移",
+        "原始新詞資料": {
+            "fm_word": "limad",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "搬移；移動；遷移",
+                        "example": [
+                            {
+                                "fm_sentence": "limad han nu Lipun ku Cikasuwan nani Linahem tayza i Debudebuwan.",
+                                "ch_sentence": "日本將七腳川族人從壽豐的力拿恆部落遷移到鹿野附近。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "nilecuhan": {
+        "fm_word": "nilecuhan",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "出生",
+        "原始新詞資料": {
+            "fm_word": "nilecuhan",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "lecuh",
+                "sense": [
+                    {
+                        "ch_sense": "出生",
+                        "example": [
+                            {
+                                "fm_sentence": "u tatama ku nilecuhan ni Kawpil.",
+                                "ch_sentence": "Kawpil生的是男孩。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "panengen": {
+        "fm_word": "panengen",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "熄火",
+        "原始新詞資料": {
+            "fm_word": "panengen",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "熄火",
+                        "example": [
+                            {
+                                "fm_sentence": "panengen tu kiya tinghuy!",
+                                "ch_sentence": "把燈火關掉！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ngangay": {
+        "fm_word": "ngangay",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "口水",
+        "原始新詞資料": {
+            "fm_word": "ngangay",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "口水",
+                        "example": [
+                            {
+                                "fm_sentence": "sipuen ku ngangay nu misu?",
+                                "ch_sentence": "把你的口水擦掉。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

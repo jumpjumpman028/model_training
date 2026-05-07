@@ -3,3 +3,4 @@
 *.bin
 *.json
 *.npy
+!近義詞投票/data_set/*.json

@@ -1,0 +1,674 @@
+{
+    "mahiz'o": {
+        "fm_word": "mahiz'o",
+        "新詞中文": "(有生命的)毒",
+        "辭典中文": "毒",
+        "原始新詞資料": {
+            "fm_word": "mahiz'o",
+            "ch_semantic": "(有生命的)毒",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "毒",
+                        "example": [
+                            {
+                                "fm_sentence": "panto mo na'no mahiz'o ci fkoi.",
+                                "ch_sentence": "有的蛇是劇毒 mo na'no mahiz'o 'o ba'efkoi 百步蛇很毒 mahiz'o ci s'os'o 毒藥"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "hnoo": {
+        "fm_word": "hnoo",
+        "新詞中文": "",
+        "辭典中文": "酬勞",
+        "原始新詞資料": {
+            "fm_word": "hnoo",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "酬勞",
+                        "example": [
+                            {
+                                "fm_sentence": "conohie yahioa ho uk'a mako hnoo.",
+                                "ch_sentence": "整天工作卻沒有酬勞"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sviei": {
+        "fm_word": "sviei",
+        "新詞中文": "背負",
+        "辭典中文": "背",
+        "原始新詞資料": {
+            "fm_word": "sviei",
+            "ch_semantic": "背負",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "背",
+                        "example": [
+                            {
+                                "fm_sentence": "isi tipeoha to tanivu 'o osila sviei.",
+                                "ch_sentence": "Tanivu失去了他的小孩。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mainsohʉ": {
+        "fm_word": "mainsohʉ",
+        "新詞中文": "綁一圈;繞一圈",
+        "辭典中文": "圍一圈",
+        "原始新詞資料": {
+            "fm_word": "mainsohʉ",
+            "ch_semantic": "綁一圈;繞一圈",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "圍一圈",
+                        "example": [
+                            {
+                                "fm_sentence": "mo aʉlʉ mainsohʉ ta fatu 'e teesi.",
+                                "ch_sentence": "這繩子剛好可以圍石頭一圈"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sokoeva": {
+        "fm_word": "sokoeva",
+        "新詞中文": "最危險",
+        "辭典中文": "擔心",
+        "原始新詞資料": {
+            "fm_word": "sokoeva",
+            "ch_semantic": "最危險",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "sokoyu",
+                "sense": [
+                    {
+                        "ch_sense": "擔心",
+                        "example": [
+                            {
+                                "fm_sentence": "i'o sokoeva 'e 'o'oko ho mihin'i iachi uhne c'oeha.",
+                                "ch_sentence": "孩子們自己去河邊我很擔心."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "aʉt'ʉcʉ": {
+        "fm_word": "aʉt'ʉcʉ",
+        "新詞中文": "管理;統治",
+        "辭典中文": "照顧",
+        "原始新詞資料": {
+            "fm_word": "aʉt'ʉcʉ",
+            "ch_semantic": "管理;統治",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "照顧",
+                        "example": [
+                            {
+                                "fm_sentence": "mita aʉt'ʉcʉ to moatʉ'nʉ 'e pasuya.",
+                                "ch_sentence": "Pasuya是養羊的"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "lepasunaeno": {
+        "fm_word": "lepasunaeno",
+        "新詞中文": "專門唱歌的",
+        "辭典中文": "從事演唱事業",
+        "原始新詞資料": {
+            "fm_word": "lepasunaeno",
+            "ch_semantic": "專門唱歌的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "從事演唱事業",
+                        "example": [
+                            {
+                                "fm_sentence": "la lepasunaeno 'o oko'u.",
+                                "ch_sentence": "我的孩子是歌手"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "epei": {
+        "fm_word": "epei",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "選擇",
+        "原始新詞資料": {
+            "fm_word": "epei",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "選擇",
+                        "example": [
+                            {
+                                "fm_sentence": "teko epei no teko ana.",
+                                "ch_sentence": "你選擇你要吃的"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ayoca": {
+        "fm_word": "ayoca",
+        "新詞中文": "預備",
+        "辭典中文": "事先做",
+        "原始新詞資料": {
+            "fm_word": "ayoca",
+            "ch_semantic": "預備",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "ayocʉ",
+                "sense": [
+                    {
+                        "ch_sense": "事先做",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "totontone": {
+        "fm_word": "totontone",
+        "新詞中文": "很會做事情",
+        "辭典中文": "多才多藝;敏捷",
+        "原始新詞資料": {
+            "fm_word": "totontone",
+            "ch_semantic": "很會做事情",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "多才多藝;敏捷",
+                        "example": [
+                            {
+                                "fm_sentence": "mita a'ʉmtʉ totontone ci cou 'e pasuya.",
+                                "ch_sentence": "Pasuya真的是一位多才多藝的人"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tposʉ": {
+        "fm_word": "tposʉ",
+        "新詞中文": "書;寫;信",
+        "辭典中文": "書;字",
+        "原始新詞資料": {
+            "fm_word": "tposʉ",
+            "ch_semantic": "書;寫;信",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "書;字",
+                        "example": [
+                            {
+                                "fm_sentence": "mo yonta pangka ta tposʉ'u.",
+                                "ch_sentence": "我的書在桌子上 na'no yonghu si tposʉ taina. 他的字很漂亮"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "bangnu": {
+        "fm_word": "bangnu",
+        "新詞中文": "肥土;鬆鬆的土",
+        "辭典中文": "土壤肥沃",
+        "原始新詞資料": {
+            "fm_word": "bangnu",
+            "ch_semantic": "肥土;鬆鬆的土",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "土壤肥沃",
+                        "example": [
+                            {
+                                "fm_sentence": "tela emʉ'a to mo bangnu ci ceoa 'o heoemʉ'ʉ.",
+                                "ch_sentence": "農作物通常種植在肥沃的土地"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "peasima": {
+        "fm_word": "peasima",
+        "新詞中文": "既有詞",
+        "辭典中文": "過敏",
+        "原始新詞資料": {
+            "fm_word": "peasima",
+            "ch_semantic": "既有詞",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "過敏",
+                        "example": [
+                            {
+                                "fm_sentence": "panto la peasima ho la bonʉ to yongo.",
+                                "ch_sentence": "有人吃螃蟹會過敏。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kuisi": {
+        "fm_word": "kuisi",
+        "新詞中文": "細微的邪靈",
+        "辭典中文": "污靈,罪",
+        "原始新詞資料": {
+            "fm_word": "kuisi",
+            "ch_semantic": "細微的邪靈",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "污靈,罪",
+                        "example": [
+                            {
+                                "fm_sentence": "acʉhʉ yaa kuisi 'e cou.",
+                                "ch_sentence": "人都有原罪 la peela epsʉpsa 'o kuisi. 罪是可以去除的"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "faeni": {
+        "fm_word": "faeni",
+        "新詞中文": "",
+        "辭典中文": "給",
+        "原始新詞資料": {
+            "fm_word": "faeni",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "給",
+                        "example": [
+                            {
+                                "fm_sentence": "ita faeni a'o 'o tposʉ to mo'o.",
+                                "ch_sentence": "他把Mo'o的書給了我"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pa'ivoveia": {
+        "fm_word": "pa'ivoveia",
+        "新詞中文": "",
+        "辭典中文": "回寄",
+        "原始新詞資料": {
+            "fm_word": "pa'ivoveia",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "ma'ivovei",
+                "sense": [
+                    {
+                        "ch_sense": "回寄",
+                        "example": [
+                            {
+                                "fm_sentence": "isi pa'ivoveia to oko'u 'o tposʉ.",
+                                "ch_sentence": "我的小孩把書寄回來了."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ecuu": {
+        "fm_word": "ecuu",
+        "新詞中文": "",
+        "辭典中文": "池塘",
+        "原始新詞資料": {
+            "fm_word": "ecuu",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "池塘",
+                        "example": [
+                            {
+                                "fm_sentence": "to'si ta ehʉngʉ no fʉhfʉhʉ si yoskʉ ta ecuu.",
+                                "ch_sentence": "丟一下野蕉的葉子給池塘的魚."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "yo'hunge": {
+        "fm_word": "yo'hunge",
+        "新詞中文": "",
+        "辭典中文": "低窪的",
+        "原始新詞資料": {
+            "fm_word": "yo'hunge",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "低窪的",
+                        "example": [
+                            {
+                                "fm_sentence": "a lea cmʉfeʉ to mo yo'hunge ho sof'u 'o cohu.",
+                                "ch_sentence": "姑婆芋易生長在低漥潮濕的地方"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pania": {
+        "fm_word": "pania",
+        "新詞中文": "",
+        "辭典中文": "瓶子 / 子彈",
+        "原始新詞資料": {
+            "fm_word": "pania",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "瓶子",
+                        "example": [
+                            {
+                                "fm_sentence": "mo meoisihe to ngayo to pania 'o ngayo to kaiyu.",
+                                "ch_sentence": "甕口比瓶口還要大"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "子彈",
+                        "example": [
+                            {
+                                "fm_sentence": "micu na'no pepe 'o pania no fsuyu.",
+                                "ch_sentence": "子彈現在很貴了"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "eskayo": {
+        "fm_word": "eskayo",
+        "新詞中文": "",
+        "辭典中文": "滿月之夜",
+        "原始新詞資料": {
+            "fm_word": "eskayo",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "滿月之夜",
+                        "example": [
+                            {
+                                "fm_sentence": "mo eskayo maitan'e.",
+                                "ch_sentence": "今天是滿月"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "aatiski": {
+        "fm_word": "aatiski",
+        "新詞中文": "",
+        "辭典中文": "一半",
+        "原始新詞資料": {
+            "fm_word": "aatiski",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "一半",
+                        "example": [
+                            {
+                                "fm_sentence": "micu aatiski kuzo 'e f'ue.",
+                                "ch_sentence": "這地瓜已經壞了一半"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "teai": {
+        "fm_word": "teai",
+        "新詞中文": "",
+        "辭典中文": "製作",
+        "原始新詞資料": {
+            "fm_word": "teai",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "製作",
+                        "example": [
+                            {
+                                "fm_sentence": "te'o teai pangka 'e evi",
+                                "ch_sentence": "這木頭我要製作桌子."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "yoyasva": {
+        "fm_word": "yoyasva",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "廣場；遊戲場所",
+        "原始新詞資料": {
+            "fm_word": "yoyasva",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "廣場；遊戲場所",
+                        "example": [
+                            {
+                                "fm_sentence": "mo botngonʉ si mo yonta yoyasva ci 'o'oko.",
+                                "ch_sentence": "在遊戲場有很多小朋友。"
+                            },
+                            {
+                                "fm_sentence": "mita mifeoyʉ to ceoa ne yoyasva 'e 'avai.",
+                                "ch_sentence": "'Avai橫躺在廣場地上。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "hocnguha": {
+        "fm_word": "hocnguha",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "走廊",
+        "原始新詞資料": {
+            "fm_word": "hocnguha",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "走廊",
+                        "example": [
+                            {
+                                "fm_sentence": "mo mehaeso si sʉesʉ ta hocnguha.",
+                                "ch_sentence": "走廊有兩根柱子"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tposi": {
+        "fm_word": "tposi",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "唸書;寫字 / 上學",
+        "原始新詞資料": {
+            "fm_word": "tposi",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "tmopsʉ",
+                "sense": [
+                    {
+                        "ch_sense": "唸書;寫字",
+                        "example": [
+                            {
+                                "fm_sentence": "o'a os'o honga si iko tposi.",
+                                "ch_sentence": "我不認得你寫的字."
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "上學",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ],
+                "reference_sub_id": "1"
+            }
+        ]
+    },
+    "esoskungi": {
+        "fm_word": "esoskungi",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "痢疾",
+        "原始新詞資料": {
+            "fm_word": "esoskungi",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "痢疾",
+                        "example": [
+                            {
+                                "fm_sentence": "alʉ mateononmʉhʉ to paceofʉ ne mita esoskungi.",
+                                "ch_sentence": "他瘧疾時都蓋到六層棉被。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

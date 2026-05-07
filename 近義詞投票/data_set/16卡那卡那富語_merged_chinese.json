@@ -1,0 +1,352 @@
+{
+    "masiin": {
+        "fm_word": "masiin",
+        "新詞中文": "現在",
+        "辭典中文": "現在；現代",
+        "原始新詞資料": {
+            "fm_word": "masiin",
+            "ch_semantic": "現在",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "現在；現代",
+                        "example": [
+                            {
+                                "fm_sentence": "cau masiin tamna secʉvʉrʉ ia, cucuru monasʉ.",
+                                "ch_sentence": "現代人的生活真的很方便。"
+                            },
+                            {
+                                "fm_sentence": "'esi kara 'umo'ʉcaan masiin?",
+                                "ch_sentence": "現在在下雨嗎?"
+                            },
+                            {
+                                "fm_sentence": "'esi pa 'umo'ʉcaan masiin, tupurua pa, 'akuun pa moca.",
+                                "ch_sentence": "還在下雨，再坐一下，還不要走。"
+                            },
+                            {
+                                "fm_sentence": "neen 'esi kamanʉnga musu masiin?",
+                                "ch_sentence": "你現在在做什麼?(句中的kamanʉnga 若改為putukikioa，就是問職業。)"
+                            },
+                            {
+                                "fm_sentence": "'esi kasu naan masiin putukikio?",
+                                "ch_sentence": "你現在在哪裡工作?"
+                            },
+                            {
+                                "fm_sentence": "masʉpatʉʉn cenana cuma maku masiin.",
+                                "ch_sentence": "我父親現在四十歲。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kaisisi": {
+        "fm_word": "kaisisi",
+        "新詞中文": "紀念",
+        "辭典中文": "祭典；祭祀；慶祝；儀式",
+        "原始新詞資料": {
+            "fm_word": "kaisisi",
+            "ch_semantic": "紀念",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "祭典；祭祀；慶祝；儀式",
+                        "example": [
+                            {
+                                "fm_sentence": "noo turupang cu kaisisi ia, neni cu tia kamanʉnga?",
+                                "ch_sentence": "祭祀結束之後要做什麼呢?"
+                            },
+                            {
+                                "fm_sentence": "kaisisia mita Mikongu ia, tamu vina'ʉ, kakangca, Tapucarake mataa tamu nikianara mita.",
+                                "ch_sentence": "我們的米貢祭典祭祀的是小米神"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "siacʉvʉrʉ": {
+        "fm_word": "siacʉvʉrʉ",
+        "新詞中文": "用來養他/它牠的(環境)",
+        "辭典中文": "泛指生活的倚賴",
+        "原始新詞資料": {
+            "fm_word": "siacʉvʉrʉ",
+            "ch_semantic": "用來養他/它牠的(環境)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "cʉvʉrʉ",
+                "sense": [
+                    {
+                        "ch_sense": "泛指生活的倚賴",
+                        "example": [
+                            {
+                                "fm_sentence": "cau masini tamna siacʉvʉrʉ ia, cucuru munasʉ.",
+                                "ch_sentence": "現代人的生活真的很方便。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tingting": {
+        "fm_word": "tingting",
+        "新詞中文": "公斤",
+        "辭典中文": "磅秤；公斤",
+        "原始新詞資料": {
+            "fm_word": "tingting",
+            "ch_semantic": "公斤",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "磅秤；公斤",
+                        "example": [
+                            {
+                                "fm_sentence": "upeen tingting nipu'a musu tammi?",
+                                "ch_sentence": "你買了幾公斤的地瓜?"
+                            },
+                            {
+                                "fm_sentence": "'una na tamia'aa tingting.",
+                                "ch_sentence": "商店有磅秤。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sumakʉna": {
+        "fm_word": "sumakʉna",
+        "新詞中文": "打中",
+        "辭典中文": "擊中；達成",
+        "原始新詞資料": {
+            "fm_word": "sumakʉna",
+            "ch_semantic": "打中",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "擊中；達成",
+                        "example": [
+                            {
+                                "fm_sentence": "akuni tumateteni vatu, sumaakʉna cau, tia 'apusucara'ʉ!",
+                                "ch_sentence": "不要一直丟石頭，打中人家會流血的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ka'icʉpʉn": {
+        "fm_word": "ka'icʉpʉn",
+        "新詞中文": "令人害怕的",
+        "辭典中文": "令人害怕；為(某)所怕",
+        "原始新詞資料": {
+            "fm_word": "ka'icʉpʉn",
+            "ch_semantic": "令人害怕的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "'icʉpʉ-",
+                "sense": [
+                    {
+                        "ch_sense": "令人害怕；為(某)所怕",
+                        "example": [
+                            {
+                                "fm_sentence": "noo ka'anʉ kasu maacaca ia, tia ka'icʉpʉn cau.",
+                                "ch_sentence": "你如果不笑，人家會怕你。"
+                            },
+                            {
+                                "fm_sentence": "ka'icʉpʉn nguain tamna capai.",
+                                "ch_sentence": "他的樣子仙人害怕。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tapasavuana": {
+        "fm_word": "tapasavuana",
+        "新詞中文": "治療的場所",
+        "辭典中文": "醫院",
+        "原始新詞資料": {
+            "fm_word": "tapasavuana",
+            "ch_semantic": "治療的場所",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "醫院",
+                        "example": [
+                            {
+                                "fm_sentence": "te ku mookusa tapasavuana, 'apacʉ'ʉra 'iseeng anisi maku.",
+                                "ch_sentence": "我要去醫院給醫生看我的牙齒。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "siacʉ'ʉra": {
+        "fm_word": "siacʉ'ʉra",
+        "新詞中文": "",
+        "辭典中文": "觀看的工具；用來看的",
+        "原始新詞資料": {
+            "fm_word": "siacʉ'ʉra",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "cʉ'ʉra-",
+                "sense": [
+                    {
+                        "ch_sense": "觀看的工具；用來看的",
+                        "example": [
+                            {
+                                "fm_sentence": "secʉ'ʉra maku, 'esi na Tai-uan tapinange ia, taruasʉ mastaan maningcaau.",
+                                "ch_sentence": "我的看法，台灣的鳥類藍腹鷴最美麗。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "makai": {
+        "fm_word": "makai",
+        "新詞中文": "",
+        "辭典中文": "像；相像；好像；比如",
+        "原始新詞資料": {
+            "fm_word": "makai",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "像；相像；好像；比如",
+                        "example": [
+                            {
+                                "fm_sentence": "makai nimuapacai kasu soni cʉ'ʉrʉʉn.",
+                                "ch_sentence": "你的眼睛很像妳媽媽。"
+                            },
+                            {
+                                "fm_sentence": "makai sua aracakanʉ, noo kacaua cau arakukunuu aracakanʉ ia, sua niaracakanʉa ia, tia 'apatʉtʉanʉn sovungu.",
+                                "ch_sentence": "你今天看起來好像很累。"
+                            },
+                            {
+                                "fm_sentence": "maripariapara cu! sua cʉnʉ ia makai 'esi tia makacapʉʉcapʉ.",
+                                "ch_sentence": "比如狩獵，如果和很多人一起去，獵物要平均分配。"
+                            },
+                            {
+                                "fm_sentence": "makai 'esi tumatuuturu kimia, masakʉna takananga.",
+                                "ch_sentence": "微風起！草好像在拍手。"
+                            },
+                            {
+                                "fm_sentence": "sua isa ia puka, cʉ'ʉraon nguain tamna navungu ia, makai ngiau.",
+                                "ch_sentence": "好像在告訴我們，要愛惜時光。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sipatakici": {
+        "fm_word": "sipatakici",
+        "新詞中文": "",
+        "辭典中文": "印章",
+        "原始新詞資料": {
+            "fm_word": "sipatakici",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "印章",
+                        "example": [
+                            {
+                                "fm_sentence": "tikirimoo pa iku tamna sipatakici, tia avicin kanarua musu.",
+                                "ch_sentence": "我的印章找一下，你弟弟(或妹妹)要帶。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "cuvungu": {
+        "fm_word": "cuvungu",
+        "新詞中文": "",
+        "辭典中文": "連接或聚合之處；也表述南方",
+        "原始新詞資料": {
+            "fm_word": "cuvungu",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "連接或聚合之處；也表述南方",
+                        "example": [
+                            {
+                                "fm_sentence": "Kasanpu ia 'esi na cuvungu cakʉran mita.",
+                                "ch_sentence": "甲仙鄉在我們的南方。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tarapana'a": {
+        "fm_word": "tarapana'a",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "運動場；操場",
+        "原始新詞資料": {
+            "fm_word": "tarapana'a",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "運動場；操場",
+                        "example": [
+                            {
+                                "fm_sentence": "nguani tassa ia, 'esi na tarapana'a,arumuan arapana'ʉ.",
+                                "ch_sentence": "他們兩位在運動場上比賽跑步。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1154 @@
+{
+    "kapatawawan": {
+        "fm_word": "kapatawawan",
+        "新詞中文": "做事情的地方",
+        "辭典中文": "工作（處所）;公司;工廠",
+        "原始新詞資料": {
+            "fm_word": "kapatawawan",
+            "ch_semantic": "做事情的地方",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "patawaw",
+                "sense": [
+                    {
+                        "ch_sense": "工作（處所）;公司;工廠",
+                        "example": [
+                            {
+                                "fm_sentence": "ma'an kapatawawan rengreng maSangay.",
+                                "ch_sentence": "我的工廠常常放假。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kaspengan": {
+        "fm_word": "kaspengan",
+        "新詞中文": "傳統,禮儀",
+        "辭典中文": "文化;習俗",
+        "原始新詞資料": {
+            "fm_word": "kaspengan",
+            "ch_semantic": "傳統,禮儀",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "文化;習俗",
+                        "example": [
+                            {
+                                "fm_sentence": "SaySiyat 'izi' ngowip mita' kaspengan.",
+                                "ch_sentence": "賽夏人不要忘記我們的文化。"
+                            },
+                            {
+                                "fm_sentence": "paSta'ay 'isa:a' noka korkoring kinra:aman kaspengan.",
+                                "ch_sentence": "paSta'ay是現在孩子們知道的習俗。"
+                            },
+                            {
+                                "fm_sentence": "noka SaySiyat 'akoey ka 'ima nonak kaspengan.",
+                                "ch_sentence": "賽夏族有很多獨特的習俗。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "haysani": {
+        "fm_word": "haysani",
+        "新詞中文": "現在",
+        "辭典中文": "現在",
+        "原始新詞資料": {
+            "fm_word": "haysani",
+            "ch_semantic": "現在",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "現在",
+                        "example": [
+                            {
+                                "fm_sentence": "haysani hinpizal ila?",
+                                "ch_sentence": "現在幾點鐘了？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kateSnenan": {
+        "fm_word": "kateSnenan",
+        "新詞中文": "門檻",
+        "辭典中文": "門口",
+        "原始新詞資料": {
+            "fm_word": "kateSnenan",
+            "ch_semantic": "門檻",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "門口",
+                        "example": [
+                            {
+                                "fm_sentence": "'izi' Sa:eng ray kateSnenan!",
+                                "ch_sentence": "不要坐在門口！"
+                            },
+                            {
+                                "fm_sentence": "ha:aw ray kinonkateSnenan ma'an 'inaSkan tatawae'.",
+                                "ch_sentence": "在靠近門口的地方我放了鋤頭。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kakayzaehan": {
+        "fm_word": "kakayzaehan",
+        "新詞中文": "好處",
+        "辭典中文": "好處（平安;健康）",
+        "原始新詞資料": {
+            "fm_word": "kakayzaehan",
+            "ch_semantic": "好處",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kayzaeh",
+                "sense": [
+                    {
+                        "ch_sense": "好處（平安;健康）",
+                        "example": [
+                            {
+                                "fm_sentence": "'oya' komoSa', hini kakayzaehan 'iniSo', 'izi' ngowip!",
+                                "ch_sentence": "媽媽說：這是為你好，不要忘記喔！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "laleke:": {
+        "fm_word": "laleke:",
+        "新詞中文": "手搖(的動作)",
+        "辭典中文": "電話",
+        "原始新詞資料": {
+            "fm_word": "laleke:",
+            "ch_semantic": "手搖(的動作)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "電話",
+                        "example": [
+                            {
+                                "fm_sentence": "kakhayza'an 'oka' ka rayhil ma' 'oka' ka laleke:.",
+                                "ch_sentence": "以前沒有錢也沒有電話。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "sasa'oe'": {
+        "fm_word": "sasa'oe'",
+        "新詞中文": "要送給人的",
+        "辭典中文": "贈送（工具;未來）",
+        "原始新詞資料": {
+            "fm_word": "sasa'oe'",
+            "ch_semantic": "要送給人的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "sa'oe'",
+                "sense": [
+                    {
+                        "ch_sense": "贈送（工具;未來）",
+                        "example": [
+                            {
+                                "fm_sentence": "hini poway sasa'oe' ka tatini'.",
+                                "ch_sentence": "這些棉被是要送給老人的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "to'oya'": {
+        "fm_word": "to'oya'",
+        "新詞中文": "單位",
+        "辭典中文": "政府",
+        "原始新詞資料": {
+            "fm_word": "to'oya'",
+            "ch_semantic": "單位",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "政府",
+                        "example": [
+                            {
+                                "fm_sentence": "haysani hayza' ila ka to'oya' mam malahang ka SinSinrahoe'.",
+                                "ch_sentence": "現在有原民會（政府）在照顧各族群。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pinama'": {
+        "fm_word": "pinama'",
+        "新詞中文": "所背負的",
+        "辭典中文": "背（受事;完成）",
+        "原始新詞資料": {
+            "fm_word": "pinama'",
+            "ch_semantic": "所背負的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "pama'",
+                "sense": [
+                    {
+                        "ch_sense": "背（受事;完成）",
+                        "example": [
+                            {
+                                "fm_sentence": "niSo' kano' pinama'?",
+                                "ch_sentence": "你背什麼？"
+                            },
+                            {
+                                "fm_sentence": "hini korkoring pinama' haysiya ila nanaw, kayni' tae'aesen!",
+                                "ch_sentence": "這個小孩背著就不肯下來了!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kamasempeng": {
+        "fm_word": "kamasempeng",
+        "新詞中文": "衡量的人",
+        "辭典中文": "裁判",
+        "原始新詞資料": {
+            "fm_word": "kamasempeng",
+            "ch_semantic": "衡量的人",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "sempeng",
+                "sense": [
+                    {
+                        "ch_sense": "裁判",
+                        "example": [
+                            {
+                                "fm_sentence": "siya kamasempeng ka 'a'inola' noka malnoSaySiyat.",
+                                "ch_sentence": "他是賽夏語比賽裁判。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pawhi:il": {
+        "fm_word": "pawhi:il",
+        "新詞中文": "挑選",
+        "辭典中文": "挑選",
+        "原始新詞資料": {
+            "fm_word": "pawhi:il",
+            "ch_semantic": "挑選",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "挑選",
+                        "example": [
+                            {
+                                "fm_sentence": "pawhi:il ka 'ima 'as'asay ka boway!",
+                                "ch_sentence": "挑選成熟的水果！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kahawayan": {
+        "fm_word": "kahawayan",
+        "新詞中文": "沒有詞義的",
+        "辭典中文": "旋律;曲調",
+        "原始新詞資料": {
+            "fm_word": "kahawayan",
+            "ch_semantic": "沒有詞義的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "旋律;曲調",
+                        "example": [
+                            {
+                                "fm_sentence": "kiSba:o' kahawayan hingha' saboeh.",
+                                "ch_sentence": "賽夏古調的旋律都一樣。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "some'sez": {
+        "fm_word": "some'sez",
+        "新詞中文": "既有詞",
+        "辭典中文": "便秘",
+        "原始新詞資料": {
+            "fm_word": "some'sez",
+            "ch_semantic": "既有詞",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "se'sez",
+                "sense": [
+                    {
+                        "ch_sense": "便秘",
+                        "example": [
+                            {
+                                "fm_sentence": "hayza' komoSa' 'izi' San'akoey ka lapowar, some'sez Sa'.",
+                                "ch_sentence": "聽說不要吃太多芭樂，會便秘。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ramo'": {
+        "fm_word": "ramo'",
+        "新詞中文": "血液",
+        "辭典中文": "血",
+        "原始新詞資料": {
+            "fm_word": "ramo'",
+            "ch_semantic": "血液",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "血",
+                        "example": [
+                            {
+                                "fm_sentence": "ngangoe:oe' niSo' ramo' lomowang ila.",
+                                "ch_sentence": "流鼻血你的血流出來了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kaka:at": {
+        "fm_word": "kaka:at",
+        "新詞中文": "",
+        "辭典中文": "筆;寫的工具",
+        "原始新詞資料": {
+            "fm_word": "kaka:at",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "ka:at",
+                "sense": [
+                    {
+                        "ch_sense": "筆;寫的工具",
+                        "example": [
+                            {
+                                "fm_sentence": "hini kaka:at 'aewhay ila Sika:at.",
+                                "ch_sentence": "這支筆不好寫了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ka'intani'an": {
+        "fm_word": "ka'intani'an",
+        "新詞中文": "",
+        "辭典中文": "停靠站",
+        "原始新詞資料": {
+            "fm_word": "ka'intani'an",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "'intani'",
+                "sense": [
+                    {
+                        "ch_sense": "停靠站",
+                        "example": [
+                            {
+                                "fm_sentence": "hani hayno' ka'intani'an ka baSe'?",
+                                "ch_sentence": "這兒的公車站在哪？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kakato:an": {
+        "fm_word": "kakato:an",
+        "新詞中文": "",
+        "辭典中文": "剪（處所）",
+        "原始新詞資料": {
+            "fm_word": "kakato:an",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kato:",
+                "sense": [
+                    {
+                        "ch_sense": "剪（處所）",
+                        "example": [
+                            {
+                                "fm_sentence": "kakato:an papayrini 'izi' pak'inaro'.",
+                                "ch_sentence": "要剪的地方到這裡就好不要太長。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "paSankinolol": {
+        "fm_word": "paSankinolol",
+        "新詞中文": "",
+        "辭典中文": "掃墓",
+        "原始新詞資料": {
+            "fm_word": "paSankinolol",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kolol",
+                "sense": [
+                    {
+                        "ch_sense": "掃墓",
+                        "example": [
+                            {
+                                "fm_sentence": "yami 'aehae' taew'an 'am rima' saboeh paSankinolol.",
+                                "ch_sentence": "我們一家人都要去掃墓。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pakSekla'": {
+        "fm_word": "pakSekla'",
+        "新詞中文": "",
+        "辭典中文": "使認識(使動)",
+        "原始新詞資料": {
+            "fm_word": "pakSekla'",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "Sekla'",
+                "sense": [
+                    {
+                        "ch_sense": "使認識(使動)",
+                        "example": [
+                            {
+                                "fm_sentence": "lasiya roSa' 'okik Sekla' 'insa'an pakSekla' hi lasiya",
+                                "ch_sentence": "他們兩個不認識，等一下介紹讓他們認識。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kawaS": {
+        "fm_word": "kawaS",
+        "新詞中文": "",
+        "辭典中文": "天氣 / 天空",
+        "原始新詞資料": {
+            "fm_word": "kawaS",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "天氣",
+                        "example": [
+                            {
+                                "fm_sentence": "haysani kawaS tilka:an.",
+                                "ch_sentence": "天氣很好。"
+                            },
+                            {
+                                "fm_sentence": "homomom ka kawaS, 'iya'inoral ila!",
+                                "ch_sentence": "天灰暗好像要下雨了！"
+                            },
+                            {
+                                "fm_sentence": "yako kayzaeh ka hin'az'azem kawaS kita'en ma' tilka:an.",
+                                "ch_sentence": "因為天氣很好，所以我的心情也很好。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "天空",
+                        "example": [
+                            {
+                                "fm_sentence": "ray kawaS ka homom 'inak'ino'an?",
+                                "ch_sentence": "天上的雲是什麼樣子的？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "masa'": {
+        "fm_word": "masa'",
+        "新詞中文": "",
+        "辭典中文": "眼睛",
+        "原始新詞資料": {
+            "fm_word": "masa'",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "眼睛",
+                        "example": [
+                            {
+                                "fm_sentence": "ni 'oya' masa' kin kayzaeh kita'en.",
+                                "ch_sentence": "媽媽的眼睛很好看。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "'abo'": {
+        "fm_word": "'abo'",
+        "新詞中文": "",
+        "辭典中文": "灰 / 內部",
+        "原始新詞資料": {
+            "fm_word": "'abo'",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sub_id": "1",
+                "sense": [
+                    {
+                        "ch_sense": "灰",
+                        "example": [
+                            {
+                                "fm_sentence": "'aewpir hebengen ray 'abo' 'ima rikrika: makSa' ma' 'am 'as'asay ila.",
+                                "ch_sentence": "地瓜放在熱熱的灰裡馬上就熟了。"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "2",
+                "sense": [
+                    {
+                        "ch_sense": "內部",
+                        "example": [
+                            {
+                                "fm_sentence": "nimon taew'an 'abo' rikrika: ay?",
+                                "ch_sentence": "你們家裡面會熱嗎？"
+                            },
+                            {
+                                "fm_sentence": "ma'an ka tatawae' ha:aw 'abo' 'inaSkan.",
+                                "ch_sentence": "我把鋤頭放在裡面。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "saso:oz": {
+        "fm_word": "saso:oz",
+        "新詞中文": "",
+        "辭典中文": "柴火",
+        "原始新詞資料": {
+            "fm_word": "saso:oz",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "so:oz",
+                "sense": [
+                    {
+                        "ch_sense": "柴火",
+                        "example": [
+                            {
+                                "fm_sentence": "'oya' ma'an Silaehae: ka kaehoy 'isa:a' hayza' ila ka saso:oz ka hapoy.",
+                                "ch_sentence": "我幫媽媽劈柴就有了柴火燒。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "batbato'an": {
+        "fm_word": "batbato'an",
+        "新詞中文": "",
+        "辭典中文": "到處都是石頭的地方 / 二坪（南庄鱒魚場附近）",
+        "原始新詞資料": {
+            "fm_word": "batbato'an",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "bato'",
+                "sense": [
+                    {
+                        "ch_sense": "到處都是石頭的地方",
+                        "example": [
+                            {
+                                "fm_sentence": "hini 'oemaeh batbato'an 'oka' ka 'ima mowahil.",
+                                "ch_sentence": "這塊地到處都是石頭沒有寬敞的地方。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "二坪（南庄鱒魚場附近）",
+                        "example": [
+                            {
+                                "fm_sentence": "ray batbato'an ka minrakeS 'ima rowaSek rini.",
+                                "ch_sentence": "章家人住在二坪。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "SamSama:an": {
+        "fm_word": "SamSama:an",
+        "新詞中文": "",
+        "辭典中文": "上大隘（地名）",
+        "原始新詞資料": {
+            "fm_word": "SamSama:an",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "Sama:",
+                "sense": [
+                    {
+                        "ch_sense": "上大隘（地名）",
+                        "example": [
+                            {
+                                "fm_sentence": "kakhayza'an ma'an taew'an ray SamSama:an.",
+                                "ch_sentence": "以前我的家在上大隘。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "horok": {
+        "fm_word": "horok",
+        "新詞中文": "",
+        "辭典中文": "平原",
+        "原始新詞資料": {
+            "fm_word": "horok",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "平原",
+                        "example": [
+                            {
+                                "fm_sentence": "horok kayzaeh katal'oemaehen.",
+                                "ch_sentence": "平原比較好整地。"
+                            },
+                            {
+                                "fm_sentence": "'ita' SaySiyat haba:an ila ray horok.",
+                                "ch_sentence": "住在平原的賽夏漸漸多了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Sanrater": {
+        "fm_word": "Sanrater",
+        "新詞中文": "",
+        "辭典中文": "什麼都吃（不挑食）",
+        "原始新詞資料": {
+            "fm_word": "Sanrater",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "什麼都吃（不挑食）",
+                        "example": [
+                            {
+                                "fm_sentence": "korkoring Sanrater kayzaeh kakalahangen.",
+                                "ch_sentence": "小孩什麼都吃好照顧。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "siyak": {
+        "fm_word": "siyak",
+        "新詞中文": "",
+        "辭典中文": "錫製",
+        "原始新詞資料": {
+            "fm_word": "siyak",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "錫製",
+                        "example": [
+                            {
+                                "fm_sentence": "noka siyak 'aSkan ka 'inazip sitaew.",
+                                "ch_sentence": "用錫製裝削好的蘿蔔。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "bato'": {
+        "fm_word": "bato'",
+        "新詞中文": "",
+        "辭典中文": "石頭",
+        "原始新詞資料": {
+            "fm_word": "bato'",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "石頭",
+                        "example": [
+                            {
+                                "fm_sentence": "hiza bato' 'am Saehae' ila.",
+                                "ch_sentence": "那個石頭要掉下來了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "rangi'": {
+        "fm_word": "rangi'",
+        "新詞中文": "",
+        "辭典中文": "義子與義父相互稱謂 / 財產;東西;財物之意",
+        "原始新詞資料": {
+            "fm_word": "rangi'",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "義子與義父相互稱謂",
+                        "example": [
+                            {
+                                "fm_sentence": "ma'an rangi' Say ray'in.",
+                                "ch_sentence": "我的義子是蓬萊人。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "財產;東西;財物之意",
+                        "example": [
+                            {
+                                "fm_sentence": "",
+                                "ch_sentence": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kaka:atan": {
+        "fm_word": "kaka:atan",
+        "新詞中文": "",
+        "辭典中文": "寫(處所)",
+        "原始新詞資料": {
+            "fm_word": "kaka:atan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "ka:at",
+                "sense": [
+                    {
+                        "ch_sense": "寫(處所)",
+                        "example": [
+                            {
+                                "fm_sentence": "hayno' kaka:atan ka raro:o'?",
+                                "ch_sentence": "哪邊要寫名字？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "mama'": {
+        "fm_word": "mama'",
+        "新詞中文": "",
+        "辭典中文": "叔叔",
+        "原始新詞資料": {
+            "fm_word": "mama'",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "叔叔",
+                        "example": [
+                            {
+                                "fm_sentence": "mama' kin minremreme', 'am 'ila'ino'?",
+                                "ch_sentence": "叔叔很早，要去哪裡？"
+                            },
+                            {
+                                "fm_sentence": "ni yaba' 'aehael kamamanra:an koSa'en mama'.",
+                                "ch_sentence": "爸爸的兄弟叫叔叔(伯伯)。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kamamiyalawa'": {
+        "fm_word": "kamamiyalawa'",
+        "新詞中文": "",
+        "辭典中文": "看守的人",
+        "原始新詞資料": {
+            "fm_word": "kamamiyalawa'",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "看守的人",
+                        "example": [
+                            {
+                                "fm_sentence": "yaba' kamamiyalawa' ka 'ima 'aewhay mae'iyaeh binotoe'.",
+                                "ch_sentence": "爸爸是看守犯人的人。"
+                            },
+                            {
+                                "fm_sentence": "nisiya mama' kamamiylawa' ka hini 'asang.",
+                                "ch_sentence": "她的叔叔是這村的村長。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "ka:Seb": {
+        "fm_word": "ka:Seb",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "屋簷",
+        "原始新詞資料": {
+            "fm_word": "ka:Seb",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "屋簷",
+                        "example": [
+                            {
+                                "fm_sentence": "lasiya ray ka:Seb milkashaw.",
+                                "ch_sentence": "他們在屋簷下喝茶。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kasi'aelan": {
+        "fm_word": "kasi'aelan",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "吃飯的地方;餐廳",
+        "原始新詞資料": {
+            "fm_word": "kasi'aelan",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "si'ael",
+                "sense": [
+                    {
+                        "ch_sense": "吃飯的地方;餐廳",
+                        "example": [
+                            {
+                                "fm_sentence": "kasi'aelan hini ray katalekan.",
+                                "ch_sentence": "吃飯的地方在這廚房。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kapatawawen": {
+        "fm_word": "kapatawawen",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "工作（受事;未來）",
+        "原始新詞資料": {
+            "fm_word": "kapatawawen",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "patawaw",
+                "sense": [
+                    {
+                        "ch_sense": "工作（受事;未來）",
+                        "example": [
+                            {
+                                "fm_sentence": "ma'an kapatawawen 'akoey.",
+                                "ch_sentence": "我的工作很多。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kapaSkira:a'": {
+        "fm_word": "kapaSkira:a'",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "印章",
+        "原始新詞資料": {
+            "fm_word": "kapaSkira:a'",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "paSkira:a'",
+                "sense": [
+                    {
+                        "ch_sense": "印章",
+                        "example": [
+                            {
+                                "fm_sentence": "kapaSkira:a' ma'an Si'onhae:ae' ila.",
+                                "ch_sentence": "我的印章掉了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kira:a'": {
+        "fm_word": "kira:a'",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "做記號",
+        "原始新詞資料": {
+            "fm_word": "kira:a'",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "做記號",
+                        "example": [
+                            {
+                                "fm_sentence": "kira:a' ray kaehoy kaSekla'an kaklobihan.",
+                                "ch_sentence": "做記號在樹上才知道回去的路。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pakaS'abo'": {
+        "fm_word": "pakaS'abo'",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "進來（使動）",
+        "原始新詞資料": {
+            "fm_word": "pakaS'abo'",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kaS'abo'",
+                "sense": [
+                    {
+                        "ch_sense": "進來（使動）",
+                        "example": [
+                            {
+                                "fm_sentence": "'izi' pakaS'abo' ka 'aehoe'!",
+                                "ch_sentence": "不要讓狗進來！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "bowaw": {
+        "fm_word": "bowaw",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "遷移",
+        "原始新詞資料": {
+            "fm_word": "bowaw",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "遷移",
+                        "example": [
+                            {
+                                "fm_sentence": "yako bowaw ila kilapa:.",
+                                "ch_sentence": "我遷往五峰了。"
+                            },
+                            {
+                                "fm_sentence": "haysani 'ita' Sihola' ila ka 'oemaeh 'isa:a' 'oka' ila i bowaw.",
+                                "ch_sentence": "現在我們被給予（測量）土地就不再遷移了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "hinbasezan": {
+        "fm_word": "hinbasezan",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "出生地",
+        "原始新詞資料": {
+            "fm_word": "hinbasezan",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "basez",
+                "sense": [
+                    {
+                        "ch_sense": "出生地",
+                        "example": [
+                            {
+                                "fm_sentence": "ma'an hinbasezan ray kilapa:, haysani ya:o ha:aw wahoer 'am matawaw.",
+                                "ch_sentence": "我在五峰出生，現在在外面工作。"
+                            }
+                        ]
+                    }
+                ],
+                "相關詞": {
+                    "其它": [
+                        "temne'"
+                    ]
+                }
+            }
+        ]
+    },
+    "'a'olo'": {
+        "fm_word": "'a'olo'",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "收養",
+        "原始新詞資料": {
+            "fm_word": "'a'olo'",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "收養",
+                        "example": [
+                            {
+                                "fm_sentence": "yami 'okay 'a'olo' hini ka korkoring.",
+                                "ch_sentence": "我們沒有收養這個小孩。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

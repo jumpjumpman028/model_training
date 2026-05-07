@@ -1,0 +1,716 @@
+{
+    "yawan": {
+        "fm_word": "yawan",
+        "新詞中文": "頭目",
+        "辭典中文": "頭目",
+        "原始新詞資料": {
+            "fm_word": "yawan",
+            "ch_semantic": "頭目",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "頭目",
+                        "example": [
+                            {
+                                "fm_sentence": "naniyam yawan i Pinadray.",
+                                "ch_sentence": "Pinadray(男)是我們的頭目。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pananauwan": {
+        "fm_word": "pananauwan",
+        "新詞中文": "展覽",
+        "辭典中文": "要給……看",
+        "原始新詞資料": {
+            "fm_word": "pananauwan",
+            "ch_semantic": "展覽",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "nau",
+                "sense": [
+                    {
+                        "ch_sense": "要給……看",
+                        "example": [
+                            {
+                                "fm_sentence": "nu siritraw nu tatililran. a manay nu pananauwan kana sinsi?",
+                                "ch_sentence": "你把作業簿撕掉，要拿什麼給老師看？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pakalradram": {
+        "fm_word": "pakalradram",
+        "新詞中文": "使通知",
+        "辭典中文": "通知",
+        "原始新詞資料": {
+            "fm_word": "pakalradram",
+            "ch_semantic": "使通知",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "-lradram",
+                "sense": [
+                    {
+                        "ch_sense": "通知",
+                        "example": [
+                            {
+                                "fm_sentence": "a pakalradram ku kanu drata kararadrukan andaman.",
+                                "ch_sentence": "我是來通知你，明天我們將要聚會的事。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "miyarana": {
+        "fm_word": "miyarana",
+        "新詞中文": "生鏽了",
+        "辭典中文": "生鏽",
+        "原始新詞資料": {
+            "fm_word": "miyarana",
+            "ch_semantic": "生鏽了",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "rana",
+                "sense": [
+                    {
+                        "ch_sense": "生鏽",
+                        "example": [
+                            {
+                                "fm_sentence": "miyarana tu mutralatralaw kana alreban. pakirebi semulrud！",
+                                "ch_sentence": "大門的輪子生鏽了，用力推！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "miabak": {
+        "fm_word": "miabak",
+        "新詞中文": "(物的生產)有裝",
+        "辭典中文": "裝了 / 懷孕",
+        "原始新詞資料": {
+            "fm_word": "miabak",
+            "ch_semantic": "(物的生產)有裝",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "mabak",
+                "sense": [
+                    {
+                        "ch_sense": "裝了",
+                        "example": [
+                            {
+                                "fm_sentence": "miabak dra sadru dra tilin ku kabang.",
+                                "ch_sentence": "我的書包裝了很多書。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "懷孕",
+                        "example": [
+                            {
+                                "fm_sentence": "miabak lra i baetaw na babayan. salaw semangal tu nirumaenan.",
+                                "ch_sentence": "他的姊姊懷孕了, 他的家人很高興。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pinakalrangan": {
+        "fm_word": "pinakalrangan",
+        "新詞中文": "所走過的; 所經過的",
+        "辭典中文": "所作所為 / 足跡",
+        "原始新詞資料": {
+            "fm_word": "pinakalrangan",
+            "ch_semantic": "所走過的; 所經過的",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "kalrang",
+                "sense": [
+                    {
+                        "ch_sense": "所作所為",
+                        "example": [
+                            {
+                                "fm_sentence": "nu pinakalrangan na kuwatis i, asalru!",
+                                "ch_sentence": "你不良的行為去改掉！"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "足跡",
+                        "example": [
+                            {
+                                "fm_sentence": "ta kurenangay tu pinakalrangan dra tumuwamuwan.",
+                                "ch_sentence": "我們要學習先人的經驗智慧。字面意：我們要跟著先人的足跡。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "relreng": {
+        "fm_word": "relreng",
+        "新詞中文": "責任",
+        "辭典中文": "責任",
+        "原始新詞資料": {
+            "fm_word": "relreng",
+            "ch_semantic": "責任",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "責任",
+                        "example": [
+                            {
+                                "fm_sentence": "relreng kema ta drata nirangeran.",
+                                "ch_sentence": "所謂責任就是自己的心志。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "saliyusan": {
+        "fm_word": "saliyusan",
+        "新詞中文": "一週",
+        "辭典中文": "一週",
+        "原始新詞資料": {
+            "fm_word": "saliyusan",
+            "ch_semantic": "一週",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "liyus",
+                "sense": [
+                    {
+                        "ch_sense": "一週",
+                        "example": [
+                            {
+                                "fm_sentence": "“munuma wariyan an saliyusan? “pituwa wariyan.",
+                                "ch_sentence": "「一週有幾天呢？」「七天。」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "meniwan": {
+        "fm_word": "meniwan",
+        "新詞中文": "(指可買賣的)",
+        "辭典中文": "販賣",
+        "原始新詞資料": {
+            "fm_word": "meniwan",
+            "ch_semantic": "(指可買賣的)",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "niwan",
+                "sense": [
+                    {
+                        "ch_sense": "販賣",
+                        "example": [
+                            {
+                                "fm_sentence": "meniwan ku dra buaw.",
+                                "ch_sentence": "我販賣了樹豆。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "katalrimayan": {
+        "fm_word": "katalrimayan",
+        "新詞中文": "要信任",
+        "辭典中文": "要依靠的",
+        "原始新詞資料": {
+            "fm_word": "katalrimayan",
+            "ch_semantic": "要信任",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "talrima",
+                "sense": [
+                    {
+                        "ch_sense": "要依靠的",
+                        "example": [
+                            {
+                                "fm_sentence": "an adri yu pakutrekutr muka melibuna i, i manay nu katalrimayan?",
+                                "ch_sentence": "如果你不努力賺錢，你又要依靠誰呢？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "misawi": {
+        "fm_word": "misawi",
+        "新詞中文": "有瑕疵",
+        "辭典中文": "瑕疵缺陷",
+        "原始新詞資料": {
+            "fm_word": "misawi",
+            "ch_semantic": "有瑕疵",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "-sawi",
+                "sense": [
+                    {
+                        "ch_sense": "瑕疵缺陷",
+                        "example": [
+                            {
+                                "fm_sentence": "bulay idri na gulrigulriyan. ku paseketay menau i, a misawi.",
+                                "ch_sentence": "這個甕很精緻，仔細看是個瑕疵品。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "paisingan": {
+        "fm_word": "paisingan",
+        "新詞中文": "看病的地方",
+        "辭典中文": "使…看病(命令)",
+        "原始新詞資料": {
+            "fm_word": "paisingan",
+            "ch_semantic": "看病的地方",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "ising",
+                "sense": [
+                    {
+                        "ch_sense": "使…看病(命令)",
+                        "example": [
+                            {
+                                "fm_sentence": "bias tu dradrek kanu wadi na babayan. uwa driya paisingan!",
+                                "ch_sentence": "你妹妹發燒，帶她去看病！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "puwatremel": {
+        "fm_word": "puwatremel",
+        "新詞中文": "藥",
+        "辭典中文": "藥",
+        "原始新詞資料": {
+            "fm_word": "puwatremel",
+            "ch_semantic": "藥",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "putremel",
+                "sense": [
+                    {
+                        "ch_sense": "藥",
+                        "example": [
+                            {
+                                "fm_sentence": "patrekeli dra puwatremel nu wadi na mainayan!",
+                                "ch_sentence": "給弟弟吃藥！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "buutay": {
+        "fm_word": "buutay",
+        "新詞中文": "",
+        "辭典中文": "阻止",
+        "原始新詞資料": {
+            "fm_word": "buutay",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "buut",
+                "sense": [
+                    {
+                        "ch_sense": "阻止",
+                        "example": [
+                            {
+                                "fm_sentence": "tu buutay ku kan nanalri.",
+                                "ch_sentence": "我媽媽阻止我去。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "tatililran": {
+        "fm_word": "tatililran",
+        "新詞中文": "",
+        "辭典中文": "要寫的功課 / 作業簿",
+        "原始新詞資料": {
+            "fm_word": "tatililran",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "tililr",
+                "sense": [
+                    {
+                        "ch_sense": "要寫的功課",
+                        "example": [
+                            {
+                                "fm_sentence": "sadru ku tatililran. adri ku kuwarenang kanmu muka menauwa dra iga.",
+                                "ch_sentence": "我有很多功課要寫，我不跟你們去看電影了。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "作業簿",
+                        "example": [
+                            {
+                                "fm_sentence": "nu berayanay lra kana sinsi nu tatililran?",
+                                "ch_sentence": "你的作業簿交給老師了嗎？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pabilung": {
+        "fm_word": "pabilung",
+        "新詞中文": "",
+        "辭典中文": "春節；過年",
+        "原始新詞資料": {
+            "fm_word": "pabilung",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "春節；過年",
+                        "example": [
+                            {
+                                "fm_sentence": "an pabilung i, muruma ku wawadiyan peniya.",
+                                "ch_sentence": "春節時，我的兄弟姊妹全都回來了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "berayay": {
+        "fm_word": "berayay",
+        "新詞中文": "",
+        "辭典中文": "給了",
+        "原始新詞資料": {
+            "fm_word": "berayay",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "beray",
+                "sense": [
+                    {
+                        "ch_sense": "給了",
+                        "example": [
+                            {
+                                "fm_sentence": "ku berayay dra saima dratu kararuwayan mekan.",
+                                "ch_sentence": "我已經給了他一點點夠他吃的量。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kapakesangan": {
+        "fm_word": "kapakesangan",
+        "新詞中文": "",
+        "辭典中文": "端午節",
+        "原始新詞資料": {
+            "fm_word": "kapakesangan",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "reference": "pakesang",
+                "sense": [
+                    {
+                        "ch_sense": "端午節",
+                        "example": [
+                            {
+                                "fm_sentence": "kalralruwatr bulan kana Pairang i, a kapakesangan.",
+                                "ch_sentence": "農曆五月時有端午節。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "timera": {
+        "fm_word": "timera",
+        "新詞中文": "",
+        "辭典中文": "子彈",
+        "原始新詞資料": {
+            "fm_word": "timera",
+            "ch_semantic": "",
+            "dialect": []
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "子彈",
+                        "example": [
+                            {
+                                "fm_sentence": "kiyandangan a timera.",
+                                "ch_sentence": "子彈是危險的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "padrayadrayaran": {
+        "fm_word": "padrayadrayaran",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "要討論； 要協商",
+        "原始新詞資料": {
+            "fm_word": "padrayadrayaran",
+            "dialect": "南王"
+        },
+        "原始辭典資料": [
+            {
+                "reference": "-drayar",
+                "sense": [
+                    {
+                        "ch_sense": "要討論； 要協商",
+                        "example": [
+                            {
+                                "fm_sentence": "ulraya ta bangabangan a padrayadrayaran i, adriadri ta demaulr dra kinubabay dra kinumainay.",
+                                "ch_sentence": "如果家有重要的事要談，我們一定要請女方和男方的親戚來。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "renarenadran": {
+        "fm_word": "renarenadran",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "運動場",
+        "原始新詞資料": {
+            "fm_word": "renarenadran",
+            "dialect": "南王"
+        },
+        "原始辭典資料": [
+            {
+                "reference": "renadran",
+                "sense": [
+                    {
+                        "ch_sense": "運動場",
+                        "example": [
+                            {
+                                "fm_sentence": "uniyan dra renarenadran na takasian i Puyuma.",
+                                "ch_sentence": "Puyuma(部落名)的學校沒有運動場。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "baybay": {
+        "fm_word": "baybay",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "晾 / 屋簷；走廊",
+        "原始新詞資料": {
+            "fm_word": "baybay",
+            "dialect": "南王"
+        },
+        "原始辭典資料": [
+            {
+                "sub_id": "1",
+                "sense": [
+                    {
+                        "ch_sense": "晾",
+                        "example": [
+                            {
+                                "fm_sentence": "uwa baybay dra kiruwaruwan!",
+                                "ch_sentence": "去晾衣物！"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sub_id": "2",
+                "sense": [
+                    {
+                        "ch_sense": "屋簷；走廊",
+                        "example": [
+                            {
+                                "fm_sentence": "maaudalr. kaita kurebalriya i baybay.",
+                                "ch_sentence": "下雨了，我們一起到屋簷下躲雨。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "palalidringan": {
+        "fm_word": "palalidringan",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "牛車庫；車庫 / 要搬運的",
+        "原始新詞資料": {
+            "fm_word": "palalidringan",
+            "dialect": "南王"
+        },
+        "原始辭典資料": [
+            {
+                "reference": "palidring",
+                "sense": [
+                    {
+                        "ch_sense": "牛車庫；車庫",
+                        "example": [
+                            {
+                                "fm_sentence": "na mikakipa driya i, ulraya tu palalidringan.",
+                                "ch_sentence": "凡是有牛車的都有牛車庫。"
+                            }
+                        ]
+                    },
+                    {
+                        "ch_sense": "要搬運的",
+                        "example": [
+                            {
+                                "fm_sentence": "a palalidringan na sielas na muudung driya.",
+                                "ch_sentence": "凡是一堆一堆的小石子是要搬運的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "baawaw": {
+        "fm_word": "baawaw",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "帶大；扶養",
+        "原始新詞資料": {
+            "fm_word": "baawaw",
+            "dialect": "南王"
+        },
+        "原始辭典資料": [
+            {
+                "reference": "baaw",
+                "sense": [
+                    {
+                        "ch_sense": "帶大；扶養",
+                        "example": [
+                            {
+                                "fm_sentence": "kinamakitengan i, tu baawaw ku kana mulri.",
+                                "ch_sentence": "從小由祖父母把我帶大的。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "itrul": {
+        "fm_word": "itrul",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "擦",
+        "原始新詞資料": {
+            "fm_word": "itrul",
+            "dialect": "南王"
+        },
+        "原始辭典資料": [
+            {
+                "sense": [
+                    {
+                        "ch_sense": "擦",
+                        "example": [
+                            {
+                                "fm_sentence": "uwa itrul dra papadraran dra miyakitral.",
+                                "ch_sentence": "去擦髒桌子。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "kiyaputremelan": {
+        "fm_word": "kiyaputremelan",
+        "新詞中文": "找不到中文欄位",
+        "辭典中文": "醫院",
+        "原始新詞資料": {
+            "fm_word": "kiyaputremelan",
+            "dialect": "南王"
+        },
+        "原始辭典資料": [
+            {
+                "reference": "putremel",
+                "sense": [
+                    {
+                        "ch_sense": "醫院",
+                        "example": [
+                            {
+                                "fm_sentence": "isuwa na kiyaputremalan mu aukayan?",
+                                "ch_sentence": "你們要到哪一家醫院？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
